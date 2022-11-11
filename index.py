@@ -139,7 +139,7 @@ def prepareDemographic(df):
 
 
 def prepareExperience(df):
-    header = ("ExpId", "YearsAtCompany", "YearsOfEXperience",
+    header = ("ExpId", "YearsAtCompany", "YearsOfExperience",
               "Education")
 
     book = Workbook()
