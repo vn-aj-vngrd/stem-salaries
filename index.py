@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 def prepareLocation(df):
-    header = ("Location", "Country", "City", "State")
+    header = ("Location", "Country", "CityId", "City", "State", "DMAId")
 
     book = Workbook()
     sheet = book.active
@@ -16,8 +16,10 @@ def prepareLocation(df):
         if (row[5] not in keys):
             location = row[5]
             country = ""
+            cityId = row[14]
             city = ""
             state = ""
+            dmaId = row[15]
 
             # Country
             if (location.count(",") == 1):
@@ -39,8 +41,10 @@ def prepareLocation(df):
             data = (
                 location,
                 country,
+                cityId,
                 city,
-                state
+                state,
+                dmaId,
             )
 
             keys.append(row[5])
@@ -150,11 +154,8 @@ def prepareExperience(df):
     for index, row in df.iterrows():
         yearsAtCompany = round(row[7])
         yearsOfExperience = round(row[6])
-        education = row[28]
-
-        if (pd.isna(education)):
-            education = random.choice(
-                ["PhD", "Master's Degree", "Bachelor's Degree", "Some College", "Highschool"])
+        education = random.choice(
+            ["PhD", "Master's Degree", "Bachelor's Degree", "Some College", "Highschool"]) if pd.isna(row[28]) else str(row[28])
 
         expId = education.replace(" ", "").strip(
         ) + str(yearsAtCompany) + str(yearsOfExperience)
@@ -214,6 +215,57 @@ def prepareTime(df):
     print("Done")
 
 
+def prepareSalary(df):
+    header = ("CompanyKey", "JobKey", "DemoKey", "ExpKey", "TimeKey",
+              "BaseSalary", "TotalYearlyCompensation", "Bonus")
+
+    book = Workbook()
+    sheet = book.active
+    sheet.append(header)
+
+    keys = []
+    for index, row in df.iterrows():
+        companyKey = row[1]
+        jobKey = str(row[3]).replace(
+            " ", "").strip() + str(row[2]).replace(" ", "").strip()
+
+        race = "White" if pd.isna(row[27]) else str(row[27])
+        gender = random.choice(["Male", "Female"]) if pd.isna(
+            row[12]) or row[12] == "Title: Senior Software Engineer" else str(row[12])
+        demoKey = race.replace(" ", "").strip() + gender
+
+        yearsAtCompany = round(row[7])
+        yearsOfExperience = round(row[6])
+        education = random.choice(
+            ["PhD", "Master's Degree", "Bachelor's Degree", "Some College", "Highschool"]) if pd.isna(row[28]) else str(row[28])
+        expKey = education.replace(" ", "").strip(
+        ) + str(yearsAtCompany) + str(yearsOfExperience)
+
+        timeKey = datetime.strptime(
+            row[0], '%m/%d/%Y %H:%M:%S').date()
+
+        baseSalary = row[9]
+        totalYearlyCompensation = row[4]
+        bonus = row[11]
+
+        data = (
+            companyKey,
+            jobKey,
+            demoKey,
+            expKey,
+            timeKey,
+            baseSalary,
+            totalYearlyCompensation,
+            bonus,
+        )
+
+        print(data)
+        sheet.append(data)
+
+    book.save("data/salary.xlsx")
+    print("Done")
+
+
 def main():
 
     df = pd.read_csv("source/source_data.csv", index_col=None)
@@ -224,6 +276,7 @@ def main():
     prepareDemographic(df)
     prepareExperience(df)
     prepareTime(df)
+    prepareSalary(df)
 
 
 main()
