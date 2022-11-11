@@ -5,7 +5,8 @@ from datetime import datetime
 
 
 def prepareLocation(df):
-    header = ("Location", "Country", "CityId", "City", "State", "DMAId")
+    header = ("CompanyKey", "Location", "Country",
+              "CityId", "City", "State", "DMAId")
 
     book = Workbook()
     sheet = book.active
@@ -14,6 +15,7 @@ def prepareLocation(df):
     keys = []
     for index, row in df.iterrows():
         if (row[5] not in keys):
+            companyKey = str(row[1]).upper()
             location = row[5]
             country = ""
             cityId = row[14]
@@ -39,6 +41,7 @@ def prepareLocation(df):
                 state = temp[1].strip()
 
             data = (
+                companyKey,
                 location,
                 country,
                 cityId,
@@ -56,7 +59,7 @@ def prepareLocation(df):
 
 
 def prepareCompany(df):
-    header = ("CompanyName", "LocationKey")
+    header = ("CompanyName", )
 
     book = Workbook()
     sheet = book.active
@@ -64,16 +67,14 @@ def prepareCompany(df):
 
     keys = []
     for index, row in df.iterrows():
-        if (row[1] not in keys):
-            company = row[1]
-            location = row[5]
+        if (str(row[1]).upper() not in keys):
+            companyName = str(row[1]).upper()
 
             data = (
-                company,
-                location,
+                companyName,
             )
 
-            keys.append(company)
+            keys.append(companyName)
             print(data)
             sheet.append(data)
 
@@ -225,7 +226,7 @@ def prepareSalary(df):
 
     keys = []
     for index, row in df.iterrows():
-        companyKey = row[1]
+        companyKey = str(row[1]).upper()
         jobKey = str(row[3]).replace(
             " ", "").strip() + str(row[2]).replace(" ", "").strip()
 
@@ -267,7 +268,6 @@ def prepareSalary(df):
 
 
 def main():
-
     df = pd.read_csv("source/source_data.csv", index_col=None)
 
     prepareLocation(df)
