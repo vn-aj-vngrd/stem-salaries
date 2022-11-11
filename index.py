@@ -245,7 +245,7 @@ def prepareSalary(df):
         timeKey = datetime.strptime(
             row[0], '%m/%d/%Y %H:%M:%S').date()
 
-        baseSalary = row[9]
+        baseSalary = 1000 if pd.isna(row[9]) or row[9] == 0 else row[9]
         totalYearlyCompensation = row[4]
         bonus = row[11]
 
