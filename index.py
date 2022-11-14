@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 def prepareLocation(df):
-    header = ("CompanyKey", "Location", "Country",
+    header = ("LocationKey", "CompanyKey", "Location", "Country",
               "CityId", "City", "State", "DMAId")
 
     book = Workbook()
@@ -13,8 +13,9 @@ def prepareLocation(df):
     sheet.append(header)
 
     keys = []
+    locationKey = 1
     for index, row in df.iterrows():
-        if (row[5] not in keys):
+        if (str(row[1]) + str(row[5]) not in keys):
             companyKey = str(row[1]).upper()
             location = row[5]
             country = ""
@@ -41,6 +42,7 @@ def prepareLocation(df):
                 state = temp[1].strip()
 
             data = (
+                locationKey,
                 companyKey,
                 location,
                 country,
@@ -50,27 +52,31 @@ def prepareLocation(df):
                 dmaId,
             )
 
-            keys.append(row[5])
+            keys.append(str(row[1]) + str(row[5]))
             print(data)
             sheet.append(data)
+
+            locationKey += 1
 
     book.save("data/location.xlsx")
     print("Done")
 
 
 def prepareCompany(df):
-    header = ("CompanyName", )
+    header = ("CompanyKey", "CompanyName")
 
     book = Workbook()
     sheet = book.active
     sheet.append(header)
 
     keys = []
+    companyKey = 1
     for index, row in df.iterrows():
         if (str(row[1]).upper() not in keys):
             companyName = str(row[1]).upper()
 
             data = (
+                companyKey,
                 companyName,
             )
 
@@ -78,18 +84,21 @@ def prepareCompany(df):
             print(data)
             sheet.append(data)
 
+            companyKey += 1
+
     book.save("data/company.xlsx")
     print("Done")
 
 
 def prepareJob(df):
-    header = ("JobId", "JobTitle", "JobLevel", "JobTag")
+    header = ("JobKey", "JobId", "JobTitle", "JobLevel", "JobTag")
 
     book = Workbook()
     sheet = book.active
     sheet.append(header)
 
     keys = []
+    jobKey = 1
     for index, row in df.iterrows():
         jobTitle = str(row[3])
         jobLevel = str(row[2])
@@ -98,6 +107,7 @@ def prepareJob(df):
             " ", "").strip() + jobLevel.replace(" ", "").strip()
 
         data = (
+            jobKey,
             jobId,
             jobTitle,
             jobLevel,
@@ -109,18 +119,21 @@ def prepareJob(df):
             keys.append(jobId)
             sheet.append(data)
 
+            jobKey += 1
+
     book.save("data/job.xlsx")
     print("Done")
 
 
 def prepareDemographic(df):
-    header = ("DemoId", "Race", "Gender")
+    header = ("DemoKey", "DemoId", "Race", "Gender")
 
     book = Workbook()
     sheet = book.active
     sheet.append(header)
 
     keys = []
+    demoKey = 1
     for index, row in df.iterrows():
         race = "White" if pd.isna(row[27]) else str(row[27])
         gender = random.choice(["Male", "Female"]) if pd.isna(
@@ -129,6 +142,7 @@ def prepareDemographic(df):
         demoId = race.replace(" ", "").strip() + gender
 
         data = (
+            demoKey,
             demoId,
             race,
             gender
@@ -139,12 +153,14 @@ def prepareDemographic(df):
             print(data)
             sheet.append(data)
 
+            demoKey += 1
+
     book.save("data/demographic.xlsx")
     print("Done")
 
 
 def prepareExperience(df):
-    header = ("ExpId", "YearsAtCompany", "YearsOfExperience",
+    header = ("ExpKey", "ExpId", "YearsAtCompany", "YearsOfExperience",
               "Education")
 
     book = Workbook()
@@ -152,6 +168,7 @@ def prepareExperience(df):
     sheet.append(header)
 
     keys = []
+    expKey = 1
     for index, row in df.iterrows():
         yearsAtCompany = round(row[7])
         yearsOfExperience = round(row[6])
@@ -162,6 +179,7 @@ def prepareExperience(df):
         ) + str(yearsAtCompany) + str(yearsOfExperience)
 
         data = (
+            expKey,
             expId,
             yearsAtCompany,
             yearsOfExperience,
@@ -173,12 +191,14 @@ def prepareExperience(df):
             print(data)
             sheet.append(data)
 
+            expKey += 1
+
     book.save("data/experience.xlsx")
     print("Done")
 
 
 def prepareTime(df):
-    header = ("CalendarDateChar", "CalendarDate", "Year", "Month", "MonthName",
+    header = ("TimeKey", "CalendarDateChar", "CalendarDate", "Year", "Month", "MonthName",
               "Day", "DayName", "DayOfYear")
 
     book = Workbook()
@@ -186,6 +206,7 @@ def prepareTime(df):
     sheet.append(header)
 
     keys = []
+    timeKey = 1
     for index, row in df.iterrows():
         calendarDate = datetime.strptime(
             row[0], '%m/%d/%Y %H:%M:%S').date()
@@ -197,6 +218,7 @@ def prepareTime(df):
         dayOfYear = calendarDate.strftime('%j')
 
         data = (
+            timeKey,
             str(calendarDate),
             calendarDate,
             year,
@@ -211,6 +233,8 @@ def prepareTime(df):
             keys.append(str(calendarDate))
             print(data)
             sheet.append(data)
+
+            timeKey += 1
 
     book.save("data/time.xlsx")
     print("Done")
