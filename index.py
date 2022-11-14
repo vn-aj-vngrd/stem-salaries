@@ -4,8 +4,8 @@ from numpy import random
 from datetime import datetime
 
 
-def prepareLocation(df):
-    header = ("LocationKey", "CompanyKey", "Location", "Country",
+def prepareCompany(df):
+    header = ("CompanyKey", "CompanyName", "Country",
               "CityId", "City", "State", "DMAId")
 
     book = Workbook()
@@ -13,17 +13,17 @@ def prepareLocation(df):
     sheet.append(header)
 
     keys = []
-    locationKey = 1
+    companyKey = 1
     for index, row in df.iterrows():
         if (str(row[1]) + str(row[5]) not in keys):
-            companyKey = str(row[1]).upper()
-            location = row[5]
+            companyName = str(row[1]).upper()
             country = ""
             cityId = row[14]
             city = ""
             state = ""
             dmaId = row[15]
 
+            location = row[5]
             # Country
             if (location.count(",") == 1):
                 country = "United States"
@@ -42,9 +42,8 @@ def prepareLocation(df):
                 state = temp[1].strip()
 
             data = (
-                locationKey,
                 companyKey,
-                location,
+                companyName,
                 country,
                 cityId,
                 city,
@@ -53,34 +52,6 @@ def prepareLocation(df):
             )
 
             keys.append(str(row[1]) + str(row[5]))
-            print(data)
-            sheet.append(data)
-
-            locationKey += 1
-
-    book.save("data/location.xlsx")
-    print("Done")
-
-
-def prepareCompany(df):
-    header = ("CompanyKey", "CompanyName")
-
-    book = Workbook()
-    sheet = book.active
-    sheet.append(header)
-
-    keys = []
-    companyKey = 1
-    for index, row in df.iterrows():
-        if (str(row[1]).upper() not in keys):
-            companyName = str(row[1]).upper()
-
-            data = (
-                companyKey,
-                companyName,
-            )
-
-            keys.append(companyName)
             print(data)
             sheet.append(data)
 
@@ -294,7 +265,6 @@ def prepareSalary(df):
 def main():
     df = pd.read_csv("source/source_data.csv", index_col=None)
 
-    prepareLocation(df)
     prepareCompany(df)
     prepareJob(df)
     prepareDemographic(df)
