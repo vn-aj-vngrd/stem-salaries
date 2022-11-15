@@ -2,6 +2,7 @@ from openpyxl import Workbook
 import pandas as pd
 from numpy import random
 from datetime import datetime
+import re
 
 
 def excelToText(filename):
@@ -20,8 +21,8 @@ def prepareCompany(df):
     keys = []
     companyKey = 1
     for index, row in df.iterrows():
-        companyId = str(row[1]).replace(" ", "").replace(",", "").strip().upper() + \
-            str(row[5]).replace(" ", "").replace(",", "").strip().upper()
+        companyId = str(row[1]).strip().upper() + \
+            str(row[5]).strip().upper()
         companyName = str(row[1]).upper()
         country = ""
         cityId = row[14]
@@ -48,7 +49,7 @@ def prepareCompany(df):
 
         data = (
             companyKey,
-            companyId,
+            re.sub('\W', '', companyId),
             companyName,
             country,
             cityId,
@@ -80,12 +81,12 @@ def prepareJob(df):
     for index, row in df.iterrows():
         jobTitle = str(row[3])
         jobLevel = str(row[2])
-        jobId = jobTitle.replace(" ", "").replace(",", "").strip().upper(
-        ) + jobLevel.replace(" ", "").replace(",", "").strip().upper()
+        jobId = jobTitle.strip().upper(
+        ) + jobLevel.strip().upper()
 
         data = (
             jobKey,
-            jobId,
+            re.sub('\W', '', jobId),
             jobTitle,
             jobLevel,
         )
@@ -115,13 +116,11 @@ def prepareDemographic(df):
         race = "White" if pd.isna(row[27]) else str(row[27])
         gender = random.choice(["Male", "Female"]) if pd.isna(
             row[12]) or row[12] == "Title: Senior Software Engineer" else str(row[12])
-
-        demoId = race.replace(" ", "").replace(
-            ",", "").strip().upper() + gender.upper()
+        demoId = race.strip().upper() + gender.strip().upper()
 
         data = (
             demoKey,
-            demoId,
+            re.sub('\W', '', demoId),
             race,
             gender
         )
@@ -153,12 +152,12 @@ def prepareExperience(df):
         yearsOfExperience = round(row[6])
         education = "Highschool" if pd.isna(row[28]) else str(row[28])
 
-        expId = education.replace(" ", "").replace(",", "").strip(
+        expId = education.strip(
         ).upper() + str(yearsAtCompany) + str(yearsOfExperience)
 
         data = (
             expKey,
-            expId,
+            re.sub('\W', '', expId),
             yearsAtCompany,
             yearsOfExperience,
             education
@@ -230,24 +229,23 @@ def prepareSalary(df):
 
     keys = []
     for index, row in df.iterrows():
-        companyKey = str(row[1]).replace(" ", "").replace(",", "").strip().upper() + \
-            str(row[5]).replace(" ", "").replace(",", "").strip().upper()
+        companyKey = str(row[1]).strip().upper() + \
+            str(row[5]).strip().upper()
 
         jobTitle = str(row[3])
         jobLevel = str(row[2])
-        jobKey = jobTitle.replace(" ", "").replace(",", "").strip().upper(
-        ) + jobLevel.replace(" ", "").replace(",", "").strip().upper()
+        jobKey = jobTitle.strip().upper(
+        ) + jobLevel.strip().upper()
 
         race = "White" if pd.isna(row[27]) else str(row[27])
         gender = random.choice(["Male", "Female"]) if pd.isna(
             row[12]) or row[12] == "Title: Senior Software Engineer" else str(row[12])
-        demoKey = race.replace(" ", "").replace(
-            ",", "").strip().upper() + gender.upper()
+        demoKey = race.strip().upper() + gender.strip().upper()
 
         yearsAtCompany = round(row[7])
         yearsOfExperience = round(row[6])
         education = "Highschool" if pd.isna(row[28]) else str(row[28])
-        expKey = education.replace(" ", "").replace(",", "").strip(
+        expKey = education.strip(
         ).upper() + str(yearsAtCompany) + str(yearsOfExperience)
 
         timeKey = datetime.strptime(
@@ -258,10 +256,10 @@ def prepareSalary(df):
         bonus = row[11]
 
         data = (
-            companyKey,
-            jobKey,
-            demoKey,
-            expKey,
+            re.sub('\W', '', companyKey),
+            re.sub('\W', '', jobKey),
+            re.sub('\W', '', demoKey),
+            re.sub('\W', '', expKey),
             timeKey,
             baseSalary,
             totalYearlyCompensation,
