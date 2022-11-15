@@ -1,1882 +1,1882 @@
-﻿ExpKey,ExpId,YearsAtCompany,YearsOfExperience,Education
-1,Master'sDegree22,2,2,Master's Degree
-2,PhD35,3,5,PhD
-3,PhD08,0,8,PhD
-4,Master'sDegree57,5,7,Master's Degree
-5,Master'sDegree35,3,5,Master's Degree
-6,Highschool88,8,8,Highschool
-7,SomeCollege1115,11,15,Some College
-8,SomeCollege44,4,4,Some College
-9,PhD13,1,3,PhD
-10,Highschool612,6,12,Highschool
-11,Master'sDegree316,3,16,Master's Degree
-12,Highschool35,3,5,Highschool
-13,SomeCollege1010,10,10,Some College
-14,Bachelor'sDegree77,7,7,Bachelor's Degree
-15,Bachelor'sDegree112,1,12,Bachelor's Degree
-16,Highschool010,0,10,Highschool
-17,PhD11,1,1,PhD
-18,Bachelor'sDegree19,1,9,Bachelor's Degree
-19,Highschool22,2,2,Highschool
-20,Master'sDegree99,9,9,Master's Degree
-21,Bachelor'sDegree78,7,8,Bachelor's Degree
-22,Highschool1515,15,15,Highschool
-23,Bachelor'sDegree1212,12,12,Bachelor's Degree
-24,Highschool1212,12,12,Highschool
-25,SomeCollege617,6,17,Some College
-26,Master'sDegree114,1,14,Master's Degree
-27,Bachelor'sDegree23,2,3,Bachelor's Degree
-28,Master'sDegree66,6,6,Master's Degree
-29,Bachelor'sDegree48,4,8,Bachelor's Degree
-30,PhD1214,12,14,PhD
-31,PhD712,7,12,PhD
-32,Highschool24,2,4,Highschool
-33,SomeCollege25,2,5,Some College
-34,SomeCollege29,2,9,Some College
-35,PhD27,2,7,PhD
-36,SomeCollege18,1,8,Some College
-37,Master'sDegree07,0,7,Master's Degree
-38,Master'sDegree18,1,8,Master's Degree
-39,PhD920,9,20,PhD
-40,Bachelor'sDegree1728,17,28,Bachelor's Degree
-41,SomeCollege112,1,12,Some College
-42,PhD213,2,13,PhD
-43,PhD312,3,12,PhD
-44,Master'sDegree15,1,5,Master's Degree
-45,PhD15,1,5,PhD
-46,PhD14,1,4,PhD
-47,Highschool110,1,10,Highschool
-48,Bachelor'sDegree11,1,1,Bachelor's Degree
-49,Highschool319,3,19,Highschool
-50,Bachelor'sDegree33,3,3,Bachelor's Degree
-51,PhD29,2,9,PhD
-52,Highschool25,2,5,Highschool
-53,Bachelor'sDegree26,2,6,Bachelor's Degree
-54,Highschool00,0,0,Highschool
-55,Highschool33,3,3,Highschool
-56,Bachelor'sDegree46,4,6,Bachelor's Degree
-57,Bachelor'sDegree44,4,4,Bachelor's Degree
-58,PhD22,2,2,PhD
-59,SomeCollege11,1,1,Some College
-60,SomeCollege19,1,9,Some College
-61,PhD611,6,11,PhD
-62,PhD914,9,14,PhD
-63,Bachelor'sDegree25,2,5,Bachelor's Degree
-64,SomeCollege55,5,5,Some College
-65,Master'sDegree55,5,5,Master's Degree
-66,PhD615,6,15,PhD
-67,Bachelor'sDegree414,4,14,Bachelor's Degree
-68,PhD310,3,10,PhD
-69,Highschool310,3,10,Highschool
-70,PhD28,2,8,PhD
-71,Master'sDegree58,5,8,Master's Degree
-72,Master'sDegree714,7,14,Master's Degree
-73,Master'sDegree213,2,13,Master's Degree
-74,Master'sDegree05,0,5,Master's Degree
-75,Highschool1323,13,23,Highschool
-76,Bachelor'sDegree17,1,7,Bachelor's Degree
-77,SomeCollege58,5,8,Some College
-78,Master'sDegree110,1,10,Master's Degree
-79,Bachelor'sDegree56,5,6,Bachelor's Degree
-80,Master'sDegree19,1,9,Master's Degree
-81,Master'sDegree00,0,0,Master's Degree
-82,Bachelor'sDegree412,4,12,Bachelor's Degree
-83,SomeCollege914,9,14,Some College
-84,Master'sDegree04,0,4,Master's Degree
-85,Bachelor'sDegree010,0,10,Bachelor's Degree
-86,Highschool67,6,7,Highschool
-87,Bachelor'sDegree24,2,4,Bachelor's Degree
-88,Highschool311,3,11,Highschool
-89,SomeCollege00,0,0,Some College
-90,PhD17,1,7,PhD
-91,Highschool11,1,1,Highschool
-92,Master'sDegree11,1,1,Master's Degree
-93,Bachelor'sDegree16,1,6,Bachelor's Degree
-94,Bachelor'sDegree45,4,5,Bachelor's Degree
-95,SomeCollege410,4,10,Some College
-96,Bachelor'sDegree15,1,5,Bachelor's Degree
-97,Highschool610,6,10,Highschool
-98,Bachelor'sDegree13,1,3,Bachelor's Degree
-99,SomeCollege14,1,4,Some College
-100,Master'sDegree88,8,8,Master's Degree
-101,SomeCollege110,1,10,Some College
-102,Bachelor'sDegree01,0,1,Bachelor's Degree
-103,Master'sDegree310,3,10,Master's Degree
-104,Bachelor'sDegree1010,10,10,Bachelor's Degree
-105,PhD09,0,9,PhD
-106,Highschool215,2,15,Highschool
-107,SomeCollege610,6,10,Some College
-108,Master'sDegree412,4,12,Master's Degree
-109,Bachelor'sDegree510,5,10,Bachelor's Degree
-110,Bachelor'sDegree00,0,0,Bachelor's Degree
-111,PhD511,5,11,PhD
-112,Bachelor'sDegree22,2,2,Bachelor's Degree
-113,Bachelor'sDegree34,3,4,Bachelor's Degree
-114,Highschool01,0,1,Highschool
-115,Master'sDegree1922,19,22,Master's Degree
-116,Highschool120,1,20,Highschool
-117,Highschool77,7,7,Highschool
-118,Highschool316,3,16,Highschool
-119,Bachelor'sDegree418,4,18,Bachelor's Degree
-120,Master'sDegree25,2,5,Master's Degree
-121,PhD36,3,6,PhD
-122,Master'sDegree33,3,3,Master's Degree
-123,PhD23,2,3,PhD
-124,PhD00,0,0,PhD
-125,SomeCollege22,2,2,Some College
-126,Master'sDegree14,1,4,Master's Degree
-127,Bachelor'sDegree314,3,14,Bachelor's Degree
-128,Master'sDegree710,7,10,Master's Degree
-129,Highschool37,3,7,Highschool
-130,Bachelor'sDegree55,5,5,Bachelor's Degree
-131,PhD313,3,13,PhD
-132,PhD610,6,10,PhD
-133,SomeCollege33,3,3,Some College
-134,Highschool520,5,20,Highschool
-135,Highschool44,4,4,Highschool
-136,Bachelor'sDegree212,2,12,Bachelor's Degree
-137,Bachelor'sDegree28,2,8,Bachelor's Degree
-138,SomeCollege615,6,15,Some College
-139,Master'sDegree46,4,6,Master's Degree
-140,Highschool210,2,10,Highschool
-141,Highschool48,4,8,Highschool
-142,PhD510,5,10,PhD
-143,PhD58,5,8,PhD
-144,Highschool99,9,9,Highschool
-145,PhD010,0,10,PhD
-146,Master'sDegree03,0,3,Master's Degree
-147,PhD38,3,8,PhD
-148,Bachelor'sDegree621,6,21,Bachelor's Degree
-149,SomeCollege613,6,13,Some College
-150,SomeCollege13,1,3,Some College
-151,SomeCollege325,3,25,Some College
-152,SomeCollege03,0,3,Some College
-153,Master'sDegree16,1,6,Master's Degree
-154,PhD33,3,3,PhD
-155,Master'sDegree214,2,14,Master's Degree
-156,Bachelor'sDegree29,2,9,Bachelor's Degree
-157,Master'sDegree215,2,15,Master's Degree
-158,PhD311,3,11,PhD
-159,Highschool1315,13,15,Highschool
-160,PhD25,2,5,PhD
-161,SomeCollege415,4,15,Some College
-162,PhD44,4,4,PhD
-163,SomeCollege48,4,8,Some College
-164,Master'sDegree28,2,8,Master's Degree
-165,Bachelor'sDegree114,1,14,Bachelor's Degree
-166,Highschool510,5,10,Highschool
-167,PhD110,1,10,PhD
-168,Bachelor'sDegree310,3,10,Bachelor's Degree
-169,Master'sDegree59,5,9,Master's Degree
-170,Bachelor'sDegree88,8,8,Bachelor's Degree
-171,Master'sDegree020,0,20,Master's Degree
-172,SomeCollege715,7,15,Some College
-173,Bachelor'sDegree1120,11,20,Bachelor's Degree
-174,PhD917,9,17,PhD
-175,PhD119,1,19,PhD
-176,Master'sDegree118,1,18,Master's Degree
-177,Master'sDegree210,2,10,Master's Degree
-178,SomeCollege09,0,9,Some College
-179,Master'sDegree13,1,3,Master's Degree
-180,PhD16,1,6,PhD
-181,Master'sDegree315,3,15,Master's Degree
-182,SomeCollege813,8,13,Some College
-183,PhD210,2,10,PhD
-184,PhD48,4,8,PhD
-185,SomeCollege46,4,6,Some College
-186,Bachelor'sDegree08,0,8,Bachelor's Degree
-187,PhD112,1,12,PhD
-188,SomeCollege39,3,9,Some College
-189,PhD02,0,2,PhD
-190,PhD47,4,7,PhD
-191,PhD03,0,3,PhD
-192,PhD212,2,12,PhD
-193,PhD1014,10,14,PhD
-194,Master'sDegree937,9,37,Master's Degree
-195,SomeCollege01,0,1,Some College
-196,Highschool28,2,8,Highschool
-197,Bachelor'sDegree07,0,7,Bachelor's Degree
-198,Master'sDegree26,2,6,Master's Degree
-199,PhD220,2,20,PhD
-200,Bachelor'sDegree516,5,16,Bachelor's Degree
-201,SomeCollege113,1,13,Some College
-202,SomeCollege212,2,12,Some College
-203,SomeCollege27,2,7,Some College
-204,Bachelor'sDegree04,0,4,Bachelor's Degree
-205,Highschool411,4,11,Highschool
-206,Bachelor'sDegree39,3,9,Bachelor's Degree
-207,Highschool515,5,15,Highschool
-208,Master'sDegree010,0,10,Master's Degree
-209,Highschool114,1,14,Highschool
-210,Highschool13,1,3,Highschool
-211,Master'sDegree67,6,7,Master's Degree
-212,Highschool26,2,6,Highschool
-213,Highschool112,1,12,Highschool
-214,SomeCollege237,2,37,Some College
-215,SomeCollege78,7,8,Some College
-216,Bachelor'sDegree03,0,3,Bachelor's Degree
-217,Bachelor'sDegree218,2,18,Bachelor's Degree
-218,SomeCollege05,0,5,Some College
-219,Highschool63,6,3,Highschool
-220,Master'sDegree1010,10,10,Master's Degree
-221,Master'sDegree311,3,11,Master's Degree
-222,SomeCollege114,1,14,Some College
-223,SomeCollege214,2,14,Some College
-224,SomeCollege838,8,38,Some College
-225,Highschool03,0,3,Highschool
-226,Highschool724,7,24,Highschool
-227,PhD45,4,5,PhD
-228,Highschool02,0,2,Highschool
-229,PhD1313,13,13,PhD
-230,Master'sDegree1012,10,12,Master's Degree
-231,PhD55,5,5,PhD
-232,Master'sDegree613,6,13,Master's Degree
-233,SomeCollege24,2,4,Some College
-234,SomeCollege15,1,5,Some College
-235,SomeCollege88,8,8,Some College
-236,Highschool1010,10,10,Highschool
-237,Master'sDegree420,4,20,Master's Degree
-238,Master'sDegree37,3,7,Master's Degree
-239,Bachelor'sDegree1015,10,15,Bachelor's Degree
-240,Master'sDegree816,8,16,Master's Degree
-241,Bachelor'sDegree428,4,28,Bachelor's Degree
-242,Master'sDegree39,3,9,Master's Degree
-243,Highschool325,3,25,Highschool
-244,Bachelor'sDegree1111,11,11,Bachelor's Degree
-245,Master'sDegree212,2,12,Master's Degree
-246,Bachelor'sDegree714,7,14,Bachelor's Degree
-247,Master'sDegree113,1,13,Master's Degree
-248,Master'sDegree01,0,1,Master's Degree
-249,SomeCollege012,0,12,Some College
-250,PhD1830,18,30,PhD
-251,PhD34,3,4,PhD
-252,SomeCollege04,0,4,Some College
-253,Bachelor'sDegree620,6,20,Bachelor's Degree
-254,Highschool08,0,8,Highschool
-255,Bachelor'sDegree59,5,9,Bachelor's Degree
-256,Highschool013,0,13,Highschool
-257,Highschool516,5,16,Highschool
-258,Master'sDegree02,0,2,Master's Degree
-259,SomeCollege119,1,19,Some College
-260,Master'sDegree20,2,0,Master's Degree
-261,Bachelor'sDegree47,4,7,Bachelor's Degree
-262,SomeCollege2020,20,20,Some College
-263,Highschool46,4,6,Highschool
-264,Master'sDegree17,1,7,Master's Degree
-265,Highschool09,0,9,Highschool
-266,SomeCollege015,0,15,Some College
-267,SomeCollege02,0,2,Some College
-268,Bachelor'sDegree31,3,1,Bachelor's Degree
-269,Bachelor'sDegree02,0,2,Bachelor's Degree
-270,Bachelor'sDegree420,4,20,Bachelor's Degree
-271,Master'sDegree06,0,6,Master's Degree
-272,SomeCollege418,4,18,Some College
-273,SomeCollege07,0,7,Some College
-274,Master'sDegree24,2,4,Master's Degree
-275,PhD218,2,18,PhD
-276,Highschool55,5,5,Highschool
-277,Master'sDegree44,4,4,Master's Degree
-278,SomeCollege77,7,7,Some College
-279,Master'sDegree1015,10,15,Master's Degree
-280,Highschool29,2,9,Highschool
-281,Highschool014,0,14,Highschool
-282,Master'sDegree915,9,15,Master's Degree
-283,Bachelor'sDegree18,1,8,Bachelor's Degree
-284,PhD31,3,1,PhD
-285,Bachelor'sDegree712,7,12,Bachelor's Degree
-286,Bachelor'sDegree530,5,30,Bachelor's Degree
-287,Highschool1516,15,16,Highschool
-288,SomeCollege35,3,5,Some College
-289,Bachelor'sDegree66,6,6,Bachelor's Degree
-290,Bachelor'sDegree36,3,6,Bachelor's Degree
-291,SomeCollege49,4,9,Some College
-292,Highschool913,9,13,Highschool
-293,Bachelor'sDegree312,3,12,Bachelor's Degree
-294,Master'sDegree48,4,8,Master's Degree
-295,PhD18,1,8,PhD
-296,PhD01,0,1,PhD
-297,SomeCollege116,1,16,Some College
-298,SomeCollege315,3,15,Some College
-299,Highschool1111,11,11,Highschool
-300,Master'sDegree012,0,12,Master's Degree
-301,Bachelor'sDegree211,2,11,Bachelor's Degree
-302,SomeCollege68,6,8,Some College
-303,Bachelor'sDegree06,0,6,Bachelor's Degree
-304,SomeCollege47,4,7,Some College
-305,PhD625,6,25,PhD
-306,Highschool312,3,12,Highschool
-307,Master'sDegree510,5,10,Master's Degree
-308,SomeCollege210,2,10,Some College
-309,SomeCollege17,1,7,Some College
-310,Bachelor'sDegree27,2,7,Bachelor's Degree
-311,Highschool915,9,15,Highschool
-312,Highschool56,5,6,Highschool
-313,SomeCollege612,6,12,Some College
-314,Bachelor'sDegree79,7,9,Bachelor's Degree
-315,Highschool47,4,7,Highschool
-316,PhD05,0,5,PhD
-317,Bachelor'sDegree20,2,0,Bachelor's Degree
-318,Bachelor'sDegree1414,14,14,Bachelor's Degree
-319,Master'sDegree27,2,7,Master's Degree
-320,PhD513,5,13,PhD
-321,Highschool04,0,4,Highschool
-322,Master'sDegree1313,13,13,Master's Degree
-323,PhD015,0,15,PhD
-324,PhD07,0,7,PhD
-325,Bachelor'sDegree12,1,2,Bachelor's Degree
-326,Master'sDegree1111,11,11,Master's Degree
-327,SomeCollege010,0,10,Some College
-328,PhD69,6,9,PhD
-329,Highschool412,4,12,Highschool
-330,Highschool38,3,8,Highschool
-331,SomeCollege36,3,6,Some College
-332,PhD420,4,20,PhD
-333,Bachelor'sDegree320,3,20,Bachelor's Degree
-334,PhD612,6,12,PhD
-335,PhD211,2,11,PhD
-336,Highschool115,1,15,Highschool
-337,Bachelor'sDegree1518,15,18,Bachelor's Degree
-338,Master'sDegree12,1,2,Master's Degree
-339,Highschool36,3,6,Highschool
-340,Master'sDegree38,3,8,Master's Degree
-341,Highschool020,0,20,Highschool
-342,Bachelor'sDegree35,3,5,Bachelor's Degree
-343,Highschool39,3,9,Highschool
-344,Bachelor'sDegree611,6,11,Bachelor's Degree
-345,PhD2121,21,21,PhD
-346,Highschool313,3,13,Highschool
-347,Master'sDegree410,4,10,Master's Degree
-348,Master'sDegree117,1,17,Master's Degree
-349,Highschool68,6,8,Highschool
-350,SomeCollege08,0,8,Some College
-351,Bachelor'sDegree1818,18,18,Bachelor's Degree
-352,Bachelor'sDegree1313,13,13,Bachelor's Degree
-353,PhD613,6,13,PhD
-354,Bachelor'sDegree820,8,20,Bachelor's Degree
-355,Master'sDegree112,1,12,Master's Degree
-356,PhD12,1,2,PhD
-357,Highschool45,4,5,Highschool
-358,Master'sDegree10,1,0,Master's Degree
-359,Bachelor'sDegree1215,12,15,Bachelor's Degree
-360,Master'sDegree45,4,5,Master's Degree
-361,PhD04,0,4,PhD
-362,Master'sDegree015,0,15,Master's Degree
-363,SomeCollege313,3,13,Some College
-364,SomeCollege013,0,13,Some College
-365,Highschool14,1,4,Highschool
-366,Highschool12,1,2,Highschool
-367,PhD812,8,12,PhD
-368,Bachelor'sDegree1515,15,15,Bachelor's Degree
-369,Master'sDegree1212,12,12,Master's Degree
-370,PhD24,2,4,PhD
-371,Highschool16,1,6,Highschool
-372,Bachelor'sDegree14,1,4,Bachelor's Degree
-373,SomeCollege16,1,6,Some College
-374,Highschool1015,10,15,Highschool
-375,Master'sDegree121,1,21,Master's Degree
-376,SomeCollege310,3,10,Some College
-377,SomeCollege1019,10,19,Some College
-378,PhD49,4,9,PhD
-379,Highschool710,7,10,Highschool
-380,Highschool06,0,6,Highschool
-381,Master'sDegree68,6,8,Master's Degree
-382,Highschool18,1,8,Highschool
-383,SomeCollege66,6,6,Some College
-384,Master'sDegree1616,16,16,Master's Degree
-385,PhD99,9,9,PhD
-386,PhD516,5,16,PhD
-387,Highschool57,5,7,Highschool
-388,Highschool34,3,4,Highschool
-389,PhD215,2,15,PhD
-390,SomeCollege215,2,15,Some College
-391,Bachelor'sDegree210,2,10,Bachelor's Degree
-392,Master'sDegree515,5,15,Master's Degree
-393,Master'sDegree220,2,20,Master's Degree
-394,Bachelor'sDegree05,0,5,Bachelor's Degree
-395,PhD57,5,7,PhD
-396,PhD317,3,17,PhD
-397,SomeCollege317,3,17,Some College
-398,SomeCollege312,3,12,Some College
-399,Highschool512,5,12,Highschool
-400,Master'sDegree312,3,12,Master's Degree
-401,Bachelor'sDegree215,2,15,Bachelor's Degree
-402,SomeCollege12,1,2,Some College
-403,PhD316,3,16,PhD
-404,PhD514,5,14,PhD
-405,Highschool1125,11,25,Highschool
-406,Master'sDegree30,3,0,Master's Degree
-407,PhD06,0,6,PhD
-408,Bachelor'sDegree220,2,20,Bachelor's Degree
-409,Highschool17,1,7,Highschool
-410,Bachelor'sDegree415,4,15,Bachelor's Degree
-411,PhD1111,11,11,PhD
-412,Master'sDegree730,7,30,Master's Degree
-413,SomeCollege115,1,15,Some College
-414,Master'sDegree36,3,6,Master's Degree
-415,SomeCollege812,8,12,Some College
-416,SomeCollege413,4,13,Some College
-417,PhD320,3,20,PhD
-418,SomeCollege420,4,20,Some College
-419,PhD418,4,18,PhD
-420,Highschool1012,10,12,Highschool
-421,Highschool15,1,5,Highschool
-422,SomeCollege525,5,25,Some College
-423,PhD1010,10,10,PhD
-424,Bachelor'sDegree615,6,15,Bachelor's Degree
-425,PhD111,1,11,PhD
-426,PhD014,0,14,PhD
-427,Bachelor'sDegree812,8,12,Bachelor's Degree
-428,Bachelor'sDegree2020,20,20,Bachelor's Degree
-429,Bachelor'sDegree315,3,15,Bachelor's Degree
-430,PhD1316,13,16,PhD
-431,Highschool1314,13,14,Highschool
-432,Bachelor'sDegree1116,11,16,Bachelor's Degree
-433,Highschool125,1,25,Highschool
-434,Highschool415,4,15,Highschool
-435,SomeCollege23,2,3,Some College
-436,Bachelor'sDegree119,1,19,Bachelor's Degree
-437,Bachelor'sDegree49,4,9,Bachelor's Degree
-438,Highschool1020,10,20,Highschool
-439,SomeCollege06,0,6,Some College
-440,Master'sDegree2020,20,20,Master's Degree
-441,Bachelor'sDegree614,6,14,Bachelor's Degree
-442,PhD020,0,20,PhD
-443,Highschool422,4,22,Highschool
-444,PhD1012,10,12,PhD
-445,Master'sDegree1215,12,15,Master's Degree
-446,Bachelor'sDegree1520,15,20,Bachelor's Degree
-447,Bachelor'sDegree730,7,30,Bachelor's Degree
-448,Bachelor'sDegree68,6,8,Bachelor's Degree
-449,Highschool216,2,16,Highschool
-450,Bachelor'sDegree110,1,10,Bachelor's Degree
-451,Master'sDegree1418,14,18,Master's Degree
-452,Highschool810,8,10,Highschool
-453,Master'sDegree216,2,16,Master's Degree
-454,Highschool27,2,7,Highschool
-455,Master'sDegree34,3,4,Master's Degree
-456,PhD214,2,14,PhD
-457,PhD10,1,0,PhD
-458,SomeCollege57,5,7,Some College
-459,Master'sDegree111,1,11,Master's Degree
-460,Highschool42,4,2,Highschool
-461,Master'sDegree514,5,14,Master's Degree
-462,Master'sDegree014,0,14,Master's Degree
-463,Bachelor'sDegree37,3,7,Bachelor's Degree
-464,SomeCollege510,5,10,Some College
-465,Bachelor'sDegree612,6,12,Bachelor's Degree
-466,Highschool410,4,10,Highschool
-467,Master'sDegree3032,30,32,Master's Degree
-468,SomeCollege414,4,14,Some College
-469,Bachelor'sDegree1115,11,15,Bachelor's Degree
-470,PhD315,3,15,PhD
-471,PhD412,4,12,PhD
-472,PhD19,1,9,PhD
-473,Bachelor'sDegree518,5,18,Bachelor's Degree
-474,Bachelor'sDegree012,0,12,Bachelor's Degree
-475,PhD2020,20,20,PhD
-476,PhD37,3,7,PhD
-477,Master'sDegree812,8,12,Master's Degree
-478,SomeCollege38,3,8,Some College
-479,Master'sDegree49,4,9,Master's Degree
-480,Bachelor'sDegree411,4,11,Bachelor's Degree
-481,Master'sDegree1219,12,19,Master's Degree
-482,PhD77,7,7,PhD
-483,SomeCollege411,4,11,Some College
-484,Highschool23,2,3,Highschool
-485,Master'sDegree516,5,16,Master's Degree
-486,Bachelor'sDegree525,5,25,Bachelor's Degree
-487,Highschool618,6,18,Highschool
-488,SomeCollege43,4,3,Some College
-489,Highschool211,2,11,Highschool
-490,Highschool89,8,9,Highschool
-491,Highschool20,2,0,Highschool
-492,Master'sDegree75,7,5,Master's Degree
-493,SomeCollege520,5,20,Some College
-494,Master'sDegree1515,15,15,Master's Degree
-495,Master'sDegree1218,12,18,Master's Degree
-496,PhD79,7,9,PhD
-497,Bachelor'sDegree710,7,10,Bachelor's Degree
-498,SomeCollege45,4,5,Some College
-499,Bachelor'sDegree57,5,7,Bachelor's Degree
-500,Master'sDegree518,5,18,Master's Degree
-501,Master'sDegree615,6,15,Master's Degree
-502,PhD1515,15,15,PhD
-503,Highschool426,4,26,Highschool
-504,Master'sDegree716,7,16,Master's Degree
-505,Highschool717,7,17,Highschool
-506,PhD413,4,13,PhD
-507,SomeCollege718,7,18,Some College
-508,Highschool66,6,6,Highschool
-509,SomeCollege26,2,6,Some College
-510,PhD1314,13,14,PhD
-511,Highschool2020,20,20,Highschool
-512,Highschool218,2,18,Highschool
-513,Bachelor'sDegree2525,25,25,Bachelor's Degree
-514,Highschool220,2,20,Highschool
-515,Bachelor'sDegree84,8,4,Bachelor's Degree
-516,SomeCollege1020,10,20,Some College
-517,Highschool05,0,5,Highschool
-518,Highschool31,3,1,Highschool
-519,Bachelor'sDegree313,3,13,Bachelor's Degree
-520,PhD912,9,12,PhD
-521,SomeCollege912,9,12,Some College
-522,PhD515,5,15,PhD
-523,Highschool95,9,5,Highschool
-524,PhD120,1,20,PhD
-525,Master'sDegree416,4,16,Master's Degree
-526,SomeCollege416,4,16,Some College
-527,Bachelor'sDegree911,9,11,Bachelor's Degree
-528,Bachelor'sDegree311,3,11,Bachelor's Degree
-529,Master'sDegree720,7,20,Master's Degree
-530,SomeCollege1620,16,20,Some College
-531,Master'sDegree56,5,6,Master's Degree
-532,Highschool815,8,15,Highschool
-533,Highschool317,3,17,Highschool
-534,Master'sDegree219,2,19,Master's Degree
-535,SomeCollege220,2,20,Some College
-536,Highschool49,4,9,Highschool
-537,Bachelor'sDegree013,0,13,Bachelor's Degree
-538,Highschool514,5,14,Highschool
-539,PhD66,6,6,PhD
-540,Master'sDegree411,4,11,Master's Degree
-541,Bachelor'sDegree912,9,12,Bachelor's Degree
-542,Highschool1616,16,16,Highschool
-543,SomeCollege515,5,15,Some College
-544,Bachelor'sDegree514,5,14,Bachelor's Degree
-545,SomeCollege123,1,23,Some College
-546,Bachelor'sDegree221,2,21,Bachelor's Degree
-547,SomeCollege334,3,34,Some College
-548,PhD410,4,10,PhD
-549,Master'sDegree512,5,12,Master's Degree
-550,SomeCollege810,8,10,Some College
-551,PhD68,6,8,PhD
-552,SomeCollege1012,10,12,Some College
-553,SomeCollege817,8,17,Some College
-554,Highschool320,3,20,Highschool
-555,Highschool414,4,14,Highschool
-556,PhD26,2,6,PhD
-557,SomeCollege311,3,11,Some College
-558,PhD614,6,14,PhD
-559,Master'sDegree414,4,14,Master's Degree
-560,Master'sDegree1919,19,19,Master's Degree
-561,Highschool113,1,13,Highschool
-562,PhD520,5,20,PhD
-563,Master'sDegree23,2,3,Master's Degree
-564,Bachelor'sDegree67,6,7,Bachelor's Degree
-565,Bachelor'sDegree720,7,20,Bachelor's Degree
-566,SomeCollege423,4,23,Some College
-567,Highschool417,4,17,Highschool
-568,SomeCollege1212,12,12,Some College
-569,Bachelor'sDegree319,3,19,Bachelor's Degree
-570,Highschool1313,13,13,Highschool
-571,Master'sDegree820,8,20,Master's Degree
-572,SomeCollege412,4,12,Some College
-573,PhD114,1,14,PhD
-574,Highschool07,0,7,Highschool
-575,Highschool212,2,12,Highschool
-576,Bachelor'sDegree410,4,10,Bachelor's Degree
-577,Master'sDegree616,6,16,Master's Degree
-578,Master'sDegree517,5,17,Master's Degree
-579,Master'sDegree115,1,15,Master's Degree
-580,Highschool315,3,15,Highschool
-581,Bachelor'sDegree711,7,11,Bachelor's Degree
-582,PhD32,3,2,PhD
-583,Bachelor'sDegree1417,14,17,Bachelor's Degree
-584,SomeCollege815,8,15,Some College
-585,Highschool420,4,20,Highschool
-586,Highschool58,5,8,Highschool
-587,Bachelor'sDegree38,3,8,Bachelor's Degree
-588,PhD1616,16,16,PhD
-589,Highschool011,0,11,Highschool
-590,PhD67,6,7,PhD
-591,Bachelor'sDegree416,4,16,Bachelor's Degree
-592,Bachelor'sDegree115,1,15,Bachelor's Degree
-593,PhD314,3,14,PhD
-594,Master'sDegree29,2,9,Master's Degree
-595,PhD113,1,13,PhD
-596,SomeCollege1414,14,14,Some College
-597,Bachelor'sDegree814,8,14,Bachelor's Degree
-598,SomeCollege720,7,20,Some College
-599,PhD115,1,15,PhD
-600,SomeCollege34,3,4,Some College
-601,Master'sDegree610,6,10,Master's Degree
-602,Master'sDegree910,9,10,Master's Degree
-603,Highschool819,8,19,Highschool
-604,Highschool611,6,11,Highschool
-605,Master'sDegree715,7,15,Master's Degree
-606,Highschool015,0,15,Highschool
-607,Bachelor'sDegree1012,10,12,Bachelor's Degree
-608,Master'sDegree09,0,9,Master's Degree
-609,Master'sDegree211,2,11,Master's Degree
-610,PhD225,2,25,PhD
-611,SomeCollege514,5,14,Some College
-612,Bachelor'sDegree810,8,10,Bachelor's Degree
-613,PhD216,2,16,PhD
-614,Bachelor'sDegree515,5,15,Bachelor's Degree
-615,Master'sDegree1920,19,20,Master's Degree
-616,Bachelor'sDegree116,1,16,Bachelor's Degree
-617,Master'sDegree611,6,11,Master's Degree
-618,Highschool43,4,3,Highschool
-619,PhD025,0,25,PhD
-620,PhD1018,10,18,PhD
-621,Master'sDegree1617,16,17,Master's Degree
-622,SomeCollege218,2,18,Some College
-623,SomeCollege1525,15,25,Some College
-624,Highschool012,0,12,Highschool
-625,PhD88,8,8,PhD
-626,SomeCollege1013,10,13,Some College
-627,Highschool413,4,13,Highschool
-628,PhD1113,11,13,PhD
-629,SomeCollege1420,14,20,Some College
-630,Bachelor'sDegree610,6,10,Bachelor's Degree
-631,Master'sDegree426,4,26,Master's Degree
-632,Highschool715,7,15,Highschool
-633,SomeCollege89,8,9,Some College
-634,Highschool616,6,16,Highschool
-635,PhD013,0,13,PhD
-636,SomeCollege511,5,11,Some College
-637,Bachelor'sDegree213,2,13,Bachelor's Degree
-638,Bachelor'sDegree41,4,1,Bachelor's Degree
-639,Master'sDegree810,8,10,Master's Degree
-640,Highschool1114,11,14,Highschool
-641,SomeCollege1218,12,18,Some College
-642,Bachelor'sDegree020,0,20,Bachelor's Degree
-643,Highschool1016,10,16,Highschool
-644,Bachelor'sDegree225,2,25,Bachelor's Degree
-645,Master'sDegree712,7,12,Master's Degree
-646,Master'sDegree120,1,20,Master's Degree
-647,Bachelor'sDegree99,9,9,Bachelor's Degree
-648,Bachelor'sDegree520,5,20,Bachelor's Degree
-649,PhD118,1,18,PhD
-650,Bachelor'sDegree214,2,14,Bachelor's Degree
-651,Highschool69,6,9,Highschool
-652,Master'sDegree1115,11,15,Master's Degree
-653,SomeCollege927,9,27,Some College
-654,PhD1213,12,13,PhD
-655,Highschool615,6,15,Highschool
-656,PhD1520,15,20,PhD
-657,Master'sDegree1112,11,12,Master's Degree
-658,Bachelor'sDegree62,6,2,Bachelor's Degree
-659,Master'sDegree08,0,8,Master's Degree
-660,Highschool124,1,24,Highschool
-661,Master'sDegree69,6,9,Master's Degree
-662,Master'sDegree1020,10,20,Master's Degree
-663,Master'sDegree313,3,13,Master's Degree
-664,Highschool613,6,13,Highschool
-665,PhD715,7,15,PhD
-666,Master'sDegree617,6,17,Master's Degree
-667,SomeCollege2124,21,24,Some College
-668,Highschool429,4,29,Highschool
-669,Master'sDegree2535,25,35,Master's Degree
-670,SomeCollege120,1,20,Some College
-671,SomeCollege318,3,18,Some College
-672,SomeCollege1016,10,16,Some College
-673,SomeCollege1521,15,21,Some College
-674,Master'sDegree47,4,7,Master's Degree
-675,PhD512,5,12,PhD
-676,Bachelor'sDegree120,1,20,Bachelor's Degree
-677,Highschool713,7,13,Highschool
-678,SomeCollege1111,11,11,Some College
-679,Master'sDegree811,8,11,Master's Degree
-680,Highschool111,1,11,Highschool
-681,SomeCollege28,2,8,Some College
-682,SomeCollege65,6,5,Some College
-683,Highschool714,7,14,Highschool
-684,SomeCollege320,3,20,Some College
-685,Highschool79,7,9,Highschool
-686,Bachelor'sDegree217,2,17,Bachelor's Degree
-687,SomeCollege1823,18,23,Some College
-688,Bachelor'sDegree113,1,13,Bachelor's Degree
-689,Bachelor'sDegree69,6,9,Bachelor's Degree
-690,SomeCollege512,5,12,Some College
-691,PhD39,3,9,PhD
-692,Master'sDegree89,8,9,Master's Degree
-693,PhD46,4,6,PhD
-694,Master'sDegree78,7,8,Master's Degree
-695,Master'sDegree1518,15,18,Master's Degree
-696,Highschool1415,14,15,Highschool
-697,SomeCollege1114,11,14,Some College
-698,Highschool1820,18,20,Highschool
-699,Master'sDegree1013,10,13,Master's Degree
-700,SomeCollege016,0,16,Some College
-701,SomeCollege37,3,7,Some College
-702,Highschool1520,15,20,Highschool
-703,Bachelor'sDegree43,4,3,Bachelor's Degree
-704,SomeCollege117,1,17,Some College
-705,Bachelor'sDegree1014,10,14,Bachelor's Degree
-706,Highschool1014,10,14,Highschool
-707,PhD810,8,10,PhD
-708,Highschool19,1,9,Highschool
-709,SomeCollege56,5,6,Some College
-710,SomeCollege217,2,17,Some College
-711,Highschool119,1,19,Highschool
-712,SomeCollege619,6,19,Some College
-713,Highschool619,6,19,Highschool
-714,Master'sDegree021,0,21,Master's Degree
-715,SomeCollege019,0,19,Some College
-716,Master'sDegree77,7,7,Master's Degree
-717,Highschool214,2,14,Highschool
-718,PhD915,9,15,PhD
-719,Master'sDegree415,4,15,Master's Degree
-720,PhD619,6,19,PhD
-721,Highschool223,2,23,Highschool
-722,SomeCollege1320,13,20,Some College
-723,Master'sDegree314,3,14,Master's Degree
-724,Highschool1115,11,15,Highschool
-725,Master'sDegree1214,12,14,Master's Degree
-726,SomeCollege21,2,1,Some College
-727,SomeCollege213,2,13,Some College
-728,Highschool1118,11,18,Highschool
-729,SomeCollege216,2,16,Some College
-730,Bachelor'sDegree163,16,3,Bachelor's Degree
-731,Bachelor'sDegree613,6,13,Bachelor's Degree
-732,PhD78,7,8,PhD
-733,PhD518,5,18,PhD
-734,SomeCollege1225,12,25,Some College
-735,PhD721,7,21,PhD
-736,Bachelor'sDegree09,0,9,Bachelor's Degree
-737,Master'sDegree42,4,2,Master's Degree
-738,SomeCollege014,0,14,Some College
-739,PhD1220,12,20,PhD
-740,PhD43,4,3,PhD
-741,Bachelor'sDegree622,6,22,Bachelor's Degree
-742,Bachelor'sDegree1415,14,15,Bachelor's Degree
-743,Highschool812,8,12,Highschool
-744,SomeCollege118,1,18,Some College
-745,Bachelor'sDegree512,5,12,Bachelor's Degree
-746,SomeCollege323,3,23,Some College
-747,Highschool221,2,21,Highschool
-748,Bachelor'sDegree117,1,17,Bachelor's Degree
-749,Bachelor'sDegree86,8,6,Bachelor's Degree
-750,PhD921,9,21,PhD
-751,SomeCollege67,6,7,Some College
-752,Bachelor'sDegree719,7,19,Bachelor's Degree
-753,PhD718,7,18,PhD
-754,Bachelor'sDegree717,7,17,Bachelor's Degree
-755,Highschool1417,14,17,Highschool
-756,Master'sDegree418,4,18,Master's Degree
-757,Highschool118,1,18,Highschool
-758,Master'sDegree1912,19,12,Master's Degree
-759,PhD415,4,15,PhD
-760,PhD1620,16,20,PhD
-761,Highschool1128,11,28,Highschool
-762,SomeCollege99,9,9,Some College
-763,SomeCollege1216,12,16,Some College
-764,Master'sDegree520,5,20,Master's Degree
-765,Bachelor'sDegree014,0,14,Bachelor's Degree
-766,Bachelor'sDegree015,0,15,Bachelor's Degree
-767,Bachelor'sDegree818,8,18,Bachelor's Degree
-768,Master'sDegree717,7,17,Master's Degree
-769,Bachelor'sDegree216,2,16,Bachelor's Degree
-770,SomeCollege1928,19,28,Some College
-771,SomeCollege818,8,18,Some College
-772,SomeCollege710,7,10,Some College
-773,SomeCollege716,7,16,Some College
-774,SomeCollege021,0,21,Some College
-775,Bachelor'sDegree815,8,15,Bachelor's Degree
-776,PhD1929,19,29,PhD
-777,PhD1016,10,16,PhD
-778,PhD1115,11,15,PhD
-779,SomeCollege025,0,25,Some College
-780,SomeCollege419,4,19,Some College
-781,PhD811,8,11,PhD
-782,Bachelor'sDegree018,0,18,Bachelor's Degree
-783,Highschool1220,12,20,Highschool
-784,Master'sDegree79,7,9,Master's Degree
-785,PhD1317,13,17,PhD
-786,Highschool1230,12,30,Highschool
-787,Bachelor'sDegree58,5,8,Bachelor's Degree
-788,Highschool718,7,18,Highschool
-789,SomeCollege011,0,11,Some College
-790,SomeCollege425,4,25,Some College
-791,PhD425,4,25,PhD
-792,SomeCollege521,5,21,Some College
-793,Bachelor'sDegree321,3,21,Bachelor's Degree
-794,Master'sDegree011,0,11,Master's Degree
-795,Master'sDegree1818,18,18,Master's Degree
-796,Bachelor'sDegree618,6,18,Bachelor's Degree
-797,SomeCollege2427,24,27,Some College
-798,PhD319,3,19,PhD
-799,SomeCollege1822,18,22,Some College
-800,Bachelor'sDegree316,3,16,Bachelor's Degree
-801,Highschool1117,11,17,Highschool
-802,SomeCollege614,6,14,Some College
-803,PhD128,1,28,PhD
-804,Master'sDegree713,7,13,Master's Degree
-805,Highschool720,7,20,Highschool
-806,PhD716,7,16,PhD
-807,Master'sDegree218,2,18,Master's Degree
-808,Highschool513,5,13,Highschool
-809,PhD1216,12,16,PhD
-810,Highschool127,1,27,Highschool
-811,SomeCollege314,3,14,Some College
-812,Bachelor'sDegree118,1,18,Bachelor's Degree
-813,Highschool59,5,9,Highschool
-814,SomeCollege713,7,13,Some College
-815,Master'sDegree421,4,21,Master's Degree
-816,Bachelor'sDegree40,4,0,Bachelor's Degree
-817,PhD1215,12,15,PhD
-818,Highschool133,1,33,Highschool
-819,Master'sDegree1516,15,16,Master's Degree
-820,PhD1017,10,17,PhD
-821,Master'sDegree718,7,18,Master's Degree
-822,Master'sDegree719,7,19,Master's Degree
-823,Highschool416,4,16,Highschool
-824,PhD1618,16,18,PhD
-825,Highschool1018,10,18,Highschool
-826,Master'sDegree1520,15,20,Master's Degree
-827,SomeCollege53,5,3,Some College
-828,Highschool1919,19,19,Highschool
-829,SomeCollege1313,13,13,Some College
-830,Highschool1120,11,20,Highschool
-831,Bachelor'sDegree511,5,11,Bachelor's Degree
-832,Highschool117,11,7,Highschool
-833,PhD011,0,11,PhD
-834,Highschool52,5,2,Highschool
-835,SomeCollege1415,14,15,Some College
-836,Highschool116,1,16,Highschool
-837,Highschool1011,10,11,Highschool
-838,Bachelor'sDegree1125,11,25,Bachelor's Degree
-839,Master'sDegree525,5,25,Master's Degree
-840,Bachelor'sDegree1020,10,20,Bachelor's Degree
-841,SomeCollege1215,12,15,Some College
-842,Highschool016,0,16,Highschool
-843,SomeCollege2023,20,23,Some College
-844,Highschool712,7,12,Highschool
-845,Highschool916,9,16,Highschool
-846,SomeCollege1022,10,22,Some College
-847,SomeCollege825,8,25,Some College
-848,Bachelor'sDegree825,8,25,Bachelor's Degree
-849,SomeCollege712,7,12,Some College
-850,Highschool10,1,0,Highschool
-851,PhD21,2,1,PhD
-852,Bachelor'sDegree910,9,10,Bachelor's Degree
-853,Master'sDegree912,9,12,Master's Degree
-854,PhD019,0,19,PhD
-855,Bachelor'sDegree1117,11,17,Bachelor's Degree
-856,SomeCollege1117,11,17,Some College
-857,Bachelor'sDegree318,3,18,Bachelor's Degree
-858,SomeCollege59,5,9,Some College
-859,Highschool1322,13,22,Highschool
-860,Master'sDegree1222,12,22,Master's Degree
-861,Bachelor'sDegree1224,12,24,Bachelor's Degree
-862,SomeCollege41,4,1,Some College
-863,PhD710,7,10,PhD
-864,Bachelor'sDegree1418,14,18,Bachelor's Degree
-865,PhD713,7,13,PhD
-866,Bachelor'sDegree223,2,23,Bachelor's Degree
-867,PhD116,1,16,PhD
-868,Highschool816,8,16,Highschool
-869,Highschool21,2,1,Highschool
-870,Highschool910,9,10,Highschool
-871,SomeCollege1120,11,20,Some College
-872,Bachelor'sDegree1214,12,14,Bachelor's Degree
-873,SomeCollege219,2,19,Some College
-874,SomeCollege417,4,17,Some College
-875,PhD52,5,2,PhD
-876,SomeCollege513,5,13,Some College
-877,Master'sDegree921,9,21,Master's Degree
-878,Bachelor'sDegree1118,11,18,Bachelor's Degree
-879,PhD620,6,20,PhD
-880,SomeCollege611,6,11,Some College
-881,PhD42,4,2,PhD
-882,SomeCollege322,3,22,Some College
-883,PhD217,2,17,PhD
-884,PhD1315,13,15,PhD
-885,Highschool620,6,20,Highschool
-886,PhD1212,12,12,PhD
-887,Highschool105,10,5,Highschool
-888,SomeCollege1717,17,17,Some College
-889,SomeCollege2021,20,21,Some College
-890,Highschool814,8,14,Highschool
-891,SomeCollege1517,15,17,Some College
-892,SomeCollege1219,12,19,Some College
-893,Master'sDegree119,1,19,Master's Degree
-894,SomeCollege625,6,25,Some College
-895,Bachelor'sDegree413,4,13,Bachelor's Degree
-896,Master'sDegree124,12,4,Master's Degree
-897,PhD1821,18,21,PhD
-898,PhD20,2,0,PhD
-899,Master'sDegree1318,13,18,Master's Degree
-900,Bachelor'sDegree63,6,3,Bachelor's Degree
-901,SomeCollege1721,17,21,Some College
-902,SomeCollege1418,14,18,Some College
-903,Bachelor'sDegree716,7,16,Bachelor's Degree
-904,SomeCollege224,2,24,Some College
-905,Master'sDegree1323,13,23,Master's Degree
-906,Bachelor'sDegree913,9,13,Bachelor's Degree
-907,PhD719,7,19,PhD
-908,Bachelor'sDegree1122,11,22,Bachelor's Degree
-909,Bachelor'sDegree1216,12,16,Bachelor's Degree
-910,SomeCollege2026,20,26,Some College
-911,Highschool1026,10,26,Highschool
-912,Master'sDegree513,5,13,Master's Degree
-913,Bachelor'sDegree713,7,13,Bachelor's Degree
-914,PhD414,4,14,PhD
-915,Bachelor'sDegree32,3,2,Bachelor's Degree
-916,PhD56,5,6,PhD
-917,PhD125,1,25,PhD
-918,SomeCollege1015,10,15,Some College
-919,PhD2029,20,29,PhD
-920,Master'sDegree21,2,1,Master's Degree
-921,Master'sDegree511,5,11,Master's Degree
-922,Bachelor'sDegree222,2,22,Bachelor's Degree
-923,PhD1825,18,25,PhD
-924,Master'sDegree815,8,15,Master's Degree
-925,SomeCollege422,4,22,Some College
-926,Master'sDegree116,1,16,Master's Degree
-927,Highschool1113,11,13,Highschool
-928,Bachelor'sDegree2123,21,23,Bachelor's Degree
-929,Bachelor'sDegree322,3,22,Bachelor's Degree
-930,Bachelor'sDegree108,10,8,Bachelor's Degree
-931,Bachelor'sDegree104,10,4,Bachelor's Degree
-932,Highschool32,3,2,Highschool
-933,Highschool219,2,19,Highschool
-934,PhD517,5,17,PhD
-935,Highschool1213,12,13,Highschool
-936,Highschool217,2,17,Highschool
-937,Bachelor'sDegree42,4,2,Bachelor's Degree
-938,Master'sDegree1430,14,30,Master's Degree
-939,SomeCollege10,1,0,Some College
-940,Highschool1215,12,15,Highschool
-941,PhD2025,20,25,PhD
-942,Master'sDegree2025,20,25,Master's Degree
-943,PhD238,23,8,PhD
-944,SomeCollege816,8,16,Some College
-945,Master'sDegree217,2,17,Master's Degree
-946,PhD424,4,24,PhD
-947,Bachelor'sDegree017,0,17,Bachelor's Degree
-948,SomeCollege719,7,19,Some College
-949,Bachelor'sDegree10,1,0,Bachelor's Degree
-950,Highschool213,2,13,Highschool
-951,Master'sDegree413,4,13,Master's Degree
-952,Master'sDegree1017,10,17,Master's Degree
-953,Master'sDegree1315,13,15,Master's Degree
-954,Highschool811,8,11,Highschool
-955,SomeCollege211,2,11,Some College
-956,Master'sDegree125,1,25,Master's Degree
-957,SomeCollege1123,11,23,Some College
-958,SomeCollege42,4,2,Some College
-959,Bachelor'sDegree325,3,25,Bachelor's Degree
-960,PhD223,2,23,PhD
-961,SomeCollege2521,25,21,Some College
-962,PhD318,3,18,PhD
-963,PhD813,8,13,PhD
-964,Highschool614,6,14,Highschool
-965,PhD815,8,15,PhD
-966,SomeCollege618,6,18,Some College
-967,Bachelor'sDegree920,9,20,Bachelor's Degree
-968,Bachelor'sDegree1516,15,16,Bachelor's Degree
-969,Highschool1112,11,12,Highschool
-970,PhD1112,11,12,PhD
-971,PhD522,5,22,PhD
-972,PhD65,6,5,PhD
-973,Bachelor'sDegree317,3,17,Bachelor's Degree
-974,PhD1011,10,11,PhD
-975,Master'sDegree814,8,14,Master's Degree
-976,SomeCollege111,1,11,Some College
-977,SomeCollege517,5,17,Some College
-978,SomeCollege1220,12,20,Some College
-979,Bachelor'sDegree1420,14,20,Bachelor's Degree
-980,Bachelor'sDegree816,8,16,Bachelor's Degree
-981,SomeCollege020,0,20,Some College
-982,Highschool018,0,18,Highschool
-983,PhD1418,14,18,PhD
-984,SomeCollege1214,12,14,Some College
-985,PhD816,8,16,PhD
-986,PhD230,2,30,PhD
-987,Highschool78,7,8,Highschool
-988,Bachelor'sDegree1220,12,20,Bachelor's Degree
-989,PhD519,5,19,PhD
-990,Highschool430,4,30,Highschool
-991,Bachelor'sDegree513,5,13,Bachelor's Degree
-992,Bachelor'sDegree1124,11,24,Bachelor's Degree
-993,SomeCollege1021,10,21,Some College
-994,PhD411,4,11,PhD
-995,SomeCollege79,7,9,Some College
-996,PhD012,0,12,PhD
-997,PhD1419,14,19,PhD
-998,Master'sDegree1229,12,29,Master's Degree
-999,Bachelor'sDegree429,4,29,Bachelor's Degree
-1000,SomeCollege2424,24,24,Some College
-1001,Bachelor'sDegree625,6,25,Bachelor's Degree
-1002,Master'sDegree320,3,20,Master's Degree
-1003,Bachelor'sDegree219,2,19,Bachelor's Degree
-1004,SomeCollege54,5,4,Some College
-1005,Bachelor'sDegree011,0,11,Bachelor's Degree
-1006,Master'sDegree621,6,21,Master's Degree
-1007,Highschool1420,14,20,Highschool
-1008,SomeCollege1515,15,15,Some College
-1009,SomeCollege124,1,24,Some College
-1010,SomeCollege92,9,2,Some College
-1011,SomeCollege1018,10,18,Some College
-1012,SomeCollege1512,15,12,Some College
-1013,Master'sDegree917,9,17,Master's Degree
-1014,Master'sDegree1113,11,13,Master's Degree
-1015,Bachelor'sDegree617,6,17,Bachelor's Degree
-1016,Bachelor'sDegree1416,14,16,Bachelor's Degree
-1017,SomeCollege814,8,14,Some College
-1018,Highschool1720,17,20,Highschool
-1019,Master'sDegree43,4,3,Master's Degree
-1020,Highschool030,0,30,Highschool
-1021,PhD1417,14,17,PhD
-1022,Bachelor'sDegree1040,10,40,Bachelor's Degree
-1023,SomeCollege911,9,11,Some College
-1024,Master'sDegree2030,20,30,Master's Degree
-1025,Master'sDegree519,5,19,Master's Degree
-1026,Highschool1116,11,16,Highschool
-1027,Master'sDegree31,3,1,Master's Degree
-1028,Bachelor'sDegree111,1,11,Bachelor's Degree
-1029,PhD925,9,25,PhD
-1030,Bachelor'sDegree1920,19,20,Bachelor's Degree
-1031,Bachelor'sDegree81,8,1,Bachelor's Degree
-1032,Highschool1414,14,14,Highschool
-1033,Bachelor'sDegree521,5,21,Bachelor's Degree
-1034,Master'sDegree228,2,28,Master's Degree
-1035,Bachelor'sDegree87,8,7,Bachelor's Degree
-1036,PhD40,4,0,PhD
-1037,Bachelor'sDegree619,6,19,Bachelor's Degree
-1038,Highschool418,4,18,Highschool
-1039,Master'sDegree1225,12,25,Master's Degree
-1040,Bachelor'sDegree524,5,24,Bachelor's Degree
-1041,SomeCollege1416,14,16,Some College
-1042,SomeCollege529,5,29,Some College
-1043,Master'sDegree017,0,17,Master's Degree
-1044,PhD1818,18,18,PhD
-1045,Highschool716,7,16,Highschool
-1046,Master'sDegree711,7,11,Master's Degree
-1047,PhD416,4,16,PhD
-1048,Master'sDegree618,6,18,Master's Degree
-1049,SomeCollege017,0,17,Some College
-1050,Highschool625,6,25,Highschool
-1051,SomeCollege820,8,20,Some College
-1052,Master'sDegree1035,10,35,Master's Degree
-1053,SomeCollege920,9,20,Some College
-1054,PhD235,2,35,PhD
-1055,PhD521,5,21,PhD
-1056,Bachelor'sDegree107,10,7,Bachelor's Degree
-1057,Master'sDegree318,3,18,Master's Degree
-1058,Master'sDegree1220,12,20,Master's Degree
-1059,Master'sDegree620,6,20,Master's Degree
-1060,Bachelor'sDegree616,6,16,Bachelor's Degree
-1061,Master'sDegree1130,11,30,Master's Degree
-1062,Highschool3035,30,35,Highschool
-1063,Master'sDegree1719,17,19,Master's Degree
-1064,Bachelor'sDegree2033,20,33,Bachelor's Degree
-1065,Master'sDegree1120,11,20,Master's Degree
-1066,Highschool1214,12,14,Highschool
-1067,Bachelor'sDegree3434,34,34,Bachelor's Degree
-1068,Bachelor'sDegree1729,17,29,Bachelor's Degree
-1069,Bachelor'sDegree425,4,25,Bachelor's Degree
-1070,Bachelor'sDegree715,7,15,Bachelor's Degree
-1071,PhD530,5,30,PhD
-1072,Highschool518,5,18,Highschool
-1073,PhD62,6,2,PhD
-1074,SomeCollege535,5,35,Some College
-1075,PhD1013,10,13,PhD
-1076,Highschool725,7,25,Highschool
-1077,Bachelor'sDegree811,8,11,Bachelor's Degree
-1078,Master'sDegree612,6,12,Master's Degree
-1079,Highschool630,6,30,Highschool
-1080,Bachelor'sDegree2139,21,39,Bachelor's Degree
-1081,SomeCollege819,8,19,Some College
-1082,Bachelor'sDegree1112,11,12,Bachelor's Degree
-1083,PhD630,6,30,PhD
-1084,Highschool721,7,21,Highschool
-1085,Bachelor'sDegree915,9,15,Bachelor's Degree
-1086,Master'sDegree913,9,13,Master's Degree
-1087,Highschool41,4,1,Highschool
-1088,Bachelor'sDegree025,0,25,Bachelor's Degree
-1089,Bachelor'sDegree1228,12,28,Bachelor's Degree
-1090,Master'sDegree916,9,16,Master's Degree
-1091,Highschool1525,15,25,Highschool
-1092,SomeCollege1315,13,15,Some College
-1093,Master'sDegree317,3,17,Master's Degree
-1094,Bachelor'sDegree1620,16,20,Bachelor's Degree
-1095,SomeCollege435,4,35,Some College
-1096,SomeCollege910,9,10,Some College
-1097,PhD417,4,17,PhD
-1098,SomeCollege519,5,19,Some College
-1099,SomeCollege1112,11,12,Some College
-1100,PhD89,8,9,PhD
-1101,PhD629,6,29,PhD
-1102,PhD824,8,24,PhD
-1103,PhD618,6,18,PhD
-1104,Highschool021,0,21,Highschool
-1105,Master'sDegree1622,16,22,Master's Degree
-1106,SomeCollege1119,11,19,Some College
-1107,PhD533,5,33,PhD
-1108,SomeCollege60,6,0,Some College
-1109,Bachelor'sDegree1016,10,16,Bachelor's Degree
-1110,Highschool1818,18,18,Highschool
-1111,SomeCollege616,6,16,Some College
-1112,Highschool421,4,21,Highschool
-1113,SomeCollege330,3,30,Some College
-1114,SomeCollege122,1,22,Some College
-1115,Highschool532,5,32,Highschool
-1116,SomeCollege228,2,28,Some College
-1117,Highschool711,7,11,Highschool
-1118,SomeCollege1314,13,14,Some College
-1119,PhD1119,11,19,PhD
-1120,Bachelor'sDegree1119,11,19,Bachelor's Degree
-1121,SomeCollege1616,16,16,Some College
-1122,Master'sDegree76,7,6,Master's Degree
-1123,Bachelor'sDegree022,0,22,Bachelor's Degree
-1124,PhD820,8,20,PhD
-1125,PhD422,4,22,PhD
-1126,Bachelor'sDegree323,3,23,Bachelor's Degree
-1127,Master'sDegree1531,15,31,Master's Degree
-1128,SomeCollege69,6,9,Some College
-1129,SomeCollege71,7,1,Some College
-1130,Bachelor'sDegree019,0,19,Bachelor's Degree
-1131,SomeCollege125,12,5,Some College
-1132,Master'sDegree1320,13,20,Master's Degree
-1133,Bachelor'sDegree1425,14,25,Bachelor's Degree
-1134,Highschool517,5,17,Highschool
-1135,Master'sDegree1014,10,14,Master's Degree
-1136,SomeCollege035,0,35,Some College
-1137,Highschool207,20,7,Highschool
-1138,PhD1922,19,22,PhD
-1139,Highschool813,8,13,Highschool
-1140,Master'sDegree1414,14,14,Master's Degree
-1141,Highschool318,3,18,Highschool
-1142,Bachelor'sDegree2023,20,23,Bachelor's Degree
-1143,Bachelor'sDegree1213,12,13,Bachelor's Degree
-1144,Highschool1013,10,13,Highschool
-1145,Bachelor'sDegree1218,12,18,Bachelor's Degree
-1146,Bachelor'sDegree1318,13,18,Bachelor's Degree
-1147,Master'sDegree1820,18,20,Master's Degree
-1148,PhD121,1,21,PhD
-1149,PhD1225,12,25,PhD
-1150,SomeCollege516,5,16,Some College
-1151,Master'sDegree019,0,19,Master's Degree
-1152,Highschool322,3,22,Highschool
-1153,SomeCollege711,7,11,Some College
-1154,PhD126,12,6,PhD
-1155,Bachelor'sDegree122,1,22,Bachelor's Degree
-1156,PhD423,4,23,PhD
-1157,Highschool442,4,42,Highschool
-1158,SomeCollege1030,10,30,Some College
-1159,PhD525,5,25,PhD
-1160,Bachelor'sDegree1926,19,26,Bachelor's Degree
-1161,SomeCollege442,4,42,Some College
-1162,Master'sDegree2125,21,25,Master's Degree
-1163,Master'sDegree1213,12,13,Master's Degree
-1164,SomeCollege1520,15,20,Some College
-1165,Bachelor'sDegree75,7,5,Bachelor's Degree
-1166,Bachelor'sDegree130,1,30,Bachelor's Degree
-1167,Master'sDegree1420,14,20,Master's Degree
-1168,Master'sDegree330,3,30,Master's Degree
-1169,Highschool920,9,20,Highschool
-1170,Highschool820,8,20,Highschool
-1171,Bachelor'sDegree64,6,4,Bachelor's Degree
-1172,Master'sDegree422,4,22,Master's Degree
-1173,Master'sDegree1416,14,16,Master's Degree
-1174,SomeCollege627,6,27,Some College
-1175,PhD711,7,11,PhD
-1176,SomeCollege714,7,14,Some College
-1177,Highschool1422,14,22,Highschool
-1178,Master'sDegree225,2,25,Master's Degree
-1179,SomeCollege40,4,0,Some College
-1180,PhD1518,15,18,PhD
-1181,PhD1015,10,15,PhD
-1182,Bachelor'sDegree123,1,23,Bachelor's Degree
-1183,Bachelor'sDegree417,4,17,Bachelor's Degree
-1184,PhD1217,12,17,PhD
-1185,PhD018,0,18,PhD
-1186,SomeCollege223,2,23,Some College
-1187,Highschool83,8,3,Highschool
-1188,PhD142,14,2,PhD
-1189,Master'sDegree194,19,4,Master's Degree
-1190,SomeCollege94,9,4,Some College
-1191,Bachelor'sDegree1820,18,20,Bachelor's Degree
-1192,Highschool123,1,23,Highschool
-1193,Bachelor'sDegree1517,15,17,Bachelor's Degree
-1194,SomeCollege424,4,24,Some College
-1195,PhD59,5,9,PhD
-1196,Highschool1320,13,20,Highschool
-1197,Master'sDegree221,2,21,Master's Degree
-1198,PhD017,0,17,PhD
-1199,Master'sDegree1019,10,19,Master's Degree
-1200,PhD725,7,25,PhD
-1201,SomeCollege20,2,0,Some College
-1202,Bachelor'sDegree630,6,30,Bachelor's Degree
-1203,PhD54,5,4,PhD
-1204,Master'sDegree1930,19,30,Master's Degree
-1205,Highschool818,8,18,Highschool
-1206,Master'sDegree2024,20,24,Master's Degree
-1207,Bachelor'sDegree1824,18,24,Bachelor's Degree
-1208,Bachelor'sDegree328,3,28,Bachelor's Degree
-1209,Highschool1821,18,21,Highschool
-1210,SomeCollege620,6,20,Some College
-1211,Bachelor'sDegree1135,11,35,Bachelor's Degree
-1212,SomeCollege1519,15,19,Some College
-1213,Master'sDegree2028,20,28,Master's Degree
-1214,Master'sDegree813,8,13,Master's Degree
-1215,PhD1320,13,20,PhD
-1216,PhD1020,10,20,PhD
-1217,PhD117,1,17,PhD
-1218,SomeCollege1223,12,23,Some College
-1219,PhD1717,17,17,PhD
-1220,Bachelor'sDegree1330,13,30,Bachelor's Degree
-1221,Master'sDegree541,5,41,Master's Degree
-1222,PhD224,2,24,PhD
-1223,PhD1141,11,41,PhD
-1224,Bachelor'sDegree823,8,23,Bachelor's Degree
-1225,Master'sDegree323,3,23,Master's Degree
-1226,Bachelor'sDegree718,7,18,Bachelor's Degree
-1227,Bachelor'sDegree419,4,19,Bachelor's Degree
-1228,PhD722,7,22,PhD
-1229,PhD1028,10,28,PhD
-1230,PhD916,9,16,PhD
-1231,SomeCollege823,8,23,Some College
-1232,SomeCollege230,2,30,Some College
-1233,Highschool2029,20,29,Highschool
-1234,Bachelor'sDegree173,17,3,Bachelor's Degree
-1235,Highschool025,0,25,Highschool
-1236,Bachelor'sDegree95,9,5,Bachelor's Degree
-1237,SomeCollege2530,25,30,Some College
-1238,PhD1415,14,15,PhD
-1239,Bachelor'sDegree152,15,2,Bachelor's Degree
-1240,SomeCollege1720,17,20,Some College
-1241,Bachelor'sDegree1314,13,14,Bachelor's Degree
-1242,PhD2525,25,25,PhD
-1243,Bachelor'sDegree817,8,17,Bachelor's Degree
-1244,Master'sDegree1016,10,16,Master's Degree
-1245,Master'sDegree61,6,1,Master's Degree
-1246,Master'sDegree1018,10,18,Master's Degree
-1247,Master'sDegree2233,22,33,Master's Degree
-1248,SomeCollege1919,19,19,Some College
-1249,PhD016,0,16,PhD
-1250,Bachelor'sDegree824,8,24,Bachelor's Degree
-1251,Bachelor'sDegree819,8,19,Bachelor's Degree
-1252,Master'sDegree013,0,13,Master's Degree
-1253,Bachelor'sDegree92,9,2,Bachelor's Degree
-1254,Highschool1221,12,21,Highschool
-1255,Highschool75,7,5,Highschool
-1256,PhD1416,14,16,PhD
-1257,Highschool1017,10,17,Highschool
-1258,Bachelor'sDegree1616,16,16,Bachelor's Degree
-1259,Highschool1316,13,16,Highschool
-1260,SomeCollege426,4,26,Some College
-1261,PhD1510,15,10,PhD
-1262,Highschool918,9,18,Highschool
-1263,SomeCollege1113,11,13,Some College
-1264,SomeCollege018,0,18,Some College
-1265,Master'sDegree625,6,25,Master's Degree
-1266,Master'sDegree417,4,17,Master's Degree
-1267,Master'sDegree319,3,19,Master's Degree
-1268,Master'sDegree1319,13,19,Master's Degree
-1269,Master'sDegree41,4,1,Master's Degree
-1270,Master'sDegree53,5,3,Master's Degree
-1271,Highschool019,0,19,Highschool
-1272,Bachelor'sDegree136,13,6,Bachelor's Degree
-1273,PhD027,0,27,PhD
-1274,SomeCollege1325,13,25,Some College
-1275,PhD1525,15,25,PhD
-1276,Master'sDegree222,2,22,Master's Degree
-1277,Master'sDegree920,9,20,Master's Degree
-1278,Master'sDegree623,6,23,Master's Degree
-1279,Master'sDegree92,9,2,Master's Degree
-1280,Master'sDegree40,4,0,Master's Degree
-1281,PhD2030,20,30,PhD
-1282,Master'sDegree64,6,4,Master's Degree
-1283,Master'sDegree822,8,22,Master's Degree
-1284,Master'sDegree016,0,16,Master's Degree
-1285,Highschool1517,15,17,Highschool
-1286,Master'sDegree52,5,2,Master's Degree
-1287,Master'sDegree97,9,7,Master's Degree
-1288,Master'sDegree614,6,14,Master's Degree
-1289,Highschool314,3,14,Highschool
-1290,Bachelor'sDegree53,5,3,Bachelor's Degree
-1291,Master'sDegree95,9,5,Master's Degree
-1292,SomeCollege623,6,23,Some College
-1293,SomeCollege2028,20,28,Some College
-1294,Master'sDegree1928,19,28,Master's Degree
-1295,PhD029,0,29,PhD
-1296,SomeCollege923,9,23,Some College
-1297,SomeCollege319,3,19,Some College
-1298,Master'sDegree123,1,23,Master's Degree
-1299,SomeCollege1322,13,22,Some College
-1300,Master'sDegree521,5,21,Master's Degree
-1301,SomeCollege919,9,19,Some College
-1302,Master'sDegree819,8,19,Master's Degree
-1303,SomeCollege31,3,1,Some College
-1304,SomeCollege725,7,25,Some College
-1305,SomeCollege50,5,0,Some College
-1306,PhD1425,14,25,PhD
-1307,SomeCollege52,5,2,Some College
-1308,Master'sDegree923,9,23,Master's Degree
-1309,SomeCollege518,5,18,Some College
-1310,SomeCollege104,10,4,Some College
-1311,PhD2035,20,35,PhD
-1312,Master'sDegree018,0,18,Master's Degree
-1313,Bachelor'sDegree145,14,5,Bachelor's Degree
-1314,SomeCollege93,9,3,Some College
-1315,Master'sDegree1011,10,11,Master's Degree
-1316,Master'sDegree818,8,18,Master's Degree
-1317,Highschool511,5,11,Highschool
-1318,Master'sDegree1119,11,19,Master's Degree
-1319,SomeCollege026,0,26,Some College
-1320,Bachelor'sDegree1011,10,11,Bachelor's Degree
-1321,Highschool1719,17,19,Highschool
-1322,Highschool2030,20,30,Highschool
-1323,Master'sDegree2023,20,23,Master's Degree
-1324,Master'sDegree922,9,22,Master's Degree
-1325,Master'sDegree1519,15,19,Master's Degree
-1326,Master'sDegree1424,14,24,Master's Degree
-1327,Master'sDegree1825,18,25,Master's Degree
-1328,Master'sDegree226,2,26,Master's Degree
-1329,Master'sDegree830,8,30,Master's Degree
-1330,Master'sDegree530,5,30,Master's Degree
-1331,Highschool30,3,0,Highschool
-1332,Master'sDegree63,6,3,Master's Degree
-1333,PhD330,3,30,PhD
-1334,Master'sDegree419,4,19,Master's Degree
-1335,Bachelor'sDegree21,2,1,Bachelor's Degree
-1336,Bachelor'sDegree423,4,23,Bachelor's Degree
-1337,Master'sDegree919,9,19,Master's Degree
-1338,Master'sDegree1620,16,20,Master's Degree
-1339,Highschool2222,22,22,Highschool
-1340,PhD219,2,19,PhD
-1341,SomeCollege1818,18,18,Some College
-1342,Master'sDegree023,0,23,Master's Degree
-1343,Master'sDegree1423,14,23,Master's Degree
-1344,Master'sDegree1535,15,35,Master's Degree
-1345,SomeCollege722,7,22,Some College
-1346,SomeCollege1014,10,14,Some College
-1347,Master'sDegree321,3,21,Master's Degree
-1348,Master'sDegree1530,15,30,Master's Degree
-1349,Master'sDegree322,3,22,Master's Degree
-1350,Bachelor'sDegree1832,18,32,Bachelor's Degree
-1351,PhD616,6,16,PhD
-1352,Master'sDegree1718,17,18,Master's Degree
-1353,Master'sDegree2626,26,26,Master's Degree
-1354,Master'sDegree722,7,22,Master's Degree
-1355,Master'sDegree522,5,22,Master's Degree
-1356,Master'sDegree224,2,24,Master's Degree
-1357,Bachelor'sDegree1720,17,20,Bachelor's Degree
-1358,Master'sDegree153,15,3,Master's Degree
-1359,Master'sDegree622,6,22,Master's Degree
-1360,Bachelor'sDegree421,4,21,Bachelor's Degree
-1361,Master'sDegree2222,22,22,Master's Degree
-1362,Master'sDegree1025,10,25,Master's Degree
-1363,Master'sDegree32,3,2,Master's Degree
-1364,Master'sDegree1114,11,14,Master's Degree
-1365,Master'sDegree324,3,24,Master's Degree
-1366,Highschool1216,12,16,Highschool
-1367,PhD226,2,26,PhD
-1368,PhD1920,19,20,PhD
-1369,SomeCollege1925,19,25,Some College
-1370,Master'sDegree1321,13,21,Master's Degree
-1371,Master'sDegree1118,11,18,Master's Degree
-1372,Highschool121,1,21,Highschool
-1373,Highschool2233,22,33,Highschool
-1374,Master'sDegree2027,20,27,Master's Degree
-1375,PhD30,3,0,PhD
-1376,Master'sDegree1525,15,25,Master's Degree
-1377,PhD822,8,22,PhD
-1378,PhD124,1,24,PhD
-1379,Highschool1222,12,22,Highschool
-1380,PhD1414,14,14,PhD
-1381,Master'sDegree619,6,19,Master's Degree
-1382,Master'sDegree1325,13,25,Master's Degree
-1383,PhD127,1,27,PhD
-1384,Highschool225,2,25,Highschool
-1385,Master'sDegree130,1,30,Master's Degree
-1386,SomeCollege64,6,4,Some College
-1387,SomeCollege830,8,30,Some College
-1388,Bachelor'sDegree940,9,40,Bachelor's Degree
-1389,Master'sDegree108,10,8,Master's Degree
-1390,SomeCollege922,9,22,Some College
-1391,Bachelor'sDegree727,7,27,Bachelor's Degree
-1392,SomeCollege2222,22,22,Some College
-1393,SomeCollege726,7,26,Some College
-1394,PhD325,3,25,PhD
-1395,Master'sDegree132,1,32,Master's Degree
-1396,PhD2010,20,10,PhD
-1397,Master'sDegree231,2,31,Master's Degree
-1398,SomeCollege824,8,24,Some College
-1399,Highschool1527,15,27,Highschool
-1400,Master'sDegree1317,13,17,Master's Degree
-1401,PhD2323,23,23,PhD
-1402,Bachelor'sDegree725,7,25,Bachelor's Degree
-1403,Master'sDegree1217,12,17,Master's Degree
-1404,PhD540,5,40,PhD
-1405,Highschool022,0,22,Highschool
-1406,Master'sDegree2323,23,23,Master's Degree
-1407,Highschool329,3,29,Highschool
-1408,Master'sDegree98,9,8,Master's Degree
-1409,Master'sDegree128,1,28,Master's Degree
-1410,Highschool330,3,30,Highschool
-1411,Bachelor'sDegree629,6,29,Bachelor's Degree
-1412,Master'sDegree1216,12,16,Master's Degree
-1413,Bachelor'sDegree51,5,1,Bachelor's Degree
-1414,Master'sDegree72,7,2,Master's Degree
-1415,Master'sDegree2124,21,24,Master's Degree
-1416,SomeCollege427,4,27,Some College
-1417,Highschool925,9,25,Highschool
-1418,PhD817,8,17,PhD
-1419,SomeCollege2030,20,30,Some College
-1420,Master'sDegree2022,20,22,Master's Degree
-1421,PhD1516,15,16,PhD
-1422,Bachelor'sDegree016,0,16,Bachelor's Degree
-1423,Master'sDegree1316,13,16,Master's Degree
-1424,Master'sDegree423,4,23,Master's Degree
-1425,Master'sDegree85,8,5,Master's Degree
-1426,Master'sDegree030,0,30,Master's Degree
-1427,Bachelor'sDegree027,0,27,Bachelor's Degree
-1428,SomeCollege622,6,22,Some College
-1429,Master'sDegree024,0,24,Master's Degree
-1430,Highschool1023,10,23,Highschool
-1431,Master'sDegree524,5,24,Master's Degree
-1432,Master'sDegree51,5,1,Master's Degree
-1433,Bachelor'sDegree517,5,17,Bachelor's Degree
-1434,Master'sDegree1211,12,11,Master's Degree
-1435,Master'sDegree325,3,25,Master's Degree
-1436,PhD1420,14,20,PhD
-1437,Master'sDegree1921,19,21,Master's Degree
-1438,Master'sDegree127,1,27,Master's Degree
-1439,Highschool1426,14,26,Highschool
-1440,PhD918,9,18,PhD
-1441,Highschool525,5,25,Highschool
-1442,Master'sDegree928,9,28,Master's Degree
-1443,Highschool822,8,22,Highschool
-1444,Highschool1425,14,25,Highschool
-1445,PhD1430,14,30,PhD
-1446,Master'sDegree126,1,26,Master's Degree
-1447,PhD1331,13,31,PhD
-1448,Highschool122,1,22,Highschool
-1449,Master'sDegree425,4,25,Master's Degree
-1450,Master'sDegree2431,24,31,Master's Degree
-1451,Bachelor'sDegree918,9,18,Bachelor's Degree
-1452,Bachelor'sDegree1225,12,25,Bachelor's Degree
-1453,Highschool817,8,17,Highschool
-1454,Master'sDegree025,0,25,Master's Degree
-1455,PhD910,9,10,PhD
-1456,PhD022,0,22,PhD
-1457,PhD1121,11,21,PhD
-1458,Highschool917,9,17,Highschool
-1459,Master'sDegree914,9,14,Master's Degree
-1460,Bachelor'sDegree813,8,13,Bachelor's Degree
-1461,SomeCollege222,2,22,Some College
-1462,PhD1925,19,25,PhD
-1463,SomeCollege340,3,40,Some College
-1464,Highschool1923,19,23,Highschool
-1465,PhD322,3,22,PhD
-1466,PhD222,2,22,PhD
-1467,Master'sDegree1022,10,22,Master's Degree
-1468,PhD624,6,24,PhD
-1469,SomeCollege316,3,16,Some College
-1470,SomeCollege135,1,35,Some College
-1471,SomeCollege913,9,13,Some College
-1472,Bachelor'sDegree2135,21,35,Bachelor's Degree
-1473,Master'sDegree131,1,31,Master's Degree
-1474,Master'sDegree1517,15,17,Master's Degree
-1475,PhD1120,11,20,PhD
-1476,SomeCollege1124,11,24,Some College
-1477,Highschool927,9,27,Highschool
-1478,PhD122,1,22,PhD
-1479,Highschool919,9,19,Highschool
-1480,PhD1722,17,22,PhD
-1481,PhD419,4,19,PhD
-1482,PhD426,4,26,PhD
-1483,Highschool1030,10,30,Highschool
-1484,Highschool519,5,19,Highschool
-1485,Bachelor'sDegree1013,10,13,Bachelor's Degree
-1486,Bachelor'sDegree2025,20,25,Bachelor's Degree
-1487,Master'sDegree918,9,18,Master's Degree
-1488,Bachelor'sDegree925,9,25,Bachelor's Degree
-1489,PhD1135,11,35,PhD
-1490,Master'sDegree927,9,27,Master's Degree
-1491,Master'sDegree1725,17,25,Master's Degree
-1492,PhD1224,12,24,PhD
-1493,Master'sDegree2121,21,21,Master's Degree
-1494,Master'sDegree1830,18,30,Master's Degree
-1495,PhD023,0,23,PhD
-1496,SomeCollege526,5,26,Some College
-1497,SomeCollege3232,32,32,Some College
-1498,Highschool324,3,24,Highschool
-1499,Master'sDegree911,9,11,Master's Degree
-1500,Bachelor'sDegree1132,11,32,Bachelor's Degree
-1501,Master'sDegree1324,13,24,Master's Degree
-1502,SomeCollege1318,13,18,Some College
-1503,Master'sDegree1314,13,14,Master's Degree
-1504,Bachelor'sDegree2030,20,30,Bachelor's Degree
-1505,Highschool2121,21,21,Highschool
-1506,Highschool1524,15,24,Highschool
-1507,PhD1919,19,19,PhD
-1508,Master'sDegree824,8,24,Master's Degree
-1509,SomeCollege2225,22,25,Some College
-1510,PhD720,7,20,PhD
-1511,SomeCollege1824,18,24,Some College
-1512,Master'sDegree523,5,23,Master's Degree
-1513,Bachelor'sDegree917,9,17,Bachelor's Degree
-1514,Bachelor'sDegree125,1,25,Bachelor's Degree
-1515,PhD1022,10,22,PhD
-1516,Bachelor'sDegree121,1,21,Bachelor's Degree
-1517,Highschool1025,10,25,Highschool
-1518,Bachelor'sDegree1923,19,23,Bachelor's Degree
-1519,Bachelor'sDegree1017,10,17,Bachelor's Degree
-1520,Bachelor'sDegree89,8,9,Bachelor's Degree
-1521,Bachelor'sDegree124,1,24,Bachelor's Degree
-1522,Master'sDegree817,8,17,Master's Degree
-1523,Bachelor'sDegree1323,13,23,Bachelor's Degree
-1524,Master'sDegree1226,12,26,Master's Degree
-1525,Highschool017,0,17,Highschool
-1526,Highschool617,6,17,Highschool
-1527,Master'sDegree2123,21,23,Master's Degree
-1528,Master'sDegree122,1,22,Master's Degree
-1529,Master'sDegree2425,24,25,Master's Degree
-1530,Bachelor'sDegree2529,25,29,Bachelor's Degree
-1531,Bachelor'sDegree1315,13,15,Bachelor's Degree
-1532,Bachelor'sDegree1525,15,25,Bachelor's Degree
-1533,Master'sDegree1419,14,19,Master's Degree
-1534,Bachelor'sDegree523,5,23,Bachelor's Degree
-1535,Master'sDegree725,7,25,Master's Degree
-1536,Bachelor'sDegree2222,22,22,Bachelor's Degree
-1537,Bachelor'sDegree1320,13,20,Bachelor's Degree
-1538,PhD913,9,13,PhD
-1539,Bachelor'sDegree1114,11,14,Bachelor's Degree
-1540,Highschool723,7,23,Highschool
-1541,Master'sDegree1221,12,21,Master's Degree
-1542,Bachelor'sDegree1030,10,30,Bachelor's Degree
-1543,Master'sDegree1116,11,16,Master's Degree
-1544,Bachelor'sDegree2424,24,24,Bachelor's Degree
-1545,PhD617,6,17,PhD
-1546,Bachelor'sDegree1317,13,17,Bachelor's Degree
-1547,PhD1423,14,23,PhD
-1548,PhD818,8,18,PhD
-1549,PhD814,8,14,PhD
-1550,Master'sDegree1425,14,25,Master's Degree
-1551,SomeCollege1017,10,17,Some College
-1552,Bachelor'sDegree2323,23,23,Bachelor's Degree
-1553,Master'sDegree1722,17,22,Master's Degree
-1554,PhD1123,11,23,PhD
-1555,Bachelor'sDegree1217,12,17,Bachelor's Degree
-1556,PhD1025,10,25,PhD
-1557,SomeCollege930,9,30,Some College
-1558,Master'sDegree2225,22,25,Master's Degree
-1559,Highschool425,4,25,Highschool
-1560,SomeCollege915,9,15,Some College
-1561,Bachelor'sDegree1423,14,23,Bachelor's Degree
-1562,Highschool1418,14,18,Highschool
-1563,Master'sDegree1330,13,30,Master's Degree
-1564,Master'sDegree1717,17,17,Master's Degree
-1565,Highschool231,2,31,Highschool
-1566,Master'sDegree223,2,23,Master's Degree
-1567,Master'sDegree1621,16,21,Master's Degree
-1568,PhD830,8,30,PhD
-1569,SomeCollege128,1,28,Some College
-1570,Master'sDegree821,8,21,Master's Degree
-1571,Master'sDegree022,0,22,Master's Degree
-1572,Master'sDegree1421,14,21,Master's Degree
-1573,Master'sDegree2727,27,27,Master's Degree
-1574,Bachelor'sDegree1717,17,17,Bachelor's Degree
-1575,Bachelor'sDegree1321,13,21,Bachelor's Degree
-1576,Bachelor'sDegree1619,16,19,Bachelor's Degree
-1577,Master'sDegree430,4,30,Master's Degree
-1578,Master'sDegree1636,16,36,Master's Degree
-1579,Highschool321,3,21,Highschool
-1580,Master'sDegree2828,28,28,Master's Degree
-1581,Bachelor'sDegree2335,23,35,Bachelor's Degree
-1582,Bachelor'sDegree1021,10,21,Bachelor's Degree
-1583,Highschool222,2,22,Highschool
-1584,Master'sDegree1925,19,25,Master's Degree
-1585,PhD714,7,14,PhD
-1586,Master'sDegree335,3,35,Master's Degree
-1587,Bachelor'sDegree1718,17,18,Bachelor's Degree
-1588,SomeCollege1213,12,13,Some College
-1589,Bachelor'sDegree224,2,24,Bachelor's Degree
-1590,Bachelor'sDegree1022,10,22,Bachelor's Degree
-1591,Bachelor'sDegree2040,20,40,Bachelor's Degree
-1592,Bachelor'sDegree324,3,24,Bachelor's Degree
-1593,PhD819,8,19,PhD
-1594,Bachelor'sDegree1722,17,22,Bachelor's Degree
-1595,SomeCollege239,2,39,Some College
-1596,Master'sDegree1415,14,15,Master's Degree
-1597,Bachelor'sDegree1524,15,24,Bachelor's Degree
-1598,PhD825,8,25,PhD
-1599,Bachelor'sDegree132,1,32,Bachelor's Degree
-1600,PhD1114,11,14,PhD
-1601,SomeCollege328,3,28,Some College
-1602,Bachelor'sDegree1622,16,22,Bachelor's Degree
-1603,Highschool2537,25,37,Highschool
-1604,Bachelor'sDegree1027,10,27,Bachelor's Degree
-1605,Bachelor'sDegree1521,15,21,Bachelor's Degree
-1606,Bachelor'sDegree1419,14,19,Bachelor's Degree
-1607,Bachelor'sDegree330,3,30,Bachelor's Degree
-1608,Highschool1522,15,22,Highschool
-1609,Bachelor'sDegree519,5,19,Bachelor's Degree
-1610,SomeCollege522,5,22,Some College
-1611,Highschool228,2,28,Highschool
-1612,Bachelor'sDegree533,5,33,Bachelor's Degree
-1613,SomeCollege1820,18,20,Some College
-1614,PhD723,7,23,PhD
-1615,Bachelor'sDegree1421,14,21,Bachelor's Degree
-1616,Bachelor'sDegree1530,15,30,Bachelor's Degree
-1617,Bachelor'sDegree1023,10,23,Bachelor's Degree
-1618,Master'sDegree529,5,29,Master's Degree
-1619,PhD1318,13,18,PhD
-1620,Bachelor'sDegree1033,10,33,Bachelor's Degree
-1621,Master'sDegree2327,23,27,Master's Degree
-1622,Bachelor'sDegree335,3,35,Bachelor's Degree
-1623,Bachelor'sDegree023,0,23,Bachelor's Degree
-1624,Master'sDegree1235,12,35,Master's Degree
-1625,Bachelor'sDegree2531,25,31,Bachelor's Degree
-1626,Highschool1626,16,26,Highschool
-1627,Bachelor'sDegree1536,15,36,Bachelor's Degree
-1628,Highschool1618,16,18,Highschool
-1629,Bachelor'sDegree724,7,24,Bachelor's Degree
-1630,Highschool1927,19,27,Highschool
-1631,Bachelor'sDegree919,9,19,Bachelor's Degree
-1632,Master'sDegree340,3,40,Master's Degree
-1633,Bachelor'sDegree1623,16,23,Bachelor's Degree
-1634,Bachelor'sDegree024,0,24,Bachelor's Degree
-1635,Master'sDegree2525,25,25,Master's Degree
-1636,SomeCollege530,5,30,Some College
-1637,Master'sDegree429,4,29,Master's Degree
-1638,Master'sDegree936,9,36,Master's Degree
-1639,SomeCollege822,8,22,Some College
-1640,PhD2837,28,37,PhD
-1641,Highschool719,7,19,Highschool
-1642,Bachelor'sDegree1018,10,18,Bachelor's Degree
-1643,Master'sDegree1640,16,40,Master's Degree
-1644,Master'sDegree2227,22,27,Master's Degree
-1645,Master'sDegree1523,15,23,Master's Degree
-1646,Bachelor'sDegree2021,20,21,Bachelor's Degree
-1647,Master'sDegree930,9,30,Master's Degree
-1648,PhD919,9,19,PhD
-1649,Highschool521,5,21,Highschool
-1650,Master'sDegree630,6,30,Master's Degree
-1651,Master'sDegree1522,15,22,Master's Degree
-1652,Bachelor'sDegree914,9,14,Bachelor's Degree
-1653,Master'sDegree825,8,25,Master's Degree
-1654,Master'sDegree1737,17,37,Master's Degree
-1655,Bachelor'sDegree228,2,28,Bachelor's Degree
-1656,SomeCollege324,3,24,Some College
-1657,Master'sDegree2335,23,35,Master's Degree
-1658,SomeCollege1423,14,23,Some College
-1659,SomeCollege1011,10,11,Some College
-1660,Bachelor'sDegree030,0,30,Bachelor's Degree
-1661,PhD622,6,22,PhD
-1662,Highschool130,1,30,Highschool
-1663,Bachelor'sDegree2729,27,29,Bachelor's Degree
-1664,Bachelor'sDegree1325,13,25,Bachelor's Degree
-1665,Highschool912,9,12,Highschool
-1666,SomeCollege916,9,16,Some College
-1667,Bachelor'sDegree230,2,30,Bachelor's Degree
-1668,PhD028,0,28,PhD
-1669,Master'sDegree2328,23,28,Master's Degree
-1670,Bachelor'sDegree2024,20,24,Bachelor's Degree
-1671,Bachelor'sDegree916,9,16,Bachelor's Degree
-1672,Master'sDegree635,6,35,Master's Degree
-1673,Master'sDegree326,3,26,Master's Degree
-1674,SomeCollege321,3,21,Some College
-1675,Bachelor'sDegree1035,10,35,Bachelor's Degree
-1676,Bachelor'sDegree2530,25,30,Bachelor's Degree
-1677,Master'sDegree2424,24,24,Master's Degree
-1678,Highschool1717,17,17,Highschool
-1679,Highschool1423,14,23,Highschool
-1680,Master'sDegree1538,15,38,Master's Degree
-1681,Bachelor'sDegree1522,15,22,Bachelor's Degree
-1682,PhD2128,21,28,PhD
-1683,Master'sDegree721,7,21,Master's Degree
-1684,Bachelor'sDegree830,8,30,Bachelor's Degree
-1685,SomeCollege1516,15,16,Some College
-1686,Bachelor'sDegree522,5,22,Bachelor's Degree
-1687,Bachelor'sDegree1319,13,19,Bachelor's Degree
-1688,PhD326,3,26,PhD
-1689,Bachelor'sDegree1025,10,25,Bachelor's Degree
-1690,Highschool522,5,22,Highschool
-1691,SomeCollege1317,13,17,Some College
-1692,PhD421,4,21,PhD
-1693,Bachelor'sDegree1019,10,19,Bachelor's Degree
-1694,Master'sDegree1122,11,22,Master's Degree
-1695,PhD035,0,35,PhD
-1696,Highschool825,8,25,Highschool
-1697,Master'sDegree2427,24,27,Master's Degree
-1698,Bachelor'sDegree2333,23,33,Bachelor's Degree
-1699,PhD1325,13,25,PhD
-1700,SomeCollege030,0,30,Some College
-1701,Highschool1218,12,18,Highschool
-1702,Bachelor'sDegree1430,14,30,Bachelor's Degree
-1703,Bachelor'sDegree1424,14,24,Bachelor's Degree
-1704,Bachelor'sDegree1919,19,19,Bachelor's Degree
-1705,Highschool1721,17,21,Highschool
-1706,Highschool1325,13,25,Highschool
-1707,SomeCollege628,6,28,Some College
-1708,Master'sDegree1030,10,30,Master's Degree
-1709,SomeCollege022,0,22,Some College
-1710,Highschool928,9,28,Highschool
-1711,Master'sDegree2045,20,45,Master's Degree
-1712,Master'sDegree1618,16,18,Master's Degree
-1713,Bachelor'sDegree2122,21,22,Bachelor's Degree
-1714,Bachelor'sDegree1029,10,29,Bachelor's Degree
-1715,Bachelor'sDegree1222,12,22,Bachelor's Degree
-1716,Master'sDegree527,5,27,Master's Degree
-1717,Bachelor'sDegree1121,11,21,Bachelor's Degree
-1718,Master'sDegree2229,22,29,Master's Degree
-1719,Master'sDegree2039,20,39,Master's Degree
-1720,PhD221,2,21,PhD
-1721,SomeCollege811,8,11,Some College
-1722,Master'sDegree628,6,28,Master's Degree
-1723,Bachelor'sDegree422,4,22,Bachelor's Degree
-1724,Bachelor'sDegree528,5,28,Bachelor's Degree
-1725,Highschool1130,11,30,Highschool
-1726,Master'sDegree1526,15,26,Master's Degree
-1727,Bachelor'sDegree1227,12,27,Bachelor's Degree
-1728,Bachelor'sDegree921,9,21,Bachelor's Degree
-1729,Bachelor'sDegree822,8,22,Bachelor's Degree
-1730,Bachelor'sDegree1316,13,16,Bachelor's Degree
-1731,Master'sDegree230,2,30,Master's Degree
-1732,Bachelor'sDegree426,4,26,Bachelor's Degree
-1733,Master'sDegree432,4,32,Master's Degree
-1734,SomeCollege929,9,29,Some College
-1735,Bachelor'sDegree226,2,26,Bachelor's Degree
-1736,Bachelor'sDegree1624,16,24,Bachelor's Degree
-1737,Highschool622,6,22,Highschool
-1738,SomeCollege2121,21,21,Some College
-1739,Master'sDegree1417,14,17,Master's Degree
-1740,Master'sDegree2325,23,25,Master's Degree
-1741,Master'sDegree526,5,26,Master's Degree
-1742,Master'sDegree328,3,28,Master's Degree
-1743,SomeCollege1419,14,19,Some College
-1744,SomeCollege1226,12,26,Some College
-1745,Bachelor'sDegree1028,10,28,Bachelor's Degree
-1746,SomeCollege226,2,26,Some College
-1747,Bachelor'sDegree2727,27,27,Bachelor's Degree
-1748,Highschool023,0,23,Highschool
-1749,Highschool1925,19,25,Highschool
-1750,Bachelor'sDegree227,2,27,Bachelor's Degree
-1751,SomeCollege225,2,25,Some College
-1752,Bachelor'sDegree721,7,21,Bachelor's Degree
-1753,Bachelor'sDegree1821,18,21,Bachelor's Degree
-1754,Bachelor'sDegree029,0,29,Bachelor's Degree
-1755,SomeCollege421,4,21,Some College
-1756,SomeCollege1624,16,24,Some College
-1757,PhD324,3,24,PhD
-1758,Bachelor'sDegree2428,24,28,Bachelor's Degree
-1759,Master'sDegree1524,15,24,Master's Degree
-1760,Master'sDegree1026,10,26,Master's Degree
-1761,SomeCollege925,9,25,Some College
-1762,PhD911,9,11,PhD
-1763,Highschool1122,11,22,Highschool
-1764,Bachelor'sDegree021,0,21,Bachelor's Degree
-1765,Highschool423,4,23,Highschool
-1766,Bachelor'sDegree1825,18,25,Bachelor's Degree
-1767,SomeCollege1116,11,16,Some College
-1768,Bachelor'sDegree840,8,40,Bachelor's Degree
-1769,SomeCollege6969,69,69,Some College
-1770,Bachelor'sDegree2230,22,30,Bachelor's Degree
-1771,Master'sDegree2021,20,21,Master's Degree
-1772,Bachelor'sDegree723,7,23,Bachelor's Degree
-1773,Master'sDegree1521,15,21,Master's Degree
-1774,Master'sDegree823,8,23,Master's Degree
-1775,Bachelor'sDegree1627,16,27,Bachelor's Degree
-1776,Master'sDegree2324,23,24,Master's Degree
-1777,SomeCollege527,5,27,Some College
-1778,Master'sDegree925,9,25,Master's Degree
-1779,Bachelor'sDegree1322,13,22,Bachelor's Degree
-1780,Bachelor'sDegree922,9,22,Bachelor's Degree
-1781,Bachelor'sDegree2226,22,26,Bachelor's Degree
-1782,Master'sDegree440,4,40,Master's Degree
-1783,Master'sDegree427,4,27,Master's Degree
-1784,Bachelor'sDegree326,3,26,Bachelor's Degree
-1785,Master'sDegree3333,33,33,Master's Degree
-1786,Bachelor'sDegree1927,19,27,Bachelor's Degree
-1787,Master'sDegree3434,34,34,Master's Degree
-1788,PhD1926,19,26,PhD
-1789,Master'sDegree235,2,35,Master's Degree
-1790,Bachelor'sDegree2425,24,25,Bachelor's Degree
-1791,Bachelor'sDegree1519,15,19,Bachelor's Degree
-1792,SomeCollege1628,16,28,Some College
-1793,Bachelor'sDegree923,9,23,Bachelor's Degree
-1794,PhD2023,20,23,PhD
-1795,Master'sDegree838,8,38,Master's Degree
-1796,Highschool323,3,23,Highschool
-1797,Master'sDegree4040,40,40,Master's Degree
-1798,Bachelor'sDegree430,4,30,Bachelor's Degree
-1799,PhD524,5,24,PhD
-1800,Master'sDegree1823,18,23,Master's Degree
-1801,Highschool722,7,22,Highschool
-1802,Bachelor'sDegree527,5,27,Bachelor's Degree
-1803,Bachelor'sDegree1724,17,24,Bachelor's Degree
-1804,Bachelor'sDegree1723,17,23,Bachelor's Degree
-1805,Master'sDegree2035,20,35,Master's Degree
-1806,PhD335,3,35,PhD
-1807,Master'sDegree424,4,24,Master's Degree
-1808,SomeCollege1025,10,25,Some College
-1809,SomeCollege1630,16,30,Some College
-1810,Bachelor'sDegree1830,18,30,Bachelor's Degree
-1811,Bachelor'sDegree1113,11,13,Bachelor's Degree
-1812,Bachelor'sDegree1427,14,27,Bachelor's Degree
-1813,Master'sDegree1121,11,21,Master's Degree
-1814,Master'sDegree032,0,32,Master's Degree
-1815,Bachelor'sDegree434,4,34,Bachelor's Degree
-1816,Master'sDegree1720,17,20,Master's Degree
-1817,Bachelor'sDegree722,7,22,Bachelor's Degree
-1818,Bachelor'sDegree2538,25,38,Bachelor's Degree
-1819,PhD1421,14,21,PhD
-1820,SomeCollege1319,13,19,Some College
-1821,Highschool227,2,27,Highschool
-1822,Bachelor'sDegree1823,18,23,Bachelor's Degree
-1823,Bachelor'sDegree2126,21,26,Bachelor's Degree
-1824,Master'sDegree626,6,26,Master's Degree
-1825,PhD1521,15,21,PhD
-1826,Bachelor'sDegree821,8,21,Bachelor's Degree
-1827,Master'sDegree1021,10,21,Master's Degree
-1828,Master'sDegree2122,21,22,Master's Degree
-1829,Bachelor'sDegree526,5,26,Bachelor's Degree
-1830,Highschool2025,20,25,Highschool
-1831,Bachelor'sDegree1240,12,40,Bachelor's Degree
-1832,SomeCollege1725,17,25,Some College
-1833,Bachelor'sDegree2626,26,26,Bachelor's Degree
-1834,Bachelor'sDegree1230,12,30,Bachelor's Degree
-1835,PhD030,0,30,PhD
-1836,Master'sDegree723,7,23,Master's Degree
-1837,Master'sDegree1623,16,23,Master's Degree
-1838,Bachelor'sDegree1921,19,21,Bachelor's Degree
-1839,Master'sDegree1033,10,33,Master's Degree
-1840,Highschool1920,19,20,Highschool
-1841,SomeCollege221,2,21,Some College
-1842,Bachelor'sDegree2022,20,22,Bachelor's Degree
-1843,Bachelor'sDegree1024,10,24,Bachelor's Degree
-1844,Bachelor'sDegree2121,21,21,Bachelor's Degree
-1845,Master'sDegree1128,11,28,Master's Degree
-1846,Bachelor'sDegree2130,21,30,Bachelor's Degree
-1847,SomeCollege1425,14,25,Some College
-1848,PhD1535,15,35,PhD
-1849,Master'sDegree2630,26,30,Master's Degree
-1850,Highschool326,3,26,Highschool
-1851,Master'sDegree327,3,27,Master's Degree
-1852,Bachelor'sDegree924,9,24,Bachelor's Degree
-1853,Bachelor'sDegree2228,22,28,Bachelor's Degree
-1854,Master'sDegree835,8,35,Master's Degree
-1855,Bachelor'sDegree2029,20,29,Bachelor's Degree
-1856,PhD1021,10,21,PhD
-1857,Bachelor'sDegree432,4,32,Bachelor's Degree
-1858,Master'sDegree026,0,26,Master's Degree
-1859,Bachelor'sDegree1123,11,23,Bachelor's Degree
-1860,Bachelor'sDegree1328,13,28,Bachelor's Degree
-1861,Bachelor'sDegree2235,22,35,Bachelor's Degree
-1862,Bachelor'sDegree1925,19,25,Bachelor's Degree
-1863,Bachelor'sDegree2223,22,23,Bachelor's Degree
-1864,Bachelor'sDegree1617,16,17,Bachelor's Degree
-1865,Highschool1617,16,17,Highschool
-1866,PhD024,0,24,PhD
-1867,Bachelor'sDegree935,9,35,Bachelor's Degree
-1868,Master'sDegree1125,11,25,Master's Degree
-1869,Bachelor'sDegree930,9,30,Bachelor's Degree
-1870,Bachelor'sDegree1326,13,26,Bachelor's Degree
-1871,PhD1820,18,20,PhD
-1872,Highschool3310,33,10,Highschool
-1873,Master'sDegree2527,25,27,Master's Degree
-1874,Highschool911,9,11,Highschool
-1875,PhD821,8,21,PhD
-1876,Bachelor'sDegree623,6,23,Bachelor's Degree
-1877,PhD623,6,23,PhD
-1878,SomeCollege62,6,2,Some College
-1879,Highschool1318,13,18,Highschool
-1880,PhD1625,16,25,PhD
-1881,Master'sDegree1619,16,19,Master's Degree
+ExpKey,ExpId,YearsAtCompany,YearsOfExperience,Education
+1,BACHELOR'SDEGREE22,2,2,Bachelor's Degree
+2,PHD35,3,5,PhD
+3,BACHELOR'SDEGREE08,0,8,Bachelor's Degree
+4,SOMECOLLEGE57,5,7,Some College
+5,BACHELOR'SDEGREE35,3,5,Bachelor's Degree
+6,BACHELOR'SDEGREE88,8,8,Bachelor's Degree
+7,BACHELOR'SDEGREE1115,11,15,Bachelor's Degree
+8,BACHELOR'SDEGREE44,4,4,Bachelor's Degree
+9,MASTER'SDEGREE13,1,3,Master's Degree
+10,MASTER'SDEGREE612,6,12,Master's Degree
+11,SOMECOLLEGE316,3,16,Some College
+12,SOMECOLLEGE35,3,5,Some College
+13,MASTER'SDEGREE1010,10,10,Master's Degree
+14,MASTER'SDEGREE77,7,7,Master's Degree
+15,SOMECOLLEGE112,1,12,Some College
+16,HIGHSCHOOL010,0,10,Highschool
+17,HIGHSCHOOL11,1,1,Highschool
+18,SOMECOLLEGE19,1,9,Some College
+19,PHD22,2,2,PhD
+20,HIGHSCHOOL99,9,9,Highschool
+21,HIGHSCHOOL78,7,8,Highschool
+22,BACHELOR'SDEGREE1515,15,15,Bachelor's Degree
+23,SOMECOLLEGE1212,12,12,Some College
+24,PHD1212,12,12,PhD
+25,PHD617,6,17,PhD
+26,BACHELOR'SDEGREE114,1,14,Bachelor's Degree
+27,PHD23,2,3,PhD
+28,PHD66,6,6,PhD
+29,HIGHSCHOOL48,4,8,Highschool
+30,SOMECOLLEGE1214,12,14,Some College
+31,PHD712,7,12,PhD
+32,SOMECOLLEGE24,2,4,Some College
+33,BACHELOR'SDEGREE25,2,5,Bachelor's Degree
+34,PHD29,2,9,PhD
+35,SOMECOLLEGE27,2,7,Some College
+36,BACHELOR'SDEGREE18,1,8,Bachelor's Degree
+37,SOMECOLLEGE07,0,7,Some College
+38,HIGHSCHOOL18,1,8,Highschool
+39,BACHELOR'SDEGREE920,9,20,Bachelor's Degree
+40,HIGHSCHOOL1728,17,28,Highschool
+41,HIGHSCHOOL112,1,12,Highschool
+42,HIGHSCHOOL213,2,13,Highschool
+43,MASTER'SDEGREE112,1,12,Master's Degree
+44,HIGHSCHOOL312,3,12,Highschool
+45,PHD15,1,5,PhD
+46,SOMECOLLEGE15,1,5,Some College
+47,PHD14,1,4,PhD
+48,BACHELOR'SDEGREE110,1,10,Bachelor's Degree
+49,BACHELOR'SDEGREE11,1,1,Bachelor's Degree
+50,HIGHSCHOOL29,2,9,Highschool
+51,HIGHSCHOOL319,3,19,Highschool
+52,PHD33,3,3,PhD
+53,MASTER'SDEGREE26,2,6,Master's Degree
+54,MASTER'SDEGREE00,0,0,Master's Degree
+55,SOMECOLLEGE33,3,3,Some College
+56,PHD46,4,6,PhD
+57,SOMECOLLEGE44,4,4,Some College
+58,PHD19,1,9,PhD
+59,SOMECOLLEGE611,6,11,Some College
+60,MASTER'SDEGREE914,9,14,Master's Degree
+61,SOMECOLLEGE23,2,3,Some College
+62,MASTER'SDEGREE25,2,5,Master's Degree
+63,MASTER'SDEGREE55,5,5,Master's Degree
+64,BACHELOR'SDEGREE55,5,5,Bachelor's Degree
+65,BACHELOR'SDEGREE615,6,15,Bachelor's Degree
+66,BACHELOR'SDEGREE414,4,14,Bachelor's Degree
+67,HIGHSCHOOL310,3,10,Highschool
+68,HIGHSCHOOL28,2,8,Highschool
+69,HIGHSCHOOL58,5,8,Highschool
+70,BACHELOR'SDEGREE714,7,14,Bachelor's Degree
+71,BACHELOR'SDEGREE213,2,13,Bachelor's Degree
+72,BACHELOR'SDEGREE05,0,5,Bachelor's Degree
+73,PHD1323,13,23,PhD
+74,PHD17,1,7,PhD
+75,MASTER'SDEGREE110,1,10,Master's Degree
+76,SOMECOLLEGE56,5,6,Some College
+77,MASTER'SDEGREE19,1,9,Master's Degree
+78,SOMECOLLEGE00,0,0,Some College
+79,BACHELOR'SDEGREE412,4,12,Bachelor's Degree
+80,PHD04,0,4,PhD
+81,PHD67,6,7,PhD
+82,PHD24,2,4,PhD
+83,PHD311,3,11,PhD
+84,SOMECOLLEGE17,1,7,Some College
+85,MASTER'SDEGREE16,1,6,Master's Degree
+86,BACHELOR'SDEGREE45,4,5,Bachelor's Degree
+87,SOMECOLLEGE410,4,10,Some College
+88,BACHELOR'SDEGREE15,1,5,Bachelor's Degree
+89,MASTER'SDEGREE610,6,10,Master's Degree
+90,MASTER'SDEGREE18,1,8,Master's Degree
+91,PHD13,1,3,PhD
+92,BACHELOR'SDEGREE14,1,4,Bachelor's Degree
+93,PHD88,8,8,PhD
+94,PHD00,0,0,PhD
+95,PHD01,0,1,PhD
+96,MASTER'SDEGREE310,3,10,Master's Degree
+97,SOMECOLLEGE1010,10,10,Some College
+98,HIGHSCHOOL09,0,9,Highschool
+99,PHD215,2,15,PhD
+100,PHD610,6,10,PhD
+101,HIGHSCHOOL412,4,12,Highschool
+102,PHD510,5,10,PhD
+103,SOMECOLLEGE511,5,11,Some College
+104,SOMECOLLEGE22,2,2,Some College
+105,MASTER'SDEGREE34,3,4,Master's Degree
+106,BACHELOR'SDEGREE1922,19,22,Bachelor's Degree
+107,BACHELOR'SDEGREE120,1,20,Bachelor's Degree
+108,BACHELOR'SDEGREE77,7,7,Bachelor's Degree
+109,BACHELOR'SDEGREE316,3,16,Bachelor's Degree
+110,MASTER'SDEGREE418,4,18,Master's Degree
+111,HIGHSCHOOL36,3,6,Highschool
+112,BACHELOR'SDEGREE33,3,3,Bachelor's Degree
+113,SOMECOLLEGE01,0,1,Some College
+114,BACHELOR'SDEGREE314,3,14,Bachelor's Degree
+115,BACHELOR'SDEGREE710,7,10,Bachelor's Degree
+116,SOMECOLLEGE37,3,7,Some College
+117,BACHELOR'SDEGREE313,3,13,Bachelor's Degree
+118,BACHELOR'SDEGREE28,2,8,Bachelor's Degree
+119,SOMECOLLEGE610,6,10,Some College
+120,BACHELOR'SDEGREE520,5,20,Bachelor's Degree
+121,HIGHSCHOOL44,4,4,Highschool
+122,MASTER'SDEGREE212,2,12,Master's Degree
+123,MASTER'SDEGREE44,4,4,Master's Degree
+124,SOMECOLLEGE28,2,8,Some College
+125,HIGHSCHOOL00,0,0,Highschool
+126,HIGHSCHOOL46,4,6,Highschool
+127,BACHELOR'SDEGREE00,0,0,Bachelor's Degree
+128,PHD210,2,10,PhD
+129,PHD48,4,8,PhD
+130,SOMECOLLEGE510,5,10,Some College
+131,BACHELOR'SDEGREE26,2,6,Bachelor's Degree
+132,MASTER'SDEGREE58,5,8,Master's Degree
+133,SOMECOLLEGE88,8,8,Some College
+134,PHD010,0,10,PhD
+135,HIGHSCHOOL03,0,3,Highschool
+136,BACHELOR'SDEGREE38,3,8,Bachelor's Degree
+137,MASTER'SDEGREE621,6,21,Master's Degree
+138,MASTER'SDEGREE613,6,13,Master's Degree
+139,HIGHSCHOOL13,1,3,Highschool
+140,PHD325,3,25,PhD
+141,PHD03,0,3,PhD
+142,HIGHSCHOOL16,1,6,Highschool
+143,MASTER'SDEGREE33,3,3,Master's Degree
+144,BACHELOR'SDEGREE214,2,14,Bachelor's Degree
+145,SOMECOLLEGE29,2,9,Some College
+146,BACHELOR'SDEGREE215,2,15,Bachelor's Degree
+147,SOMECOLLEGE110,1,10,Some College
+148,HIGHSCHOOL35,3,5,Highschool
+149,BACHELOR'SDEGREE1315,13,15,Bachelor's Degree
+150,PHD25,2,5,PhD
+151,HIGHSCHOOL415,4,15,Highschool
+152,SOMECOLLEGE48,4,8,Some College
+153,HIGHSCHOOL55,5,5,Highschool
+154,MASTER'SDEGREE35,3,5,Master's Degree
+155,SOMECOLLEGE114,1,14,Some College
+156,PHD110,1,10,PhD
+157,BACHELOR'SDEGREE310,3,10,Bachelor's Degree
+158,MASTER'SDEGREE59,5,9,Master's Degree
+159,BACHELOR'SDEGREE020,0,20,Bachelor's Degree
+160,HIGHSCHOOL715,7,15,Highschool
+161,PHD1120,11,20,PhD
+162,BACHELOR'SDEGREE917,9,17,Bachelor's Degree
+163,SOMECOLLEGE119,1,19,Some College
+164,BACHELOR'SDEGREE118,1,18,Bachelor's Degree
+165,MASTER'SDEGREE210,2,10,Master's Degree
+166,PHD09,0,9,PhD
+167,SOMECOLLEGE13,1,3,Some College
+168,HIGHSCHOOL24,2,4,Highschool
+169,SOMECOLLEGE16,1,6,Some College
+170,PHD315,3,15,PhD
+171,PHD11,1,1,PhD
+172,SOMECOLLEGE813,8,13,Some College
+173,SOMECOLLEGE310,3,10,Some College
+174,SOMECOLLEGE210,2,10,Some College
+175,BACHELOR'SDEGREE46,4,6,Bachelor's Degree
+176,HIGHSCHOOL08,0,8,Highschool
+177,MASTER'SDEGREE38,3,8,Master's Degree
+178,SOMECOLLEGE39,3,9,Some College
+179,SOMECOLLEGE02,0,2,Some College
+180,HIGHSCHOOL47,4,7,Highschool
+181,MASTER'SDEGREE03,0,3,Master's Degree
+182,HIGHSCHOOL212,2,12,Highschool
+183,HIGHSCHOOL210,2,10,Highschool
+184,HIGHSCHOOL1014,10,14,Highschool
+185,BACHELOR'SDEGREE937,9,37,Bachelor's Degree
+186,HIGHSCHOOL27,2,7,Highschool
+187,SOMECOLLEGE14,1,4,Some College
+188,SOMECOLLEGE26,2,6,Some College
+189,PHD220,2,20,PhD
+190,MASTER'SDEGREE516,5,16,Master's Degree
+191,MASTER'SDEGREE66,6,6,Master's Degree
+192,MASTER'SDEGREE15,1,5,Master's Degree
+193,SOMECOLLEGE113,1,13,Some College
+194,PHD27,2,7,PhD
+195,HIGHSCHOOL113,1,13,Highschool
+196,BACHELOR'SDEGREE04,0,4,Bachelor's Degree
+197,PHD411,4,11,PhD
+198,MASTER'SDEGREE39,3,9,Master's Degree
+199,BACHELOR'SDEGREE515,5,15,Bachelor's Degree
+200,BACHELOR'SDEGREE010,0,10,Bachelor's Degree
+201,HIGHSCHOOL114,1,14,Highschool
+202,BACHELOR'SDEGREE13,1,3,Bachelor's Degree
+203,HIGHSCHOOL25,2,5,Highschool
+204,HIGHSCHOOL23,2,3,Highschool
+205,SOMECOLLEGE67,6,7,Some College
+206,BACHELOR'SDEGREE237,2,37,Bachelor's Degree
+207,BACHELOR'SDEGREE78,7,8,Bachelor's Degree
+208,BACHELOR'SDEGREE218,2,18,Bachelor's Degree
+209,PHD05,0,5,PhD
+210,SOMECOLLEGE63,6,3,Some College
+211,PHD1010,10,10,PhD
+212,MASTER'SDEGREE311,3,11,Master's Degree
+213,HIGHSCHOOL214,2,14,Highschool
+214,SOMECOLLEGE838,8,38,Some College
+215,HIGHSCHOOL311,3,11,Highschool
+216,PHD724,7,24,PhD
+217,MASTER'SDEGREE45,4,5,Master's Degree
+218,HIGHSCHOOL02,0,2,Highschool
+219,SOMECOLLEGE1313,13,13,Some College
+220,MASTER'SDEGREE22,2,2,Master's Degree
+221,PHD44,4,4,PhD
+222,PHD55,5,5,PhD
+223,HIGHSCHOOL1012,10,12,Highschool
+224,SOMECOLLEGE55,5,5,Some College
+225,BACHELOR'SDEGREE613,6,13,Bachelor's Degree
+226,MASTER'SDEGREE88,8,8,Master's Degree
+227,HIGHSCHOOL1010,10,10,Highschool
+228,SOMECOLLEGE420,4,20,Some College
+229,BACHELOR'SDEGREE37,3,7,Bachelor's Degree
+230,MASTER'SDEGREE1015,10,15,Master's Degree
+231,SOMECOLLEGE816,8,16,Some College
+232,MASTER'SDEGREE428,4,28,Master's Degree
+233,MASTER'SDEGREE325,3,25,Master's Degree
+234,HIGHSCHOOL1111,11,11,Highschool
+235,SOMECOLLEGE212,2,12,Some College
+236,PHD113,1,13,PhD
+237,HIGHSCHOOL88,8,8,Highschool
+238,MASTER'SDEGREE01,0,1,Master's Degree
+239,PHD012,0,12,PhD
+240,MASTER'SDEGREE1830,18,30,Master's Degree
+241,PHD34,3,4,PhD
+242,PHD620,6,20,PhD
+243,PHD310,3,10,PhD
+244,BACHELOR'SDEGREE03,0,3,Bachelor's Degree
+245,SOMECOLLEGE08,0,8,Some College
+246,HIGHSCHOOL59,5,9,Highschool
+247,SOMECOLLEGE25,2,5,Some College
+248,SOMECOLLEGE03,0,3,Some College
+249,HIGHSCHOOL013,0,13,Highschool
+250,PHD516,5,16,PhD
+251,MASTER'SDEGREE510,5,10,Master's Degree
+252,PHD119,1,19,PhD
+253,PHD20,2,0,PhD
+254,SOMECOLLEGE47,4,7,Some College
+255,PHD2020,20,20,PhD
+256,SOMECOLLEGE015,0,15,Some College
+257,BACHELOR'SDEGREE02,0,2,Bachelor's Degree
+258,BACHELOR'SDEGREE31,3,1,Bachelor's Degree
+259,HIGHSCHOOL110,1,10,Highschool
+260,PHD02,0,2,PhD
+261,MASTER'SDEGREE420,4,20,Master's Degree
+262,BACHELOR'SDEGREE06,0,6,Bachelor's Degree
+263,HIGHSCHOOL07,0,7,Highschool
+264,PHD1012,10,12,PhD
+265,MASTER'SDEGREE218,2,18,Master's Degree
+266,SOMECOLLEGE11,1,1,Some College
+267,HIGHSCHOOL22,2,2,Highschool
+268,SOMECOLLEGE77,7,7,Some College
+269,SOMECOLLEGE1015,10,15,Some College
+270,MASTER'SDEGREE014,0,14,Master's Degree
+271,HIGHSCHOOL915,9,15,Highschool
+272,HIGHSCHOOL04,0,4,Highschool
+273,PHD31,3,1,PhD
+274,HIGHSCHOOL220,2,20,Highschool
+275,MASTER'SDEGREE530,5,30,Master's Degree
+276,HIGHSCHOOL1516,15,16,Highschool
+277,MASTER'SDEGREE615,6,15,Master's Degree
+278,SOMECOLLEGE66,6,6,Some College
+279,MASTER'SDEGREE27,2,7,Master's Degree
+280,BACHELOR'SDEGREE49,4,9,Bachelor's Degree
+281,SOMECOLLEGE58,5,8,Some College
+282,BACHELOR'SDEGREE913,9,13,Bachelor's Degree
+283,SOMECOLLEGE312,3,12,Some College
+284,MASTER'SDEGREE48,4,8,Master's Degree
+285,SOMECOLLEGE18,1,8,Some College
+286,BACHELOR'SDEGREE01,0,1,Bachelor's Degree
+287,PHD116,1,16,PhD
+288,MASTER'SDEGREE1111,11,11,Master's Degree
+289,HIGHSCHOOL012,0,12,Highschool
+290,HIGHSCHOOL510,5,10,Highschool
+291,MASTER'SDEGREE36,3,6,Master's Degree
+292,MASTER'SDEGREE211,2,11,Master's Degree
+293,SOMECOLLEGE68,6,8,Some College
+294,MASTER'SDEGREE06,0,6,Master's Degree
+295,BACHELOR'SDEGREE47,4,7,Bachelor's Degree
+296,MASTER'SDEGREE625,6,25,Master's Degree
+297,MASTER'SDEGREE17,1,7,Master's Degree
+298,HIGHSCHOOL215,2,15,Highschool
+299,MASTER'SDEGREE46,4,6,Master's Degree
+300,SOMECOLLEGE915,9,15,Some College
+301,MASTER'SDEGREE312,3,12,Master's Degree
+302,PHD56,5,6,PhD
+303,SOMECOLLEGE612,6,12,Some College
+304,BACHELOR'SDEGREE79,7,9,Bachelor's Degree
+305,HIGHSCHOOL410,4,10,Highschool
+306,MASTER'SDEGREE47,4,7,Master's Degree
+307,SOMECOLLEGE05,0,5,Some College
+308,SOMECOLLEGE1414,14,14,Some College
+309,BACHELOR'SDEGREE24,2,4,Bachelor's Degree
+310,HIGHSCHOOL77,7,7,Highschool
+311,PHD38,3,8,PhD
+312,PHD513,5,13,PhD
+313,MASTER'SDEGREE04,0,4,Master's Degree
+314,HIGHSCHOOL1313,13,13,Highschool
+315,HIGHSCHOOL015,0,15,Highschool
+316,HIGHSCHOOL12,1,2,Highschool
+317,SOMECOLLEGE1111,11,11,Some College
+318,SOMECOLLEGE010,0,10,Some College
+319,HIGHSCHOOL69,6,9,Highschool
+320,PHD18,1,8,PhD
+321,SOMECOLLEGE412,4,12,Some College
+322,HIGHSCHOOL38,3,8,Highschool
+323,PHD36,3,6,PhD
+324,BACHELOR'SDEGREE420,4,20,Bachelor's Degree
+325,BACHELOR'SDEGREE612,6,12,Bachelor's Degree
+326,MASTER'SDEGREE37,3,7,Master's Degree
+327,HIGHSCHOOL14,1,4,Highschool
+328,PHD320,3,20,PhD
+329,BACHELOR'SDEGREE211,2,11,Bachelor's Degree
+330,BACHELOR'SDEGREE115,1,15,Bachelor's Degree
+331,PHD1518,15,18,PhD
+332,MASTER'SDEGREE11,1,1,Master's Degree
+333,MASTER'SDEGREE02,0,2,Master's Degree
+334,SOMECOLLEGE36,3,6,Some College
+335,BACHELOR'SDEGREE39,3,9,Bachelor's Degree
+336,PHD611,6,11,PhD
+337,MASTER'SDEGREE2121,21,21,Master's Degree
+338,MASTER'SDEGREE611,6,11,Master's Degree
+339,BACHELOR'SDEGREE66,6,6,Bachelor's Degree
+340,SOMECOLLEGE313,3,13,Some College
+341,BACHELOR'SDEGREE112,1,12,Bachelor's Degree
+342,MASTER'SDEGREE010,0,10,Master's Degree
+343,BACHELOR'SDEGREE17,1,7,Bachelor's Degree
+344,BACHELOR'SDEGREE117,1,17,Bachelor's Degree
+345,PHD68,6,8,PhD
+346,HIGHSCHOOL33,3,3,Highschool
+347,PHD1818,18,18,PhD
+348,MASTER'SDEGREE1313,13,13,Master's Degree
+349,HIGHSCHOOL613,6,13,Highschool
+350,MASTER'SDEGREE820,8,20,Master's Degree
+351,PHD112,1,12,PhD
+352,HIGHSCHOOL68,6,8,Highschool
+353,MASTER'SDEGREE12,1,2,Master's Degree
+354,HIGHSCHOOL45,4,5,Highschool
+355,SOMECOLLEGE10,1,0,Some College
+356,HIGHSCHOOL1215,12,15,Highschool
+357,PHD45,4,5,PhD
+358,HIGHSCHOOL01,0,1,Highschool
+359,SOMECOLLEGE613,6,13,Some College
+360,MASTER'SDEGREE14,1,4,Master's Degree
+361,BACHELOR'SDEGREE812,8,12,Bachelor's Degree
+362,MASTER'SDEGREE1515,15,15,Master's Degree
+363,BACHELOR'SDEGREE1212,12,12,Bachelor's Degree
+364,HIGHSCHOOL19,1,9,Highschool
+365,SOMECOLLEGE04,0,4,Some College
+366,PHD47,4,7,PhD
+367,HIGHSCHOOL320,3,20,Highschool
+368,BACHELOR'SDEGREE16,1,6,Bachelor's Degree
+369,HIGHSCHOOL1015,10,15,Highschool
+370,SOMECOLLEGE121,1,21,Some College
+371,BACHELOR'SDEGREE1019,10,19,Bachelor's Degree
+372,SOMECOLLEGE516,5,16,Some College
+373,MASTER'SDEGREE49,4,9,Master's Degree
+374,MASTER'SDEGREE710,7,10,Master's Degree
+375,PHD420,4,20,PhD
+376,SOMECOLLEGE415,4,15,Some College
+377,BACHELOR'SDEGREE36,3,6,Bachelor's Degree
+378,HIGHSCHOOL17,1,7,Highschool
+379,BACHELOR'SDEGREE1616,16,16,Bachelor's Degree
+380,BACHELOR'SDEGREE99,9,9,Bachelor's Degree
+381,HIGHSCHOOL57,5,7,Highschool
+382,HIGHSCHOOL315,3,15,Highschool
+383,BACHELOR'SDEGREE48,4,8,Bachelor's Degree
+384,MASTER'SDEGREE215,2,15,Master's Degree
+385,SOMECOLLEGE215,2,15,Some College
+386,HIGHSCHOOL515,5,15,Highschool
+387,MASTER'SDEGREE07,0,7,Master's Degree
+388,SOMECOLLEGE06,0,6,Some College
+389,BACHELOR'SDEGREE212,2,12,Bachelor's Degree
+390,MASTER'SDEGREE05,0,5,Master's Degree
+391,BACHELOR'SDEGREE34,3,4,Bachelor's Degree
+392,HIGHSCHOOL317,3,17,Highschool
+393,PHD317,3,17,PhD
+394,PHD512,5,12,PhD
+395,PHD514,5,14,PhD
+396,HIGHSCHOOL15,1,5,Highschool
+397,BACHELOR'SDEGREE1125,11,25,Bachelor's Degree
+398,SOMECOLLEGE30,3,0,Some College
+399,BACHELOR'SDEGREE312,3,12,Bachelor's Degree
+400,MASTER'SDEGREE315,3,15,Master's Degree
+401,PHD415,4,15,PhD
+402,HIGHSCHOOL06,0,6,Highschool
+403,PHD1111,11,11,PhD
+404,BACHELOR'SDEGREE58,5,8,Bachelor's Degree
+405,MASTER'SDEGREE23,2,3,Master's Degree
+406,HIGHSCHOOL730,7,30,Highschool
+407,SOMECOLLEGE45,4,5,Some College
+408,SOMECOLLEGE812,8,12,Some College
+409,HIGHSCHOOL413,4,13,Highschool
+410,SOMECOLLEGE320,3,20,Some College
+411,PHD418,4,18,PhD
+412,MASTER'SDEGREE020,0,20,Master's Degree
+413,BACHELOR'SDEGREE210,2,10,Bachelor's Degree
+414,HIGHSCHOOL115,1,15,Highschool
+415,PHD312,3,12,PhD
+416,PHD120,1,20,PhD
+417,BACHELOR'SDEGREE23,2,3,Bachelor's Degree
+418,SOMECOLLEGE525,5,25,Some College
+419,BACHELOR'SDEGREE29,2,9,Bachelor's Degree
+420,PHD515,5,15,PhD
+421,MASTER'SDEGREE29,2,9,Master's Degree
+422,PHD014,0,14,PhD
+423,MASTER'SDEGREE24,2,4,Master's Degree
+424,HIGHSCHOOL120,1,20,Highschool
+425,SOMECOLLEGE615,6,15,Some College
+426,BACHELOR'SDEGREE19,1,9,Bachelor's Degree
+427,BACHELOR'SDEGREE111,1,11,Bachelor's Degree
+428,MASTER'SDEGREE120,1,20,Master's Degree
+429,HIGHSCHOOL812,8,12,Highschool
+430,MASTER'SDEGREE2020,20,20,Master's Degree
+431,SOMECOLLEGE12,1,2,Some College
+432,SOMECOLLEGE1515,15,15,Some College
+433,BACHELOR'SDEGREE1316,13,16,Bachelor's Degree
+434,BACHELOR'SDEGREE1314,13,14,Bachelor's Degree
+435,BACHELOR'SDEGREE1116,11,16,Bachelor's Degree
+436,SOMECOLLEGE315,3,15,Some College
+437,PHD125,1,25,PhD
+438,MASTER'SDEGREE1215,12,15,Master's Degree
+439,BACHELOR'SDEGREE415,4,15,Bachelor's Degree
+440,SOMECOLLEGE712,7,12,Some College
+441,PHD49,4,9,PhD
+442,HIGHSCHOOL1020,10,20,Highschool
+443,MASTER'SDEGREE56,5,6,Master's Degree
+444,BACHELOR'SDEGREE68,6,8,Bachelor's Degree
+445,PHD06,0,6,PhD
+446,HIGHSCHOOL2020,20,20,Highschool
+447,SOMECOLLEGE614,6,14,Some College
+448,PHD117,1,17,PhD
+449,HIGHSCHOOL020,0,20,Highschool
+450,SOMECOLLEGE422,4,22,Some College
+451,MASTER'SDEGREE114,1,14,Master's Degree
+452,BACHELOR'SDEGREE57,5,7,Bachelor's Degree
+453,MASTER'SDEGREE1012,10,12,Master's Degree
+454,PHD1215,12,15,PhD
+455,PHD1520,15,20,PhD
+456,MASTER'SDEGREE730,7,30,Master's Degree
+457,HIGHSCHOOL216,2,16,Highschool
+458,MASTER'SDEGREE1418,14,18,Master's Degree
+459,BACHELOR'SDEGREE810,8,10,Bachelor's Degree
+460,BACHELOR'SDEGREE07,0,7,Bachelor's Degree
+461,BACHELOR'SDEGREE27,2,7,Bachelor's Degree
+462,PHD12,1,2,PhD
+463,HIGHSCHOOL511,5,11,Highschool
+464,MASTER'SDEGREE68,6,8,Master's Degree
+465,SOMECOLLEGE214,2,14,Some College
+466,PHD111,1,11,PhD
+467,PHD42,4,2,PhD
+468,BACHELOR'SDEGREE514,5,14,Bachelor's Degree
+469,HIGHSCHOOL014,0,14,Highschool
+470,BACHELOR'SDEGREE510,5,10,Bachelor's Degree
+471,PHD1015,10,15,PhD
+472,BACHELOR'SDEGREE410,4,10,Bachelor's Degree
+473,SOMECOLLEGE3032,30,32,Some College
+474,SOMECOLLEGE414,4,14,Some College
+475,SOMECOLLEGE1115,11,15,Some College
+476,MASTER'SDEGREE10,1,0,Master's Degree
+477,SOMECOLLEGE518,5,18,Some College
+478,HIGHSCHOOL66,6,6,Highschool
+479,BACHELOR'SDEGREE220,2,20,Bachelor's Degree
+480,SOMECOLLEGE38,3,8,Some College
+481,BACHELOR'SDEGREE915,9,15,Bachelor's Degree
+482,BACHELOR'SDEGREE712,7,12,Bachelor's Degree
+483,SOMECOLLEGE49,4,9,Some College
+484,SOMECOLLEGE411,4,11,Some College
+485,HIGHSCHOOL411,4,11,Highschool
+486,HIGHSCHOOL1219,12,19,Highschool
+487,MASTER'SDEGREE415,4,15,Master's Degree
+488,PHD99,9,9,PhD
+489,BACHELOR'SDEGREE525,5,25,Bachelor's Degree
+490,BACHELOR'SDEGREE618,6,18,Bachelor's Degree
+491,BACHELOR'SDEGREE43,4,3,Bachelor's Degree
+492,BACHELOR'SDEGREE1010,10,10,Bachelor's Degree
+493,MASTER'SDEGREE89,8,9,Master's Degree
+494,MASTER'SDEGREE015,0,15,Master's Degree
+495,MASTER'SDEGREE20,2,0,Master's Degree
+496,HIGHSCHOOL75,7,5,Highschool
+497,SOMECOLLEGE520,5,20,Some College
+498,HIGHSCHOOL10,1,0,Highschool
+499,SOMECOLLEGE012,0,12,Some College
+500,BACHELOR'SDEGREE12,1,2,Bachelor's Degree
+501,SOMECOLLEGE1218,12,18,Some College
+502,SOMECOLLEGE79,7,9,Some College
+503,MASTER'SDEGREE518,5,18,Master's Degree
+504,HIGHSCHOOL1515,15,15,Highschool
+505,HIGHSCHOOL426,4,26,Highschool
+506,MASTER'SDEGREE716,7,16,Master's Degree
+507,HIGHSCHOOL717,7,17,Highschool
+508,PHD413,4,13,PhD
+509,HIGHSCHOOL718,7,18,Highschool
+510,MASTER'SDEGREE1314,13,14,Master's Degree
+511,HIGHSCHOOL39,3,9,Highschool
+512,MASTER'SDEGREE414,4,14,Master's Degree
+513,HIGHSCHOOL218,2,18,Highschool
+514,SOMECOLLEGE218,2,18,Some College
+515,MASTER'SDEGREE620,6,20,Master's Degree
+516,PHD2525,25,25,PhD
+517,MASTER'SDEGREE220,2,20,Master's Degree
+518,SOMECOLLEGE84,8,4,Some College
+519,BACHELOR'SDEGREE1020,10,20,Bachelor's Degree
+520,SOMECOLLEGE31,3,1,Some College
+521,BACHELOR'SDEGREE912,9,12,Bachelor's Degree
+522,MASTER'SDEGREE912,9,12,Master's Degree
+523,MASTER'SDEGREE515,5,15,Master's Degree
+524,SOMECOLLEGE95,9,5,Some College
+525,PHD214,2,14,PhD
+526,HIGHSCHOOL416,4,16,Highschool
+527,SOMECOLLEGE911,9,11,Some College
+528,PHD26,2,6,PhD
+529,HIGHSCHOOL720,7,20,Highschool
+530,SOMECOLLEGE1620,16,20,Some College
+531,HIGHSCHOOL56,5,6,Highschool
+532,SOMECOLLEGE815,8,15,Some College
+533,PHD59,5,9,PhD
+534,MASTER'SDEGREE08,0,8,Master's Degree
+535,BACHELOR'SDEGREE317,3,17,Bachelor's Degree
+536,MASTER'SDEGREE219,2,19,Master's Degree
+537,SOMECOLLEGE013,0,13,Some College
+538,PHD715,7,15,PhD
+539,SOMECOLLEGE514,5,14,Some College
+540,SOMECOLLEGE34,3,4,Some College
+541,BACHELOR'SDEGREE411,4,11,Bachelor's Degree
+542,SOMECOLLEGE1616,16,16,Some College
+543,MASTER'SDEGREE123,1,23,Master's Degree
+544,MASTER'SDEGREE221,2,21,Master's Degree
+545,MASTER'SDEGREE334,3,34,Master's Degree
+546,HIGHSCHOOL512,5,12,Highschool
+547,SOMECOLLEGE810,8,10,Some College
+548,SOMECOLLEGE618,6,18,Some College
+549,BACHELOR'SDEGREE1012,10,12,Bachelor's Degree
+550,PHD410,4,10,PhD
+551,PHD817,8,17,PhD
+552,MASTER'SDEGREE320,3,20,Master's Degree
+553,MASTER'SDEGREE28,2,8,Master's Degree
+554,MASTER'SDEGREE810,8,10,Master's Degree
+555,BACHELOR'SDEGREE614,6,14,Bachelor's Degree
+556,PHD414,4,14,PhD
+557,HIGHSCHOOL1919,19,19,Highschool
+558,HIGHSCHOOL05,0,5,Highschool
+559,MASTER'SDEGREE410,4,10,Master's Degree
+560,MASTER'SDEGREE1212,12,12,Master's Degree
+561,PHD520,5,20,PhD
+562,BACHELOR'SDEGREE67,6,7,Bachelor's Degree
+563,PHD16,1,6,PhD
+564,PHD710,7,10,PhD
+565,MASTER'SDEGREE423,4,23,Master's Degree
+566,BACHELOR'SDEGREE610,6,10,Bachelor's Degree
+567,PHD417,4,17,PhD
+568,SOMECOLLEGE319,3,19,Some College
+569,PHD1313,13,13,PhD
+570,SOMECOLLEGE311,3,11,Some College
+571,HIGHSCHOOL610,6,10,Highschool
+572,MASTER'SDEGREE216,2,16,Master's Degree
+573,PHD820,8,20,PhD
+574,MASTER'SDEGREE412,4,12,Master's Degree
+575,PHD812,8,12,PhD
+576,SOMECOLLEGE46,4,6,Some College
+577,BACHELOR'SDEGREE311,3,11,Bachelor's Degree
+578,PHD115,1,15,PhD
+579,MASTER'SDEGREE616,6,16,Master's Degree
+580,PHD517,5,17,PhD
+581,MASTER'SDEGREE115,1,15,Master's Degree
+582,PHD711,7,11,PhD
+583,PHD32,3,2,PhD
+584,SOMECOLLEGE1417,14,17,Some College
+585,HIGHSCHOOL26,2,6,Highschool
+586,BACHELOR'SDEGREE2020,20,20,Bachelor's Degree
+587,BACHELOR'SDEGREE011,0,11,Bachelor's Degree
+588,HIGHSCHOOL67,6,7,Highschool
+589,MASTER'SDEGREE416,4,16,Master's Degree
+590,BACHELOR'SDEGREE716,7,16,Bachelor's Degree
+591,BACHELOR'SDEGREE1414,14,14,Bachelor's Degree
+592,PHD1414,14,14,PhD
+593,PHD814,8,14,PhD
+594,MASTER'SDEGREE411,4,11,Master's Degree
+595,SOMECOLLEGE910,9,10,Some College
+596,PHD37,3,7,PhD
+597,HIGHSCHOOL37,3,7,Highschool
+598,MASTER'SDEGREE111,1,11,Master's Degree
+599,SOMECOLLEGE819,8,19,Some College
+600,BACHELOR'SDEGREE315,3,15,Bachelor's Degree
+601,SOMECOLLEGE1012,10,12,Some College
+602,PHD810,8,10,PhD
+603,MASTER'SDEGREE910,9,10,Master's Degree
+604,SOMECOLLEGE09,0,9,Some College
+605,SOMECOLLEGE211,2,11,Some College
+606,MASTER'SDEGREE225,2,25,Master's Degree
+607,HIGHSCHOOL810,8,10,Highschool
+608,PHD216,2,16,PhD
+609,SOMECOLLEGE1920,19,20,Some College
+610,BACHELOR'SDEGREE116,1,16,Bachelor's Degree
+611,HIGHSCHOOL615,6,15,Highschool
+612,HIGHSCHOOL025,0,25,Highschool
+613,PHD1020,10,20,PhD
+614,BACHELOR'SDEGREE1018,10,18,Bachelor's Degree
+615,PHD1617,16,17,PhD
+616,BACHELOR'SDEGREE56,5,6,Bachelor's Degree
+617,PHD218,2,18,PhD
+618,SOMECOLLEGE1525,15,25,Some College
+619,PHD77,7,7,PhD
+620,BACHELOR'SDEGREE1013,10,13,Bachelor's Degree
+621,PHD412,4,12,PhD
+622,MASTER'SDEGREE413,4,13,Master's Degree
+623,HIGHSCHOOL518,5,18,Highschool
+624,PHD1113,11,13,PhD
+625,HIGHSCHOOL1420,14,20,Highschool
+626,HIGHSCHOOL611,6,11,Highschool
+627,MASTER'SDEGREE214,2,14,Master's Degree
+628,BACHELOR'SDEGREE426,4,26,Bachelor's Degree
+629,MASTER'SDEGREE715,7,15,Master's Degree
+630,SOMECOLLEGE89,8,9,Some College
+631,SOMECOLLEGE616,6,16,Some College
+632,PHD013,0,13,PhD
+633,MASTER'SDEGREE1414,14,14,Master's Degree
+634,HIGHSCHOOL716,7,16,Highschool
+635,PHD28,2,8,PhD
+636,BACHELOR'SDEGREE013,0,13,Bachelor's Degree
+637,MASTER'SDEGREE213,2,13,Master's Degree
+638,SOMECOLLEGE115,1,15,Some College
+639,BACHELOR'SDEGREE41,4,1,Bachelor's Degree
+640,PHD39,3,9,PhD
+641,MASTER'SDEGREE1114,11,14,Master's Degree
+642,BACHELOR'SDEGREE1218,12,18,Bachelor's Degree
+643,PHD020,0,20,PhD
+644,PHD1016,10,16,PhD
+645,HIGHSCHOOL225,2,25,Highschool
+646,MASTER'SDEGREE119,1,19,Master's Degree
+647,BACHELOR'SDEGREE1111,11,11,Bachelor's Degree
+648,SOMECOLLEGE1314,13,14,Some College
+649,MASTER'SDEGREE520,5,20,Master's Degree
+650,SOMECOLLEGE118,1,18,Some College
+651,BACHELOR'SDEGREE69,6,9,Bachelor's Degree
+652,MASTER'SDEGREE1115,11,15,Master's Degree
+653,MASTER'SDEGREE99,9,9,Master's Degree
+654,PHD615,6,15,PhD
+655,PHD927,9,27,PhD
+656,MASTER'SDEGREE1213,12,13,Master's Degree
+657,HIGHSCHOOL420,4,20,Highschool
+658,BACHELOR'SDEGREE1520,15,20,Bachelor's Degree
+659,SOMECOLLEGE1112,11,12,Some College
+660,PHD08,0,8,PhD
+661,SOMECOLLEGE62,6,2,Some College
+662,PHD717,7,17,PhD
+663,HIGHSCHOOL1616,16,16,Highschool
+664,HIGHSCHOOL124,1,24,Highschool
+665,PHD69,6,9,PhD
+666,BACHELOR'SDEGREE416,4,16,Bachelor's Degree
+667,SOMECOLLEGE715,7,15,Some College
+668,BACHELOR'SDEGREE617,6,17,Bachelor's Degree
+669,MASTER'SDEGREE2124,21,24,Master's Degree
+670,BACHELOR'SDEGREE429,4,29,Bachelor's Degree
+671,HIGHSCHOOL2535,25,35,Highschool
+672,SOMECOLLEGE318,3,18,Some College
+673,BACHELOR'SDEGREE1521,15,21,Bachelor's Degree
+674,PHD58,5,8,PhD
+675,SOMECOLLEGE710,7,10,Some College
+676,MASTER'SDEGREE512,5,12,Master's Degree
+677,SOMECOLLEGE2020,20,20,Some College
+678,HIGHSCHOOL713,7,13,Highschool
+679,MASTER'SDEGREE811,8,11,Master's Degree
+680,SOMECOLLEGE515,5,15,Some College
+681,PHD57,5,7,PhD
+682,SOMECOLLEGE59,5,9,Some College
+683,BACHELOR'SDEGREE512,5,12,Bachelor's Degree
+684,SOMECOLLEGE111,1,11,Some College
+685,MASTER'SDEGREE65,6,5,Master's Degree
+686,SOMECOLLEGE714,7,14,Some College
+687,PHD07,0,7,PhD
+688,HIGHSCHOOL316,3,16,Highschool
+689,MASTER'SDEGREE217,2,17,Master's Degree
+690,PHD1823,18,23,PhD
+691,PHD212,2,12,PhD
+692,BACHELOR'SDEGREE113,1,13,Bachelor's Degree
+693,MASTER'SDEGREE69,6,9,Master's Degree
+694,SOMECOLLEGE78,7,8,Some College
+695,BACHELOR'SDEGREE1518,15,18,Bachelor's Degree
+696,PHD616,6,16,PhD
+697,SOMECOLLEGE1415,14,15,Some College
+698,HIGHSCHOOL414,4,14,Highschool
+699,SOMECOLLEGE1114,11,14,Some College
+700,MASTER'SDEGREE1820,18,20,Master's Degree
+701,HIGHSCHOOL34,3,4,Highschool
+702,SOMECOLLEGE120,1,20,Some College
+703,BACHELOR'SDEGREE413,4,13,Bachelor's Degree
+704,PHD1013,10,13,PhD
+705,PHD217,2,17,PhD
+706,PHD016,0,16,PhD
+707,BACHELOR'SDEGREE20,2,0,Bachelor's Degree
+708,MASTER'SDEGREE712,7,12,Master's Degree
+709,SOMECOLLEGE1520,15,20,Some College
+710,SOMECOLLEGE43,4,3,Some College
+711,BACHELOR'SDEGREE1014,10,14,Bachelor's Degree
+712,BACHELOR'SDEGREE119,1,19,Bachelor's Degree
+713,HIGHSCHOOL619,6,19,Highschool
+714,BACHELOR'SDEGREE619,6,19,Bachelor's Degree
+715,PHD416,4,16,PhD
+716,BACHELOR'SDEGREE021,0,21,Bachelor's Degree
+717,PHD019,0,19,PhD
+718,MASTER'SDEGREE619,6,19,Master's Degree
+719,PHD223,2,23,PhD
+720,BACHELOR'SDEGREE1320,13,20,Bachelor's Degree
+721,HIGHSCHOOL43,4,3,Highschool
+722,PHD314,3,14,PhD
+723,HIGHSCHOOL1115,11,15,Highschool
+724,HIGHSCHOOL1214,12,14,Highschool
+725,MASTER'SDEGREE21,2,1,Master's Degree
+726,BACHELOR'SDEGREE1118,11,18,Bachelor's Degree
+727,MASTER'SDEGREE117,1,17,Master's Degree
+728,HIGHSCHOOL163,16,3,Highschool
+729,PHD613,6,13,PhD
+730,PHD78,7,8,PhD
+731,PHD313,3,13,PhD
+732,PHD1225,12,25,PhD
+733,BACHELOR'SDEGREE721,7,21,Bachelor's Degree
+734,BACHELOR'SDEGREE417,4,17,Bachelor's Degree
+735,MASTER'SDEGREE42,4,2,Master's Degree
+736,PHD21,2,1,PhD
+737,HIGHSCHOOL1220,12,20,Highschool
+738,PHD015,0,15,PhD
+739,PHD011,0,11,PhD
+740,HIGHSCHOOL622,6,22,Highschool
+741,PHD1415,14,15,PhD
+742,PHD720,7,20,PhD
+743,HIGHSCHOOL118,1,18,Highschool
+744,SOMECOLLEGE323,3,23,Some College
+745,SOMECOLLEGE221,2,21,Some College
+746,MASTER'SDEGREE79,7,9,Master's Degree
+747,BACHELOR'SDEGREE516,5,16,Bachelor's Degree
+748,SOMECOLLEGE86,8,6,Some College
+749,SOMECOLLEGE921,9,21,Some College
+750,BACHELOR'SDEGREE719,7,19,Bachelor's Degree
+751,PHD718,7,18,PhD
+752,PHD211,2,11,PhD
+753,BACHELOR'SDEGREE717,7,17,Bachelor's Degree
+754,PHD1417,14,17,PhD
+755,SOMECOLLEGE418,4,18,Some College
+756,HIGHSCHOOL1912,19,12,Highschool
+757,HIGHSCHOOL211,2,11,Highschool
+758,PHD1620,16,20,PhD
+759,HIGHSCHOOL325,3,25,Highschool
+760,SOMECOLLEGE1128,11,28,Some College
+761,BACHELOR'SDEGREE1216,12,16,Bachelor's Degree
+762,BACHELOR'SDEGREE014,0,14,Bachelor's Degree
+763,SOMECOLLEGE818,8,18,Some College
+764,PHD1928,19,28,PhD
+765,SOMECOLLEGE014,0,14,Some College
+766,PHD818,8,18,PhD
+767,HIGHSCHOOL021,0,21,Highschool
+768,PHD815,8,15,PhD
+769,BACHELOR'SDEGREE1929,19,29,Bachelor's Degree
+770,BACHELOR'SDEGREE216,2,16,Bachelor's Degree
+771,HIGHSCHOOL1016,10,16,Highschool
+772,BACHELOR'SDEGREE025,0,25,Bachelor's Degree
+773,BACHELOR'SDEGREE125,1,25,Bachelor's Degree
+774,SOMECOLLEGE419,4,19,Some College
+775,BACHELOR'SDEGREE720,7,20,Bachelor's Degree
+776,SOMECOLLEGE220,2,20,Some College
+777,SOMECOLLEGE811,8,11,Some College
+778,HIGHSCHOOL1314,13,14,Highschool
+779,MASTER'SDEGREE018,0,18,Master's Degree
+780,BACHELOR'SDEGREE59,5,9,Bachelor's Degree
+781,BACHELOR'SDEGREE1220,12,20,Bachelor's Degree
+782,HIGHSCHOOL79,7,9,Highschool
+783,BACHELOR'SDEGREE1317,13,17,Bachelor's Degree
+784,PHD1230,12,30,PhD
+785,HIGHSCHOOL620,6,20,Highschool
+786,BACHELOR'SDEGREE718,7,18,Bachelor's Degree
+787,MASTER'SDEGREE011,0,11,Master's Degree
+788,BACHELOR'SDEGREE425,4,25,Bachelor's Degree
+789,MASTER'SDEGREE425,4,25,Master's Degree
+790,SOMECOLLEGE521,5,21,Some College
+791,HIGHSCHOOL321,3,21,Highschool
+792,BACHELOR'SDEGREE015,0,15,Bachelor's Degree
+793,MASTER'SDEGREE711,7,11,Master's Degree
+794,HIGHSCHOOL1818,18,18,Highschool
+795,MASTER'SDEGREE2427,24,27,Master's Degree
+796,PHD79,7,9,PhD
+797,MASTER'SDEGREE012,0,12,Master's Degree
+798,SOMECOLLEGE1822,18,22,Some College
+799,BACHELOR'SDEGREE818,8,18,Bachelor's Degree
+800,PHD114,1,14,PhD
+801,MASTER'SDEGREE1117,11,17,Master's Degree
+802,BACHELOR'SDEGREE611,6,11,Bachelor's Degree
+803,HIGHSCHOOL1212,12,12,Highschool
+804,MASTER'SDEGREE78,7,8,Master's Degree
+805,HIGHSCHOOL612,6,12,Highschool
+806,HIGHSCHOOL128,1,28,Highschool
+807,SOMECOLLEGE713,7,13,Some College
+808,SOMECOLLEGE99,9,9,Some College
+809,PHD716,7,16,PhD
+810,PHD316,3,16,PhD
+811,BACHELOR'SDEGREE513,5,13,Bachelor's Degree
+812,SOMECOLLEGE1216,12,16,Some College
+813,MASTER'SDEGREE127,1,27,Master's Degree
+814,HIGHSCHOOL314,3,14,Highschool
+815,PHD118,1,18,PhD
+816,MASTER'SDEGREE713,7,13,Master's Degree
+817,HIGHSCHOOL418,4,18,Highschool
+818,PHD421,4,21,PhD
+819,MASTER'SDEGREE911,9,11,Master's Degree
+820,MASTER'SDEGREE40,4,0,Master's Degree
+821,HIGHSCHOOL133,1,33,Highschool
+822,BACHELOR'SDEGREE1516,15,16,Bachelor's Degree
+823,SOMECOLLEGE1017,10,17,Some College
+824,HIGHSCHOOL520,5,20,Highschool
+825,BACHELOR'SDEGREE012,0,12,Bachelor's Degree
+826,SOMECOLLEGE718,7,18,Some College
+827,SOMECOLLEGE413,4,13,Some College
+828,HIGHSCHOOL719,7,19,Highschool
+829,BACHELOR'SDEGREE1618,16,18,Bachelor's Degree
+830,BACHELOR'SDEGREE89,8,9,Bachelor's Degree
+831,MASTER'SDEGREE53,5,3,Master's Degree
+832,PHD1515,15,15,PhD
+833,BACHELOR'SDEGREE1313,13,13,Bachelor's Degree
+834,BACHELOR'SDEGREE1120,11,20,Bachelor's Degree
+835,BACHELOR'SDEGREE511,5,11,Bachelor's Degree
+836,BACHELOR'SDEGREE09,0,9,Bachelor's Degree
+837,SOMECOLLEGE52,5,2,Some College
+838,MASTER'SDEGREE1415,14,15,Master's Degree
+839,SOMECOLLEGE116,1,16,Some College
+840,MASTER'SDEGREE57,5,7,Master's Degree
+841,PHD1011,10,11,PhD
+842,PHD1125,11,25,PhD
+843,MASTER'SDEGREE525,5,25,Master's Degree
+844,MASTER'SDEGREE1020,10,20,Master's Degree
+845,SOMECOLLEGE1215,12,15,Some College
+846,BACHELOR'SDEGREE016,0,16,Bachelor's Degree
+847,MASTER'SDEGREE2023,20,23,Master's Degree
+848,SOMECOLLEGE216,2,16,Some College
+849,SOMECOLLEGE916,9,16,Some College
+850,MASTER'SDEGREE09,0,9,Master's Degree
+851,SOMECOLLEGE1022,10,22,Some College
+852,BACHELOR'SDEGREE825,8,25,Bachelor's Degree
+853,SOMECOLLEGE825,8,25,Some College
+854,HIGHSCHOOL712,7,12,Highschool
+855,HIGHSCHOOL910,9,10,Highschool
+856,BACHELOR'SDEGREE019,0,19,Bachelor's Degree
+857,PHD1117,11,17,PhD
+858,PHD318,3,18,PhD
+859,PHD1616,16,16,PhD
+860,MASTER'SDEGREE1118,11,18,Master's Degree
+861,BACHELOR'SDEGREE1322,13,22,Bachelor's Degree
+862,HIGHSCHOOL111,1,11,Highschool
+863,MASTER'SDEGREE1222,12,22,Master's Degree
+864,PHD1224,12,24,PhD
+865,HIGHSCHOOL710,7,10,Highschool
+866,HIGHSCHOOL1418,14,18,Highschool
+867,SOMECOLLEGE314,3,14,Some College
+868,BACHELOR'SDEGREE815,8,15,Bachelor's Degree
+869,SOMECOLLEGE223,2,23,Some College
+870,HIGHSCHOOL816,8,16,Highschool
+871,PHD213,2,13,PhD
+872,MASTER'SDEGREE1120,11,20,Master's Degree
+873,BACHELOR'SDEGREE1214,12,14,Bachelor's Degree
+874,SOMECOLLEGE219,2,19,Some College
+875,SOMECOLLEGE21,2,1,Some College
+876,BACHELOR'SDEGREE620,6,20,Bachelor's Degree
+877,BACHELOR'SDEGREE52,5,2,Bachelor's Degree
+878,SOMECOLLEGE716,7,16,Some College
+879,HIGHSCHOOL513,5,13,Highschool
+880,BACHELOR'SDEGREE921,9,21,Bachelor's Degree
+881,MASTER'SDEGREE513,5,13,Master's Degree
+882,MASTER'SDEGREE013,0,13,Master's Degree
+883,HIGHSCHOOL119,1,19,Highschool
+884,HIGHSCHOOL818,8,18,Highschool
+885,MASTER'SDEGREE514,5,14,Master's Degree
+886,HIGHSCHOOL322,3,22,Highschool
+887,MASTER'SDEGREE714,7,14,Master's Degree
+888,MASTER'SDEGREE1315,13,15,Master's Degree
+889,BACHELOR'SDEGREE105,10,5,Bachelor's Degree
+890,MASTER'SDEGREE1717,17,17,Master's Degree
+891,PHD525,5,25,PhD
+892,SOMECOLLEGE125,1,25,Some College
+893,HIGHSCHOOL525,5,25,Highschool
+894,SOMECOLLEGE2021,20,21,Some College
+895,HIGHSCHOOL814,8,14,Highschool
+896,PHD612,6,12,PhD
+897,MASTER'SDEGREE1517,15,17,Master's Degree
+898,MASTER'SDEGREE1219,12,19,Master's Degree
+899,BACHELOR'SDEGREE320,3,20,Bachelor's Degree
+900,SOMECOLLEGE1820,18,20,Some College
+901,HIGHSCHOOL625,6,25,Highschool
+902,MASTER'SDEGREE124,12,4,Master's Degree
+903,HIGHSCHOOL1821,18,21,Highschool
+904,PHD219,2,19,PhD
+905,BACHELOR'SDEGREE1318,13,18,Bachelor's Degree
+906,HIGHSCHOOL63,6,3,Highschool
+907,BACHELOR'SDEGREE1721,17,21,Bachelor's Degree
+908,HIGHSCHOOL49,4,9,Highschool
+909,MASTER'SDEGREE1919,19,19,Master's Degree
+910,BACHELOR'SDEGREE224,2,24,Bachelor's Degree
+911,HIGHSCHOOL1323,13,23,Highschool
+912,PHD121,1,21,PhD
+913,PHD1122,11,22,PhD
+914,PHD915,9,15,PhD
+915,HIGHSCHOOL1216,12,16,Highschool
+916,HIGHSCHOOL313,3,13,Highschool
+917,SOMECOLLEGE2026,20,26,Some College
+918,BACHELOR'SDEGREE1026,10,26,Bachelor's Degree
+919,SOMECOLLEGE32,3,2,Some College
+920,HIGHSCHOOL618,6,18,Highschool
+921,HIGHSCHOOL516,5,16,Highschool
+922,PHD713,7,13,PhD
+923,BACHELOR'SDEGREE2029,20,29,Bachelor's Degree
+924,MASTER'SDEGREE812,8,12,Master's Degree
+925,PHD913,9,13,PhD
+926,SOMECOLLEGE222,2,22,Some College
+927,PHD1825,18,25,PhD
+928,HIGHSCHOOL1414,14,14,Highschool
+929,HIGHSCHOOL517,5,17,Highschool
+930,HIGHSCHOOL20,2,0,Highschool
+931,HIGHSCHOOL815,8,15,Highschool
+932,MASTER'SDEGREE1014,10,14,Master's Degree
+933,BACHELOR'SDEGREE422,4,22,Bachelor's Degree
+934,HIGHSCHOOL116,1,16,Highschool
+935,MASTER'SDEGREE1113,11,13,Master's Degree
+936,PHD2123,21,23,PhD
+937,MASTER'SDEGREE108,10,8,Master's Degree
+938,PHD511,5,11,PhD
+939,SOMECOLLEGE104,10,4,Some College
+940,BACHELOR'SDEGREE219,2,19,Bachelor's Degree
+941,BACHELOR'SDEGREE217,2,17,Bachelor's Degree
+942,PHD1430,14,30,PhD
+943,HIGHSCHOOL2025,20,25,Highschool
+944,SOMECOLLEGE2025,20,25,Some College
+945,BACHELOR'SDEGREE238,23,8,Bachelor's Degree
+946,BACHELOR'SDEGREE1717,17,17,Bachelor's Degree
+947,SOMECOLLEGE317,3,17,Some College
+948,SOMECOLLEGE424,4,24,Some College
+949,HIGHSCHOOL017,0,17,Highschool
+950,SOMECOLLEGE719,7,19,Some College
+951,BACHELOR'SDEGREE816,8,16,Bachelor's Degree
+952,SOMECOLLEGE011,0,11,Some College
+953,MASTER'SDEGREE815,8,15,Master's Degree
+954,PHD1315,13,15,PhD
+955,MASTER'SDEGREE618,6,18,Master's Degree
+956,MASTER'SDEGREE314,3,14,Master's Degree
+957,PHD10,1,0,PhD
+958,MASTER'SDEGREE125,1,25,Master's Degree
+959,SOMECOLLEGE1919,19,19,Some College
+960,MASTER'SDEGREE1123,11,23,Master's Degree
+961,SOMECOLLEGE016,0,16,Some College
+962,MASTER'SDEGREE113,1,13,Master's Degree
+963,BACHELOR'SDEGREE1415,14,15,Bachelor's Degree
+964,BACHELOR'SDEGREE325,3,25,Bachelor's Degree
+965,HIGHSCHOOL223,2,23,Highschool
+966,MASTER'SDEGREE2521,25,21,Master's Degree
+967,HIGHSCHOOL318,3,18,Highschool
+968,PHD813,8,13,PhD
+969,PHD614,6,14,PhD
+970,MASTER'SDEGREE920,9,20,Master's Degree
+971,BACHELOR'SDEGREE10,1,0,Bachelor's Degree
+972,MASTER'SDEGREE1516,15,16,Master's Degree
+973,HIGHSCHOOL522,5,22,Highschool
+974,SOMECOLLEGE65,6,5,Some College
+975,BACHELOR'SDEGREE1011,10,11,Bachelor's Degree
+976,MASTER'SDEGREE317,3,17,Master's Degree
+977,BACHELOR'SDEGREE814,8,14,Bachelor's Degree
+978,PHD419,4,19,PhD
+979,HIGHSCHOOL614,6,14,Highschool
+980,MASTER'SDEGREE517,5,17,Master's Degree
+981,PHD1220,12,20,PhD
+982,SOMECOLLEGE1420,14,20,Some College
+983,SOMECOLLEGE020,0,20,Some College
+984,BACHELOR'SDEGREE21,2,1,Bachelor's Degree
+985,SOMECOLLEGE018,0,18,Some College
+986,PHD1418,14,18,PhD
+987,SOMECOLLEGE213,2,13,Some College
+988,PHD816,8,16,PhD
+989,BACHELOR'SDEGREE230,2,30,Bachelor's Degree
+990,SOMECOLLEGE720,7,20,Some College
+991,MASTER'SDEGREE67,6,7,Master's Degree
+992,BACHELOR'SDEGREE124,1,24,Bachelor's Degree
+993,SOMECOLLEGE913,9,13,Some College
+994,PHD519,5,19,PhD
+995,PHD430,4,30,PhD
+996,SOMECOLLEGE513,5,13,Some College
+997,HIGHSCHOOL1112,11,12,Highschool
+998,BACHELOR'SDEGREE1112,11,12,Bachelor's Degree
+999,MASTER'SDEGREE1124,11,24,Master's Degree
+1000,BACHELOR'SDEGREE1021,10,21,Bachelor's Degree
+1001,BACHELOR'SDEGREE1419,14,19,Bachelor's Degree
+1002,HIGHSCHOOL1229,12,29,Highschool
+1003,HIGHSCHOOL429,4,29,Highschool
+1004,PHD2424,24,24,PhD
+1005,MASTER'SDEGREE718,7,18,Master's Degree
+1006,MASTER'SDEGREE54,5,4,Master's Degree
+1007,HIGHSCHOOL820,8,20,Highschool
+1008,HIGHSCHOOL42,4,2,Highschool
+1009,MASTER'SDEGREE313,3,13,Master's Degree
+1010,SOMECOLLEGE1818,18,18,Some College
+1011,BACHELOR'SDEGREE1015,10,15,Bachelor's Degree
+1012,PHD52,5,2,PhD
+1013,BACHELOR'SDEGREE911,9,11,Bachelor's Degree
+1014,BACHELOR'SDEGREE421,4,21,Bachelor's Degree
+1015,HIGHSCHOOL92,9,2,Highschool
+1016,HIGHSCHOOL1018,10,18,Highschool
+1017,MASTER'SDEGREE1512,15,12,Master's Degree
+1018,HIGHSCHOOL917,9,17,Highschool
+1019,MASTER'SDEGREE422,4,22,Master's Degree
+1020,SOMECOLLEGE617,6,17,Some College
+1021,MASTER'SDEGREE1416,14,16,Master's Degree
+1022,BACHELOR'SDEGREE65,6,5,Bachelor's Degree
+1023,MASTER'SDEGREE41,4,1,Master's Degree
+1024,SOMECOLLEGE912,9,12,Some College
+1025,MASTER'SDEGREE1720,17,20,Master's Degree
+1026,MASTER'SDEGREE118,1,18,Master's Degree
+1027,PHD1114,11,14,PhD
+1028,PHD522,5,22,PhD
+1029,MASTER'SDEGREE030,0,30,Master's Degree
+1030,PHD910,9,10,PhD
+1031,MASTER'SDEGREE1040,10,40,Master's Degree
+1032,HIGHSCHOOL912,9,12,Highschool
+1033,HIGHSCHOOL53,5,3,Highschool
+1034,HIGHSCHOOL911,9,11,Highschool
+1035,MASTER'SDEGREE614,6,14,Master's Degree
+1036,MASTER'SDEGREE2030,20,30,Master's Degree
+1037,MASTER'SDEGREE519,5,19,Master's Degree
+1038,SOMECOLLEGE1116,11,16,Some College
+1039,PHD925,9,25,PhD
+1040,BACHELOR'SDEGREE1920,19,20,Bachelor's Degree
+1041,PHD81,8,1,PhD
+1042,MASTER'SDEGREE116,1,16,Master's Degree
+1043,BACHELOR'SDEGREE521,5,21,Bachelor's Degree
+1044,MASTER'SDEGREE816,8,16,Master's Degree
+1045,HIGHSCHOOL228,2,28,Highschool
+1046,MASTER'SDEGREE87,8,7,Master's Degree
+1047,PHD40,4,0,PhD
+1048,HIGHSCHOOL1225,12,25,Highschool
+1049,SOMECOLLEGE524,5,24,Some College
+1050,SOMECOLLEGE1416,14,16,Some College
+1051,MASTER'SDEGREE529,5,29,Master's Degree
+1052,HIGHSCHOOL714,7,14,Highschool
+1053,MASTER'SDEGREE915,9,15,Master's Degree
+1054,BACHELOR'SDEGREE813,8,13,Bachelor's Degree
+1055,PHD017,0,17,PhD
+1056,HIGHSCHOOL711,7,11,Highschool
+1057,PHD230,2,30,PhD
+1058,SOMECOLLEGE017,0,17,Some College
+1059,PHD625,6,25,PhD
+1060,MASTER'SDEGREE32,3,2,Master's Degree
+1061,SOMECOLLEGE820,8,20,Some College
+1062,PHD1035,10,35,PhD
+1063,PHD920,9,20,PhD
+1064,BACHELOR'SDEGREE235,2,35,Bachelor's Degree
+1065,HIGHSCHOOL521,5,21,Highschool
+1066,BACHELOR'SDEGREE107,10,7,Bachelor's Degree
+1067,SOMECOLLEGE1220,12,20,Some College
+1068,MASTER'SDEGREE1130,11,30,Master's Degree
+1069,SOMECOLLEGE3035,30,35,Some College
+1070,BACHELOR'SDEGREE1719,17,19,Bachelor's Degree
+1071,PHD2033,20,33,PhD
+1072,HIGHSCHOOL222,2,22,Highschool
+1073,HIGHSCHOOL3434,34,34,Highschool
+1074,HIGHSCHOOL1729,17,29,Highschool
+1075,HIGHSCHOOL62,6,2,Highschool
+1076,SOMECOLLEGE620,6,20,Some College
+1077,MASTER'SDEGREE535,5,35,Master's Degree
+1078,SOMECOLLEGE1013,10,13,Some College
+1079,BACHELOR'SDEGREE625,6,25,Bachelor's Degree
+1080,BACHELOR'SDEGREE725,7,25,Bachelor's Degree
+1081,HIGHSCHOOL630,6,30,Highschool
+1082,HIGHSCHOOL2139,21,39,Highschool
+1083,SOMECOLLEGE416,4,16,Some College
+1084,MASTER'SDEGREE1420,14,20,Master's Degree
+1085,MASTER'SDEGREE819,8,19,Master's Degree
+1086,SOMECOLLEGE1018,10,18,Some College
+1087,PHD30,3,0,PhD
+1088,SOMECOLLEGE619,6,19,Some College
+1089,HIGHSCHOOL721,7,21,Highschool
+1090,HIGHSCHOOL41,4,1,Highschool
+1091,SOMECOLLEGE025,0,25,Some College
+1092,MASTER'SDEGREE1228,12,28,Master's Degree
+1093,MASTER'SDEGREE916,9,16,Master's Degree
+1094,SOMECOLLEGE42,4,2,Some College
+1095,BACHELOR'SDEGREE1215,12,15,Bachelor's Degree
+1096,HIGHSCHOOL219,2,19,Highschool
+1097,BACHELOR'SDEGREE1620,16,20,Bachelor's Degree
+1098,MASTER'SDEGREE435,4,35,Master's Degree
+1099,BACHELOR'SDEGREE910,9,10,Bachelor's Degree
+1100,HIGHSCHOOL1114,11,14,Highschool
+1101,SOMECOLLEGE512,5,12,Some College
+1102,MASTER'SDEGREE417,4,17,Master's Degree
+1103,PHD1416,14,16,PhD
+1104,PHD1112,11,12,PhD
+1105,HIGHSCHOOL629,6,29,Highschool
+1106,PHD824,8,24,PhD
+1107,PHD618,6,18,PhD
+1108,HIGHSCHOOL1520,15,20,Highschool
+1109,HIGHSCHOOL1622,16,22,Highschool
+1110,HIGHSCHOOL1119,11,19,Highschool
+1111,MASTER'SDEGREE533,5,33,Master's Degree
+1112,HIGHSCHOOL60,6,0,Highschool
+1113,SOMECOLLEGE1016,10,16,Some College
+1114,BACHELOR'SDEGREE616,6,16,Bachelor's Degree
+1115,SOMECOLLEGE421,4,21,Some College
+1116,SOMECOLLEGE330,3,30,Some College
+1117,PHD1919,19,19,PhD
+1118,MASTER'SDEGREE122,1,22,Master's Degree
+1119,BACHELOR'SDEGREE532,5,32,Bachelor's Degree
+1120,BACHELOR'SDEGREE228,2,28,Bachelor's Degree
+1121,BACHELOR'SDEGREE711,7,11,Bachelor's Degree
+1122,PHD1314,13,14,PhD
+1123,BACHELOR'SDEGREE1119,11,19,Bachelor's Degree
+1124,BACHELOR'SDEGREE76,7,6,Bachelor's Degree
+1125,HIGHSCHOOL022,0,22,Highschool
+1126,HIGHSCHOOL422,4,22,Highschool
+1127,SOMECOLLEGE717,7,17,Some College
+1128,HIGHSCHOOL323,3,23,Highschool
+1129,HIGHSCHOOL1531,15,31,Highschool
+1130,PHD714,7,14,PhD
+1131,MASTER'SDEGREE71,7,1,Master's Degree
+1132,MASTER'SDEGREE019,0,19,Master's Degree
+1133,PHD819,8,19,PhD
+1134,MASTER'SDEGREE1320,13,20,Master's Degree
+1135,SOMECOLLEGE920,9,20,Some College
+1136,SOMECOLLEGE1425,14,25,Some College
+1137,MASTER'SDEGREE721,7,21,Master's Degree
+1138,SOMECOLLEGE517,5,17,Some College
+1139,SOMECOLLEGE035,0,35,Some College
+1140,HIGHSCHOOL207,20,7,Highschool
+1141,SOMECOLLEGE1922,19,22,Some College
+1142,HIGHSCHOOL813,8,13,Highschool
+1143,SOMECOLLEGE814,8,14,Some College
+1144,SOMECOLLEGE2023,20,23,Some College
+1145,MASTER'SDEGREE1218,12,18,Master's Degree
+1146,PHD914,9,14,PhD
+1147,PHD619,6,19,PhD
+1148,PHD1116,11,16,PhD
+1149,PHD1820,18,20,PhD
+1150,HIGHSCHOOL121,1,21,Highschool
+1151,MASTER'SDEGREE322,3,22,Master's Degree
+1152,SOMECOLLEGE126,12,6,Some College
+1153,PHD911,9,11,PhD
+1154,HIGHSCHOOL122,1,22,Highschool
+1155,BACHELOR'SDEGREE519,5,19,Bachelor's Degree
+1156,PHD423,4,23,PhD
+1157,MASTER'SDEGREE442,4,42,Master's Degree
+1158,BACHELOR'SDEGREE1030,10,30,Bachelor's Degree
+1159,MASTER'SDEGREE230,2,30,Master's Degree
+1160,BACHELOR'SDEGREE819,8,19,Bachelor's Degree
+1161,HIGHSCHOOL1926,19,26,Highschool
+1162,SOMECOLLEGE2125,21,25,Some College
+1163,PHD1213,12,13,PhD
+1164,HIGHSCHOOL130,1,30,Highschool
+1165,MASTER'SDEGREE021,0,21,Master's Degree
+1166,MASTER'SDEGREE330,3,30,Master's Degree
+1167,HIGHSCHOOL64,6,4,Highschool
+1168,MASTER'SDEGREE511,5,11,Master's Degree
+1169,BACHELOR'SDEGREE627,6,27,Bachelor's Degree
+1170,BACHELOR'SDEGREE1720,17,20,Bachelor's Degree
+1171,BACHELOR'SDEGREE1113,11,13,Bachelor's Degree
+1172,HIGHSCHOOL425,4,25,Highschool
+1173,SOMECOLLEGE1422,14,22,Some College
+1174,BACHELOR'SDEGREE225,2,25,Bachelor's Degree
+1175,BACHELOR'SDEGREE40,4,0,Bachelor's Degree
+1176,SOMECOLLEGE1518,15,18,Some College
+1177,HIGHSCHOOL125,1,25,Highschool
+1178,HIGHSCHOOL1620,16,20,Highschool
+1179,HIGHSCHOOL417,4,17,Highschool
+1180,MASTER'SDEGREE1217,12,17,Master's Degree
+1181,SOMECOLLEGE1011,10,11,Some College
+1182,PHD021,0,21,PhD
+1183,MASTER'SDEGREE83,8,3,Master's Degree
+1184,SOMECOLLEGE142,14,2,Some College
+1185,HIGHSCHOOL194,19,4,Highschool
+1186,SOMECOLLEGE94,9,4,Some College
+1187,HIGHSCHOOL011,0,11,Highschool
+1188,MASTER'SDEGREE1520,15,20,Master's Degree
+1189,SOMECOLLEGE123,1,23,Some College
+1190,BACHELOR'SDEGREE1517,15,17,Bachelor's Degree
+1191,HIGHSCHOOL1720,17,20,Highschool
+1192,SOMECOLLEGE423,4,23,Some College
+1193,PHD425,4,25,PhD
+1194,MASTER'SDEGREE316,3,16,Master's Degree
+1195,SOMECOLLEGE1320,13,20,Some College
+1196,HIGHSCHOOL221,2,21,Highschool
+1197,SOMECOLLEGE69,6,9,Some College
+1198,MASTER'SDEGREE017,0,17,Master's Degree
+1199,SOMECOLLEGE1019,10,19,Some College
+1200,BACHELOR'SDEGREE820,8,20,Bachelor's Degree
+1201,SOMECOLLEGE725,7,25,Some College
+1202,HIGHSCHOOL217,2,17,Highschool
+1203,BACHELOR'SDEGREE630,6,30,Bachelor's Degree
+1204,BACHELOR'SDEGREE54,5,4,Bachelor's Degree
+1205,MASTER'SDEGREE1930,19,30,Master's Degree
+1206,PHD2024,20,24,PhD
+1207,MASTER'SDEGREE1214,12,14,Master's Degree
+1208,PHD1824,18,24,PhD
+1209,PHD328,3,28,PhD
+1210,SOMECOLLEGE1821,18,21,Some College
+1211,MASTER'SDEGREE223,2,23,Master's Degree
+1212,SOMECOLLEGE1135,11,35,Some College
+1213,BACHELOR'SDEGREE1519,15,19,Bachelor's Degree
+1214,PHD2028,20,28,PhD
+1215,PHD1320,13,20,PhD
+1216,HIGHSCHOOL117,1,17,Highschool
+1217,MASTER'SDEGREE1223,12,23,Master's Degree
+1218,PHD1717,17,17,PhD
+1219,BACHELOR'SDEGREE1330,13,30,Bachelor's Degree
+1220,SOMECOLLEGE541,5,41,Some College
+1221,PHD1517,15,17,PhD
+1222,BACHELOR'SDEGREE318,3,18,Bachelor's Degree
+1223,HIGHSCHOOL224,2,24,Highschool
+1224,SOMECOLLEGE1141,11,41,Some College
+1225,MASTER'SDEGREE1013,10,13,Master's Degree
+1226,SOMECOLLEGE823,8,23,Some College
+1227,MASTER'SDEGREE323,3,23,Master's Degree
+1228,BACHELOR'SDEGREE1213,12,13,Bachelor's Degree
+1229,MASTER'SDEGREE419,4,19,Master's Degree
+1230,HIGHSCHOOL1518,15,18,Highschool
+1231,MASTER'SDEGREE722,7,22,Master's Degree
+1232,SOMECOLLEGE1028,10,28,Some College
+1233,PHD1422,14,22,PhD
+1234,BACHELOR'SDEGREE823,8,23,Bachelor's Degree
+1235,HIGHSCHOOL1013,10,13,Highschool
+1236,PHD422,4,22,PhD
+1237,HIGHSCHOOL2029,20,29,Highschool
+1238,MASTER'SDEGREE173,17,3,Master's Degree
+1239,PHD025,0,25,PhD
+1240,PHD95,9,5,PhD
+1241,HIGHSCHOOL2530,25,30,Highschool
+1242,BACHELOR'SDEGREE223,2,23,Bachelor's Degree
+1243,PHD321,3,21,PhD
+1244,PHD1214,12,14,PhD
+1245,HIGHSCHOOL617,6,17,Highschool
+1246,PHD1022,10,22,PhD
+1247,PHD152,15,2,PhD
+1248,SOMECOLLEGE117,1,17,Some College
+1249,SOMECOLLEGE1516,15,16,Some College
+1250,BACHELOR'SDEGREE2525,25,25,Bachelor's Degree
+1251,PHD89,8,9,PhD
+1252,MASTER'SDEGREE817,8,17,Master's Degree
+1253,HIGHSCHOOL1116,11,16,Highschool
+1254,MASTER'SDEGREE61,6,1,Master's Degree
+1255,BACHELOR'SDEGREE715,7,15,Bachelor's Degree
+1256,HIGHSCHOOL2233,22,33,Highschool
+1257,PHD224,2,24,PhD
+1258,HIGHSCHOOL1120,11,20,Highschool
+1259,MASTER'SDEGREE1519,15,19,Master's Degree
+1260,SOMECOLLEGE1113,11,13,Some College
+1261,BACHELOR'SDEGREE824,8,24,Bachelor's Degree
+1262,HIGHSCHOOL424,4,24,Highschool
+1263,HIGHSCHOOL330,3,30,Highschool
+1264,MASTER'SDEGREE814,8,14,Master's Degree
+1265,SOMECOLLEGE92,9,2,Some College
+1266,BACHELOR'SDEGREE1221,12,21,Bachelor's Degree
+1267,BACHELOR'SDEGREE518,5,18,Bachelor's Degree
+1268,HIGHSCHOOL018,0,18,Highschool
+1269,HIGHSCHOOL1017,10,17,Highschool
+1270,HIGHSCHOOL1316,13,16,Highschool
+1271,SOMECOLLEGE426,4,26,Some College
+1272,SOMECOLLEGE1014,10,14,Some College
+1273,PHD1510,15,10,PhD
+1274,PHD918,9,18,PhD
+1275,MASTER'SDEGREE31,3,1,Master's Degree
+1276,MASTER'SDEGREE319,3,19,Master's Degree
+1277,MASTER'SDEGREE1319,13,19,Master's Degree
+1278,MASTER'SDEGREE421,4,21,Master's Degree
+1279,BACHELOR'SDEGREE730,7,30,Bachelor's Degree
+1280,MASTER'SDEGREE1018,10,18,Master's Degree
+1281,MASTER'SDEGREE1019,10,19,Master's Degree
+1282,PHD136,13,6,PhD
+1283,PHD027,0,27,PhD
+1284,HIGHSCHOOL1325,13,25,Highschool
+1285,PHD1525,15,25,PhD
+1286,HIGHSCHOOL21,2,1,Highschool
+1287,PHD811,8,11,PhD
+1288,PHD222,2,22,PhD
+1289,MASTER'SDEGREE121,1,21,Master's Degree
+1290,BACHELOR'SDEGREE42,4,2,Bachelor's Degree
+1291,MASTER'SDEGREE623,6,23,Master's Degree
+1292,MASTER'SDEGREE92,9,2,Master's Degree
+1293,HIGHSCHOOL40,4,0,Highschool
+1294,PHD2030,20,30,PhD
+1295,MASTER'SDEGREE64,6,4,Master's Degree
+1296,MASTER'SDEGREE822,8,22,Master's Degree
+1297,HIGHSCHOOL1517,15,17,Highschool
+1298,MASTER'SDEGREE52,5,2,Master's Degree
+1299,MASTER'SDEGREE97,9,7,Master's Degree
+1300,SOMECOLLEGE1720,17,20,Some College
+1301,MASTER'SDEGREE016,0,16,Master's Degree
+1302,SOMECOLLEGE124,12,4,Some College
+1303,PHD53,5,3,PhD
+1304,PHD43,4,3,PhD
+1305,BACHELOR'SDEGREE319,3,19,Bachelor's Degree
+1306,MASTER'SDEGREE95,9,5,Master's Degree
+1307,PHD623,6,23,PhD
+1308,MASTER'SDEGREE717,7,17,Master's Degree
+1309,SOMECOLLEGE2028,20,28,Some College
+1310,PHD1115,11,15,PhD
+1311,MASTER'SDEGREE1928,19,28,Master's Degree
+1312,PHD029,0,29,PhD
+1313,HIGHSCHOOL923,9,23,Highschool
+1314,MASTER'SDEGREE1322,13,22,Master's Degree
+1315,SOMECOLLEGE1020,10,20,Some College
+1316,MASTER'SDEGREE919,9,19,Master's Degree
+1317,MASTER'SDEGREE224,2,24,Master's Degree
+1318,HIGHSCHOOL725,7,25,Highschool
+1319,MASTER'SDEGREE50,5,0,Master's Degree
+1320,HIGHSCHOOL1425,14,25,Highschool
+1321,HIGHSCHOOL52,5,2,Highschool
+1322,MASTER'SDEGREE923,9,23,Master's Degree
+1323,PHD518,5,18,PhD
+1324,PHD104,10,4,PhD
+1325,PHD2035,20,35,PhD
+1326,SOMECOLLEGE53,5,3,Some College
+1327,PHD145,14,5,PhD
+1328,MASTER'SDEGREE93,9,3,Master's Degree
+1329,MASTER'SDEGREE1011,10,11,Master's Degree
+1330,MASTER'SDEGREE818,8,18,Master's Degree
+1331,MASTER'SDEGREE1119,11,19,Master's Degree
+1332,MASTER'SDEGREE1016,10,16,Master's Degree
+1333,BACHELOR'SDEGREE026,0,26,Bachelor's Degree
+1334,HIGHSCHOOL1011,10,11,Highschool
+1335,MASTER'SDEGREE1719,17,19,Master's Degree
+1336,PHD922,9,22,PhD
+1337,MASTER'SDEGREE1424,14,24,Master's Degree
+1338,MASTER'SDEGREE1825,18,25,Master's Degree
+1339,MASTER'SDEGREE226,2,26,Master's Degree
+1340,MASTER'SDEGREE830,8,30,Master's Degree
+1341,BACHELOR'SDEGREE63,6,3,Bachelor's Degree
+1342,PHD330,3,30,PhD
+1343,BACHELOR'SDEGREE423,4,23,Bachelor's Degree
+1344,PHD912,9,12,PhD
+1345,HIGHSCHOOL1222,12,22,Highschool
+1346,SOMECOLLEGE621,6,21,Some College
+1347,MASTER'SDEGREE2222,22,22,Master's Degree
+1348,MASTER'SDEGREE222,2,22,Master's Degree
+1349,PHD023,0,23,PhD
+1350,MASTER'SDEGREE1423,14,23,Master's Degree
+1351,MASTER'SDEGREE1535,15,35,Master's Degree
+1352,SOMECOLLEGE722,7,22,Some College
+1353,PHD1014,10,14,PhD
+1354,MASTER'SDEGREE321,3,21,Master's Degree
+1355,MASTER'SDEGREE1530,15,30,Master's Degree
+1356,PHD1018,10,18,PhD
+1357,HIGHSCHOOL1832,18,32,Highschool
+1358,MASTER'SDEGREE1718,17,18,Master's Degree
+1359,MASTER'SDEGREE2626,26,26,Master's Degree
+1360,MASTER'SDEGREE2024,20,24,Master's Degree
+1361,MASTER'SDEGREE153,15,3,Master's Degree
+1362,MASTER'SDEGREE720,7,20,Master's Degree
+1363,SOMECOLLEGE622,6,22,Some College
+1364,MASTER'SDEGREE1025,10,25,Master's Degree
+1365,MASTER'SDEGREE324,3,24,Master's Degree
+1366,BACHELOR'SDEGREE226,2,26,Bachelor's Degree
+1367,MASTER'SDEGREE1616,16,16,Master's Degree
+1368,SOMECOLLEGE325,3,25,Some College
+1369,SOMECOLLEGE724,7,24,Some College
+1370,MASTER'SDEGREE318,3,18,Master's Degree
+1371,MASTER'SDEGREE1920,19,20,Master's Degree
+1372,PHD1925,19,25,PhD
+1373,MASTER'SDEGREE1321,13,21,Master's Degree
+1374,MASTER'SDEGREE2025,20,25,Master's Degree
+1375,SOMECOLLEGE2233,22,33,Some College
+1376,MASTER'SDEGREE2027,20,27,Master's Degree
+1377,MASTER'SDEGREE1525,15,25,Master's Degree
+1378,SOMECOLLEGE019,0,19,Some College
+1379,SOMECOLLEGE822,8,22,Some College
+1380,HIGHSCHOOL514,5,14,Highschool
+1381,MASTER'SDEGREE1017,10,17,Master's Degree
+1382,BACHELOR'SDEGREE018,0,18,Bachelor's Degree
+1383,MASTER'SDEGREE1325,13,25,Master's Degree
+1384,SOMECOLLEGE217,2,17,Some College
+1385,SOMECOLLEGE1118,11,18,Some College
+1386,PHD127,1,27,PhD
+1387,PHD225,2,25,PhD
+1388,MASTER'SDEGREE1318,13,18,Master's Degree
+1389,MASTER'SDEGREE1620,16,20,Master's Degree
+1390,SOMECOLLEGE130,1,30,Some College
+1391,SOMECOLLEGE64,6,4,Some College
+1392,SOMECOLLEGE830,8,30,Some College
+1393,BACHELOR'SDEGREE811,8,11,Bachelor's Degree
+1394,HIGHSCHOOL940,9,40,Highschool
+1395,SOMECOLLEGE914,9,14,Some College
+1396,HIGHSCHOOL922,9,22,Highschool
+1397,PHD727,7,27,PhD
+1398,HIGHSCHOOL726,7,26,Highschool
+1399,MASTER'SDEGREE813,8,13,Master's Degree
+1400,MASTER'SDEGREE132,1,32,Master's Degree
+1401,SOMECOLLEGE2010,20,10,Some College
+1402,MASTER'SDEGREE231,2,31,Master's Degree
+1403,MASTER'SDEGREE824,8,24,Master's Degree
+1404,BACHELOR'SDEGREE1527,15,27,Bachelor's Degree
+1405,PHD1317,13,17,PhD
+1406,PHD719,7,19,PhD
+1407,SOMECOLLEGE54,5,4,Some College
+1408,PHD2323,23,23,PhD
+1409,MASTER'SDEGREE540,5,40,Master's Degree
+1410,BACHELOR'SDEGREE022,0,22,Bachelor's Degree
+1411,MASTER'SDEGREE2323,23,23,Master's Degree
+1412,SOMECOLLEGE329,3,29,Some College
+1413,MASTER'SDEGREE98,9,8,Master's Degree
+1414,MASTER'SDEGREE128,1,28,Master's Degree
+1415,HIGHSCHOOL54,5,4,Highschool
+1416,PHD629,6,29,PhD
+1417,PHD1216,12,16,PhD
+1418,BACHELOR'SDEGREE30,3,0,Bachelor's Degree
+1419,PHD122,1,22,PhD
+1420,BACHELOR'SDEGREE51,5,1,Bachelor's Degree
+1421,MASTER'SDEGREE72,7,2,Master's Degree
+1422,HIGHSCHOOL2124,21,24,Highschool
+1423,PHD427,4,27,PhD
+1424,MASTER'SDEGREE719,7,19,Master's Degree
+1425,MASTER'SDEGREE925,9,25,Master's Degree
+1426,HIGHSCHOOL2030,20,30,Highschool
+1427,MASTER'SDEGREE1220,12,20,Master's Degree
+1428,MASTER'SDEGREE2022,20,22,Master's Degree
+1429,MASTER'SDEGREE1112,11,12,Master's Degree
+1430,BACHELOR'SDEGREE123,1,23,Bachelor's Degree
+1431,HIGHSCHOOL920,9,20,Highschool
+1432,MASTER'SDEGREE1316,13,16,Master's Degree
+1433,HIGHSCHOOL1318,13,18,Highschool
+1434,MASTER'SDEGREE1216,12,16,Master's Degree
+1435,BACHELOR'SDEGREE85,8,5,Bachelor's Degree
+1436,MASTER'SDEGREE027,0,27,Master's Degree
+1437,MASTER'SDEGREE024,0,24,Master's Degree
+1438,SOMECOLLEGE20,2,0,Some College
+1439,HIGHSCHOOL1023,10,23,Highschool
+1440,BACHELOR'SDEGREE1225,12,25,Bachelor's Degree
+1441,MASTER'SDEGREE524,5,24,Master's Degree
+1442,PHD51,5,1,PhD
+1443,MASTER'SDEGREE1211,12,11,Master's Degree
+1444,SOMECOLLEGE224,2,24,Some College
+1445,MASTER'SDEGREE1921,19,21,Master's Degree
+1446,SOMECOLLEGE1426,14,26,Some College
+1447,SOMECOLLEGE918,9,18,Some College
+1448,MASTER'SDEGREE928,9,28,Master's Degree
+1449,PHD822,8,22,PhD
+1450,BACHELOR'SDEGREE2222,22,22,Bachelor's Degree
+1451,MASTER'SDEGREE126,1,26,Master's Degree
+1452,HIGHSCHOOL1331,13,31,Highschool
+1453,BACHELOR'SDEGREE122,1,22,Bachelor's Degree
+1454,SOMECOLLEGE425,4,25,Some College
+1455,MASTER'SDEGREE2431,24,31,Master's Degree
+1456,MASTER'SDEGREE918,9,18,Master's Degree
+1457,SOMECOLLEGE321,3,21,Some College
+1458,MASTER'SDEGREE1225,12,25,Master's Degree
+1459,MASTER'SDEGREE025,0,25,Master's Degree
+1460,PHD524,5,24,PhD
+1461,PHD022,0,22,PhD
+1462,PHD1121,11,21,PhD
+1463,MASTER'SDEGREE1518,15,18,Master's Degree
+1464,PHD917,9,17,PhD
+1465,BACHELOR'SDEGREE1925,19,25,Bachelor's Degree
+1466,PHD340,3,40,PhD
+1467,BACHELOR'SDEGREE1923,19,23,Bachelor's Degree
+1468,PHD322,3,22,PhD
+1469,SOMECOLLEGE2030,20,30,Some College
+1470,BACHELOR'SDEGREE222,2,22,Bachelor's Degree
+1471,MASTER'SDEGREE1022,10,22,Master's Degree
+1472,MASTER'SDEGREE624,6,24,Master's Degree
+1473,MASTER'SDEGREE135,1,35,Master's Degree
+1474,HIGHSCHOOL2135,21,35,Highschool
+1475,MASTER'SDEGREE131,1,31,Master's Degree
+1476,PHD018,0,18,PhD
+1477,PHD1124,11,24,PhD
+1478,HIGHSCHOOL927,9,27,Highschool
+1479,BACHELOR'SDEGREE1722,17,22,Bachelor's Degree
+1480,MASTER'SDEGREE1818,18,18,Master's Degree
+1481,BACHELOR'SDEGREE622,6,22,Bachelor's Degree
+1482,PHD2025,20,25,PhD
+1483,BACHELOR'SDEGREE925,9,25,Bachelor's Degree
+1484,HIGHSCHOOL419,4,19,Highschool
+1485,PHD1135,11,35,PhD
+1486,MASTER'SDEGREE927,9,27,Master's Degree
+1487,MASTER'SDEGREE1725,17,25,Master's Degree
+1488,HIGHSCHOOL616,6,16,Highschool
+1489,MASTER'SDEGREE023,0,23,Master's Degree
+1490,BACHELOR'SDEGREE526,5,26,Bachelor's Degree
+1491,MASTER'SDEGREE913,9,13,Master's Degree
+1492,PHD3232,32,32,PhD
+1493,HIGHSCHOOL324,3,24,Highschool
+1494,BACHELOR'SDEGREE1132,11,32,Bachelor's Degree
+1495,MASTER'SDEGREE1324,13,24,Master's Degree
+1496,BACHELOR'SDEGREE517,5,17,Bachelor's Degree
+1497,SOMECOLLEGE1318,13,18,Some College
+1498,SOMECOLLEGE417,4,17,Some College
+1499,BACHELOR'SDEGREE2030,20,30,Bachelor's Degree
+1500,BACHELOR'SDEGREE1420,14,20,Bachelor's Degree
+1501,MASTER'SDEGREE617,6,17,Master's Degree
+1502,PHD722,7,22,PhD
+1503,PHD2121,21,21,PhD
+1504,BACHELOR'SDEGREE330,3,30,Bachelor's Degree
+1505,HIGHSCHOOL817,8,17,Highschool
+1506,SOMECOLLEGE1524,15,24,Some College
+1507,SOMECOLLEGE1222,12,22,Some College
+1508,HIGHSCHOOL2225,22,25,Highschool
+1509,BACHELOR'SDEGREE017,0,17,Bachelor's Degree
+1510,MASTER'SDEGREE522,5,22,Master's Degree
+1511,SOMECOLLEGE925,9,25,Some College
+1512,SOMECOLLEGE1824,18,24,Some College
+1513,BACHELOR'SDEGREE523,5,23,Bachelor's Degree
+1514,BACHELOR'SDEGREE121,1,21,Bachelor's Degree
+1515,BACHELOR'SDEGREE713,7,13,Bachelor's Degree
+1516,PHD1025,10,25,PhD
+1517,BACHELOR'SDEGREE1017,10,17,Bachelor's Degree
+1518,SOMECOLLEGE519,5,19,Some College
+1519,BACHELOR'SDEGREE322,3,22,Bachelor's Degree
+1520,MASTER'SDEGREE130,1,30,Master's Degree
+1521,BACHELOR'SDEGREE1323,13,23,Bachelor's Degree
+1522,MASTER'SDEGREE1226,12,26,Master's Degree
+1523,MASTER'SDEGREE2123,21,23,Master's Degree
+1524,SOMECOLLEGE1213,12,13,Some College
+1525,SOMECOLLEGE1021,10,21,Some College
+1526,MASTER'SDEGREE2425,24,25,Master's Degree
+1527,BACHELOR'SDEGREE2529,25,29,Bachelor's Degree
+1528,SOMECOLLEGE1315,13,15,Some College
+1529,BACHELOR'SDEGREE1525,15,25,Bachelor's Degree
+1530,HIGHSCHOOL1321,13,21,Highschool
+1531,MASTER'SDEGREE1419,14,19,Master's Degree
+1532,BACHELOR'SDEGREE418,4,18,Bachelor's Degree
+1533,MASTER'SDEGREE228,2,28,Master's Degree
+1534,HIGHSCHOOL913,9,13,Highschool
+1535,BACHELOR'SDEGREE1114,11,14,Bachelor's Degree
+1536,HIGHSCHOOL1218,12,18,Highschool
+1537,PHD1316,13,16,PhD
+1538,HIGHSCHOOL723,7,23,Highschool
+1539,MASTER'SDEGREE1221,12,21,Master's Degree
+1540,MASTER'SDEGREE1116,11,16,Master's Degree
+1541,BACHELOR'SDEGREE2424,24,24,Bachelor's Degree
+1542,BACHELOR'SDEGREE817,8,17,Bachelor's Degree
+1543,SOMECOLLEGE1035,10,35,Some College
+1544,PHD1420,14,20,PhD
+1545,PHD1423,14,23,PhD
+1546,MASTER'SDEGREE1425,14,25,Master's Degree
+1547,BACHELOR'SDEGREE2023,20,23,Bachelor's Degree
+1548,BACHELOR'SDEGREE2323,23,23,Bachelor's Degree
+1549,MASTER'SDEGREE1722,17,22,Master's Degree
+1550,BACHELOR'SDEGREE1217,12,17,Bachelor's Degree
+1551,SOMECOLLEGE1025,10,25,Some College
+1552,HIGHSCHOOL930,9,30,Highschool
+1553,MASTER'SDEGREE2225,22,25,Master's Degree
+1554,BACHELOR'SDEGREE1423,14,23,Bachelor's Degree
+1555,PHD1218,12,18,PhD
+1556,PHD319,3,19,PhD
+1557,MASTER'SDEGREE1330,13,30,Master's Degree
+1558,PHD123,1,23,PhD
+1559,SOMECOLLEGE427,4,27,Some College
+1560,PHD231,2,31,PhD
+1561,HIGHSCHOOL1621,16,21,Highschool
+1562,PHD830,8,30,PhD
+1563,PHD226,2,26,PhD
+1564,SOMECOLLEGE128,1,28,Some College
+1565,MASTER'SDEGREE821,8,21,Master's Degree
+1566,MASTER'SDEGREE022,0,22,Master's Degree
+1567,MASTER'SDEGREE1421,14,21,Master's Degree
+1568,MASTER'SDEGREE2727,27,27,Master's Degree
+1569,BACHELOR'SDEGREE1321,13,21,Bachelor's Degree
+1570,BACHELOR'SDEGREE1619,16,19,Bachelor's Degree
+1571,MASTER'SDEGREE430,4,30,Master's Degree
+1572,MASTER'SDEGREE1636,16,36,Master's Degree
+1573,MASTER'SDEGREE2828,28,28,Master's Degree
+1574,BACHELOR'SDEGREE2335,23,35,Bachelor's Degree
+1575,MASTER'SDEGREE725,7,25,Master's Degree
+1576,SOMECOLLEGE1925,19,25,Some College
+1577,BACHELOR'SDEGREE2025,20,25,Bachelor's Degree
+1578,HIGHSCHOOL1925,19,25,Highschool
+1579,MASTER'SDEGREE523,5,23,Master's Degree
+1580,MASTER'SDEGREE335,3,35,Master's Degree
+1581,BACHELOR'SDEGREE1418,14,18,Bachelor's Degree
+1582,SOMECOLLEGE1718,17,18,Some College
+1583,HIGHSCHOOL1213,12,13,Highschool
+1584,BACHELOR'SDEGREE1022,10,22,Bachelor's Degree
+1585,MASTER'SDEGREE1323,13,23,Master's Degree
+1586,BACHELOR'SDEGREE2040,20,40,Bachelor's Degree
+1587,BACHELOR'SDEGREE324,3,24,Bachelor's Degree
+1588,SOMECOLLEGE1120,11,20,Some College
+1589,SOMECOLLEGE239,2,39,Some College
+1590,SOMECOLLEGE1521,15,21,Some College
+1591,MASTER'SDEGREE1317,13,17,Master's Degree
+1592,BACHELOR'SDEGREE1524,15,24,Bachelor's Degree
+1593,HIGHSCHOOL1315,13,15,Highschool
+1594,BACHELOR'SDEGREE1016,10,16,Bachelor's Degree
+1595,BACHELOR'SDEGREE132,1,32,Bachelor's Degree
+1596,BACHELOR'SDEGREE1117,11,17,Bachelor's Degree
+1597,BACHELOR'SDEGREE328,3,28,Bachelor's Degree
+1598,MASTER'SDEGREE2525,25,25,Master's Degree
+1599,BACHELOR'SDEGREE1622,16,22,Bachelor's Degree
+1600,SOMECOLLEGE2537,25,37,Some College
+1601,MASTER'SDEGREE922,9,22,Master's Degree
+1602,BACHELOR'SDEGREE1027,10,27,Bachelor's Degree
+1603,HIGHSCHOOL1525,15,25,Highschool
+1604,BACHELOR'SDEGREE2123,21,23,Bachelor's Degree
+1605,SOMECOLLEGE1522,15,22,Some College
+1606,BACHELOR'SDEGREE522,5,22,Bachelor's Degree
+1607,PHD825,8,25,PhD
+1608,BACHELOR'SDEGREE533,5,33,Bachelor's Degree
+1609,HIGHSCHOOL1820,18,20,Highschool
+1610,PHD723,7,23,PhD
+1611,PHD1421,14,21,PhD
+1612,BACHELOR'SDEGREE1530,15,30,Bachelor's Degree
+1613,BACHELOR'SDEGREE1023,10,23,Bachelor's Degree
+1614,SOMECOLLEGE1033,10,33,Some College
+1615,MASTER'SDEGREE2327,23,27,Master's Degree
+1616,BACHELOR'SDEGREE335,3,35,Bachelor's Degree
+1617,BACHELOR'SDEGREE023,0,23,Bachelor's Degree
+1618,MASTER'SDEGREE1235,12,35,Master's Degree
+1619,BACHELOR'SDEGREE2531,25,31,Bachelor's Degree
+1620,BACHELOR'SDEGREE1421,14,21,Bachelor's Degree
+1621,MASTER'SDEGREE1626,16,26,Master's Degree
+1622,BACHELOR'SDEGREE1536,15,36,Bachelor's Degree
+1623,BACHELOR'SDEGREE621,6,21,Bachelor's Degree
+1624,BACHELOR'SDEGREE724,7,24,Bachelor's Degree
+1625,MASTER'SDEGREE1927,19,27,Master's Degree
+1626,BACHELOR'SDEGREE919,9,19,Bachelor's Degree
+1627,SOMECOLLEGE1323,13,23,Some College
+1628,BACHELOR'SDEGREE918,9,18,Bachelor's Degree
+1629,MASTER'SDEGREE340,3,40,Master's Degree
+1630,HIGHSCHOOL724,7,24,Highschool
+1631,BACHELOR'SDEGREE1623,16,23,Bachelor's Degree
+1632,BACHELOR'SDEGREE024,0,24,Bachelor's Degree
+1633,BACHELOR'SDEGREE530,5,30,Bachelor's Degree
+1634,HIGHSCHOOL1320,13,20,Highschool
+1635,MASTER'SDEGREE936,9,36,Master's Degree
+1636,BACHELOR'SDEGREE2837,28,37,Bachelor's Degree
+1637,BACHELOR'SDEGREE524,5,24,Bachelor's Degree
+1638,MASTER'SDEGREE1640,16,40,Master's Degree
+1639,PHD2227,22,27,PhD
+1640,HIGHSCHOOL1523,15,23,Highschool
+1641,MASTER'SDEGREE1923,19,23,Master's Degree
+1642,BACHELOR'SDEGREE2021,20,21,Bachelor's Degree
+1643,MASTER'SDEGREE930,9,30,Master's Degree
+1644,PHD919,9,19,PhD
+1645,MASTER'SDEGREE630,6,30,Master's Degree
+1646,MASTER'SDEGREE1522,15,22,Master's Degree
+1647,BACHELOR'SDEGREE914,9,14,Bachelor's Degree
+1648,MASTER'SDEGREE1737,17,37,Master's Degree
+1649,SOMECOLLEGE324,3,24,Some College
+1650,MASTER'SDEGREE2335,23,35,Master's Degree
+1651,SOMECOLLEGE1423,14,23,Some College
+1652,HIGHSCHOOL016,0,16,Highschool
+1653,BACHELOR'SDEGREE030,0,30,Bachelor's Degree
+1654,BACHELOR'SDEGREE1820,18,20,Bachelor's Degree
+1655,PHD130,1,30,PhD
+1656,BACHELOR'SDEGREE2729,27,29,Bachelor's Degree
+1657,BACHELOR'SDEGREE1325,13,25,Bachelor's Degree
+1658,MASTER'SDEGREE028,0,28,Master's Degree
+1659,BACHELOR'SDEGREE1417,14,17,Bachelor's Degree
+1660,MASTER'SDEGREE2328,23,28,Master's Degree
+1661,BACHELOR'SDEGREE2024,20,24,Bachelor's Degree
+1662,BACHELOR'SDEGREE916,9,16,Bachelor's Degree
+1663,BACHELOR'SDEGREE419,4,19,Bachelor's Degree
+1664,MASTER'SDEGREE635,6,35,Master's Degree
+1665,MASTER'SDEGREE326,3,26,Master's Degree
+1666,BACHELOR'SDEGREE1035,10,35,Bachelor's Degree
+1667,BACHELOR'SDEGREE1224,12,24,Bachelor's Degree
+1668,BACHELOR'SDEGREE2530,25,30,Bachelor's Degree
+1669,MASTER'SDEGREE2424,24,24,Master's Degree
+1670,HIGHSCHOOL1423,14,23,Highschool
+1671,MASTER'SDEGREE1538,15,38,Master's Degree
+1672,BACHELOR'SDEGREE1522,15,22,Bachelor's Degree
+1673,PHD2128,21,28,PhD
+1674,BACHELOR'SDEGREE830,8,30,Bachelor's Degree
+1675,MASTER'SDEGREE1621,16,21,Master's Degree
+1676,BACHELOR'SDEGREE221,2,21,Bachelor's Degree
+1677,BACHELOR'SDEGREE1818,18,18,Bachelor's Degree
+1678,BACHELOR'SDEGREE1319,13,19,Bachelor's Degree
+1679,PHD326,3,26,PhD
+1680,BACHELOR'SDEGREE1025,10,25,Bachelor's Degree
+1681,SOMECOLLEGE1317,13,17,Some College
+1682,MASTER'SDEGREE1122,11,22,Master's Degree
+1683,SOMECOLLEGE022,0,22,Some College
+1684,BACHELOR'SDEGREE1919,19,19,Bachelor's Degree
+1685,PHD035,0,35,PhD
+1686,HIGHSCHOOL421,4,21,Highschool
+1687,HIGHSCHOOL825,8,25,Highschool
+1688,BACHELOR'SDEGREE2333,23,33,Bachelor's Degree
+1689,PHD1325,13,25,PhD
+1690,SOMECOLLEGE030,0,30,Some College
+1691,BACHELOR'SDEGREE1430,14,30,Bachelor's Degree
+1692,BACHELOR'SDEGREE1424,14,24,Bachelor's Degree
+1693,PHD1017,10,17,PhD
+1694,HIGHSCHOOL530,5,30,Highschool
+1695,PHD1721,17,21,PhD
+1696,PHD628,6,28,PhD
+1697,MASTER'SDEGREE1030,10,30,Master's Degree
+1698,SOMECOLLEGE023,0,23,Some College
+1699,SOMECOLLEGE230,2,30,Some College
+1700,PHD928,9,28,PhD
+1701,MASTER'SDEGREE2045,20,45,Master's Degree
+1702,BACHELOR'SDEGREE2122,21,22,Bachelor's Degree
+1703,HIGHSCHOOL023,0,23,Highschool
+1704,HIGHSCHOOL519,5,19,Highschool
+1705,BACHELOR'SDEGREE1029,10,29,Bachelor's Degree
+1706,BACHELOR'SDEGREE1222,12,22,Bachelor's Degree
+1707,BACHELOR'SDEGREE527,5,27,Bachelor's Degree
+1708,BACHELOR'SDEGREE1121,11,21,Bachelor's Degree
+1709,MASTER'SDEGREE2229,22,29,Master's Degree
+1710,MASTER'SDEGREE2039,20,39,Master's Degree
+1711,SOMECOLLEGE2530,25,30,Some College
+1712,PHD221,2,21,PhD
+1713,MASTER'SDEGREE628,6,28,Master's Degree
+1714,SOMECOLLEGE2525,25,25,Some College
+1715,BACHELOR'SDEGREE528,5,28,Bachelor's Degree
+1716,MASTER'SDEGREE1526,15,26,Master's Degree
+1717,BACHELOR'SDEGREE1227,12,27,Bachelor's Degree
+1718,HIGHSCHOOL621,6,21,Highschool
+1719,HIGHSCHOOL1717,17,17,Highschool
+1720,SOMECOLLEGE817,8,17,Some College
+1721,HIGHSCHOOL822,8,22,Highschool
+1722,BACHELOR'SDEGREE1425,14,25,Bachelor's Degree
+1723,SOMECOLLEGE1316,13,16,Some College
+1724,MASTER'SDEGREE432,4,32,Master's Degree
+1725,SOMECOLLEGE929,9,29,Some College
+1726,MASTER'SDEGREE526,5,26,Master's Degree
+1727,BACHELOR'SDEGREE1624,16,24,Bachelor's Degree
+1728,HIGHSCHOOL921,9,21,Highschool
+1729,HIGHSCHOOL1421,14,21,Highschool
+1730,SOMECOLLEGE1722,17,22,Some College
+1731,MASTER'SDEGREE1417,14,17,Master's Degree
+1732,MASTER'SDEGREE2227,22,27,Master's Degree
+1733,MASTER'SDEGREE2325,23,25,Master's Degree
+1734,PHD526,5,26,PhD
+1735,MASTER'SDEGREE328,3,28,Master's Degree
+1736,MASTER'SDEGREE426,4,26,Master's Degree
+1737,HIGHSCHOOL918,9,18,Highschool
+1738,SOMECOLLEGE1226,12,26,Some College
+1739,BACHELOR'SDEGREE1028,10,28,Bachelor's Degree
+1740,BACHELOR'SDEGREE2727,27,27,Bachelor's Degree
+1741,BACHELOR'SDEGREE227,2,27,Bachelor's Degree
+1742,SOMECOLLEGE225,2,25,Some College
+1743,BACHELOR'SDEGREE1821,18,21,Bachelor's Degree
+1744,HIGHSCHOOL029,0,29,Highschool
+1745,SOMECOLLEGE1624,16,24,Some College
+1746,PHD324,3,24,PhD
+1747,BACHELOR'SDEGREE2428,24,28,Bachelor's Degree
+1748,SOMECOLLEGE122,1,22,Some College
+1749,HIGHSCHOOL2121,21,21,Highschool
+1750,MASTER'SDEGREE1524,15,24,Master's Degree
+1751,MASTER'SDEGREE1026,10,26,Master's Degree
+1752,SOMECOLLEGE625,6,25,Some College
+1753,BACHELOR'SDEGREE1122,11,22,Bachelor's Degree
+1754,HIGHSCHOOL925,9,25,Highschool
+1755,HIGHSCHOOL423,4,23,Highschool
+1756,MASTER'SDEGREE921,9,21,Master's Degree
+1757,BACHELOR'SDEGREE1825,18,25,Bachelor's Degree
+1758,MASTER'SDEGREE1523,15,23,Master's Degree
+1759,BACHELOR'SDEGREE321,3,21,Bachelor's Degree
+1760,BACHELOR'SDEGREE840,8,40,Bachelor's Degree
+1761,SOMECOLLEGE6969,69,69,Some College
+1762,BACHELOR'SDEGREE2230,22,30,Bachelor's Degree
+1763,MASTER'SDEGREE521,5,21,Master's Degree
+1764,MASTER'SDEGREE917,9,17,Master's Degree
+1765,MASTER'SDEGREE2021,20,21,Master's Degree
+1766,BACHELOR'SDEGREE723,7,23,Bachelor's Degree
+1767,HIGHSCHOOL89,8,9,Highschool
+1768,MASTER'SDEGREE1521,15,21,Master's Degree
+1769,MASTER'SDEGREE823,8,23,Master's Degree
+1770,BACHELOR'SDEGREE1627,16,27,Bachelor's Degree
+1771,MASTER'SDEGREE2324,23,24,Master's Degree
+1772,PHD527,5,27,PhD
+1773,PHD024,0,24,PhD
+1774,BACHELOR'SDEGREE1416,14,16,Bachelor's Degree
+1775,BACHELOR'SDEGREE922,9,22,Bachelor's Degree
+1776,BACHELOR'SDEGREE2226,22,26,Bachelor's Degree
+1777,MASTER'SDEGREE440,4,40,Master's Degree
+1778,MASTER'SDEGREE427,4,27,Master's Degree
+1779,BACHELOR'SDEGREE326,3,26,Bachelor's Degree
+1780,HIGHSCHOOL230,2,30,Highschool
+1781,HIGHSCHOOL3333,33,33,Highschool
+1782,BACHELOR'SDEGREE1927,19,27,Bachelor's Degree
+1783,MASTER'SDEGREE3434,34,34,Master's Degree
+1784,PHD1926,19,26,PhD
+1785,MASTER'SDEGREE235,2,35,Master's Degree
+1786,BACHELOR'SDEGREE2425,24,25,Bachelor's Degree
+1787,SOMECOLLEGE1628,16,28,Some College
+1788,BACHELOR'SDEGREE923,9,23,Bachelor's Degree
+1789,PHD2023,20,23,PhD
+1790,MASTER'SDEGREE838,8,38,Master's Degree
+1791,PHD1318,13,18,PhD
+1792,MASTER'SDEGREE4040,40,40,Master's Degree
+1793,BACHELOR'SDEGREE430,4,30,Bachelor's Degree
+1794,HIGHSCHOOL524,5,24,Highschool
+1795,SOMECOLLEGE711,7,11,Some College
+1796,MASTER'SDEGREE1823,18,23,Master's Degree
+1797,BACHELOR'SDEGREE1724,17,24,Bachelor's Degree
+1798,BACHELOR'SDEGREE1723,17,23,Bachelor's Degree
+1799,MASTER'SDEGREE2035,20,35,Master's Degree
+1800,PHD335,3,35,PhD
+1801,MASTER'SDEGREE424,4,24,Master's Degree
+1802,PHD1119,11,19,PhD
+1803,BACHELOR'SDEGREE1124,11,24,Bachelor's Degree
+1804,SOMECOLLEGE1630,16,30,Some College
+1805,BACHELOR'SDEGREE1830,18,30,Bachelor's Degree
+1806,HIGHSCHOOL1630,16,30,Highschool
+1807,BACHELOR'SDEGREE1427,14,27,Bachelor's Degree
+1808,MASTER'SDEGREE1121,11,21,Master's Degree
+1809,MASTER'SDEGREE032,0,32,Master's Degree
+1810,MASTER'SDEGREE434,4,34,Master's Degree
+1811,MASTER'SDEGREE622,6,22,Master's Degree
+1812,BACHELOR'SDEGREE2538,25,38,Bachelor's Degree
+1813,HIGHSCHOOL1319,13,19,Highschool
+1814,PHD227,2,27,PhD
+1815,HIGHSCHOOL1823,18,23,Highschool
+1816,BACHELOR'SDEGREE2126,21,26,Bachelor's Degree
+1817,MASTER'SDEGREE626,6,26,Master's Degree
+1818,SOMECOLLEGE628,6,28,Some College
+1819,HIGHSCHOOL019,0,19,Highschool
+1820,PHD030,0,30,PhD
+1821,BACHELOR'SDEGREE821,8,21,Bachelor's Degree
+1822,MASTER'SDEGREE1021,10,21,Master's Degree
+1823,MASTER'SDEGREE2122,21,22,Master's Degree
+1824,BACHELOR'SDEGREE1240,12,40,Bachelor's Degree
+1825,SOMECOLLEGE1725,17,25,Some College
+1826,BACHELOR'SDEGREE2626,26,26,Bachelor's Degree
+1827,PHD1519,15,19,PhD
+1828,BACHELOR'SDEGREE1230,12,30,Bachelor's Degree
+1829,MASTER'SDEGREE723,7,23,Master's Degree
+1830,SOMECOLLEGE1717,17,17,Some College
+1831,MASTER'SDEGREE1623,16,23,Master's Degree
+1832,BACHELOR'SDEGREE1921,19,21,Bachelor's Degree
+1833,MASTER'SDEGREE1033,10,33,Master's Degree
+1834,PHD1219,12,19,PhD
+1835,BACHELOR'SDEGREE2022,20,22,Bachelor's Degree
+1836,BACHELOR'SDEGREE1024,10,24,Bachelor's Degree
+1837,SOMECOLLEGE226,2,26,Some College
+1838,BACHELOR'SDEGREE2121,21,21,Bachelor's Degree
+1839,MASTER'SDEGREE1128,11,28,Master's Degree
+1840,BACHELOR'SDEGREE2130,21,30,Bachelor's Degree
+1841,BACHELOR'SDEGREE1135,11,35,Bachelor's Degree
+1842,BACHELOR'SDEGREE027,0,27,Bachelor's Degree
+1843,PHD1535,15,35,PhD
+1844,MASTER'SDEGREE1617,16,17,Master's Degree
+1845,MASTER'SDEGREE2630,26,30,Master's Degree
+1846,BACHELOR'SDEGREE424,4,24,Bachelor's Degree
+1847,HIGHSCHOOL326,3,26,Highschool
+1848,MASTER'SDEGREE1618,16,18,Master's Degree
+1849,MASTER'SDEGREE825,8,25,Master's Degree
+1850,MASTER'SDEGREE327,3,27,Master's Degree
+1851,BACHELOR'SDEGREE924,9,24,Bachelor's Degree
+1852,BACHELOR'SDEGREE2228,22,28,Bachelor's Degree
+1853,MASTER'SDEGREE835,8,35,Master's Degree
+1854,MASTER'SDEGREE429,4,29,Master's Degree
+1855,BACHELOR'SDEGREE130,1,30,Bachelor's Degree
+1856,BACHELOR'SDEGREE432,4,32,Bachelor's Degree
+1857,MASTER'SDEGREE026,0,26,Master's Degree
+1858,HIGHSCHOOL1019,10,19,Highschool
+1859,SOMECOLLEGE1123,11,23,Some College
+1860,BACHELOR'SDEGREE1328,13,28,Bachelor's Degree
+1861,BACHELOR'SDEGREE1123,11,23,Bachelor's Degree
+1862,BACHELOR'SDEGREE2235,22,35,Bachelor's Degree
+1863,BACHELOR'SDEGREE2223,22,23,Bachelor's Degree
+1864,BACHELOR'SDEGREE1617,16,17,Bachelor's Degree
+1865,BACHELOR'SDEGREE935,9,35,Bachelor's Degree
+1866,SOMECOLLEGE522,5,22,Some College
+1867,HIGHSCHOOL2222,22,22,Highschool
+1868,MASTER'SDEGREE1125,11,25,Master's Degree
+1869,BACHELOR'SDEGREE930,9,30,Bachelor's Degree
+1870,BACHELOR'SDEGREE1326,13,26,Bachelor's Degree
+1871,PHD3310,33,10,PhD
+1872,HIGHSCHOOL2527,25,27,Highschool
+1873,HIGHSCHOOL1030,10,30,Highschool
+1874,PHD821,8,21,PhD
+1875,BACHELOR'SDEGREE623,6,23,Bachelor's Degree
+1876,MASTER'SDEGREE43,4,3,Master's Degree
+1877,HIGHSCHOOL1519,15,19,Highschool
+1878,HIGHSCHOOL31,3,1,Highschool
+1879,HIGHSCHOOL51,5,1,Highschool
+1880,HIGHSCHOOL1625,16,25,Highschool
+1881,PHD621,6,21,PhD

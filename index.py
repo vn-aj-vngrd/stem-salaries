@@ -4,6 +4,11 @@ from numpy import random
 from datetime import datetime
 
 
+def excelToText(filename):
+    excelFile = pd.read_excel("./data/" + filename + ".xlsx")
+    excelFile.to_csv("./text/" + filename + ".txt", index=None, header=True)
+
+
 def prepareCompany(df):
     header = ("CompanyKey", "CompanyId", "CompanyName", "Country",
               "CityId", "City", "State")
@@ -15,9 +20,9 @@ def prepareCompany(df):
     keys = []
     companyKey = 1
     for index, row in df.iterrows():
-        if (str(row[1]).replace(" ", "").strip().upper() + str(row[5]).replace(" ", "").strip() not in keys):
+        if (str(row[1]).replace(" ", "").strip().upper() + str(row[5]).replace(" ", "").strip().upper() not in keys):
             companyId = str(row[1]).replace(" ", "").strip().upper() + \
-                str(row[5]).replace(" ", "").strip()
+                str(row[5]).replace(" ", "").strip().upper()
             companyName = str(row[1]).upper()
             country = ""
             cityId = row[14]
@@ -59,6 +64,7 @@ def prepareCompany(df):
             companyKey += 1
 
     book.save("data/company.xlsx")
+    excelToText("company")
     print("Done")
 
 
@@ -76,7 +82,7 @@ def prepareJob(df):
         jobLevel = str(row[2])
         jobTag = "None" if pd.isna(row[8]) else str(row[8])
         jobId = jobTitle.replace(
-            " ", "").strip() + jobLevel.replace(" ", "").strip()
+            " ", "").strip().upper() + jobLevel.replace(" ", "").strip().upper()
 
         data = (
             jobKey,
@@ -94,6 +100,7 @@ def prepareJob(df):
             jobKey += 1
 
     book.save("data/job.xlsx")
+    excelToText("job")
     print("Done")
 
 
@@ -111,7 +118,7 @@ def prepareDemographic(df):
         gender = random.choice(["Male", "Female"]) if pd.isna(
             row[12]) or row[12] == "Title: Senior Software Engineer" else str(row[12])
 
-        demoId = race.replace(" ", "").strip() + gender
+        demoId = race.replace(" ", "").strip().upper() + gender.upper()
 
         data = (
             demoKey,
@@ -128,6 +135,7 @@ def prepareDemographic(df):
             demoKey += 1
 
     book.save("data/demographic.xlsx")
+    excelToText("demographic")
     print("Done")
 
 
@@ -148,7 +156,7 @@ def prepareExperience(df):
             ["PhD", "Master's Degree", "Bachelor's Degree", "Some College", "Highschool"]) if pd.isna(row[28]) else str(row[28])
 
         expId = education.replace(" ", "").strip(
-        ) + str(yearsAtCompany) + str(yearsOfExperience)
+        ).upper() + str(yearsAtCompany) + str(yearsOfExperience)
 
         data = (
             expKey,
@@ -166,6 +174,7 @@ def prepareExperience(df):
             expKey += 1
 
     book.save("data/experience.xlsx")
+    excelToText("experience")
     print("Done")
 
 
@@ -209,6 +218,7 @@ def prepareTime(df):
             timeKey += 1
 
     book.save("data/time.xlsx")
+    excelToText("time")
     print("Done")
 
 
@@ -222,21 +232,22 @@ def prepareSalary(df):
 
     keys = []
     for index, row in df.iterrows():
-        companyKey = str(row[1]).upper()
+        companyKey = str(row[1]).replace(" ", "").strip().upper() + \
+            str(row[5]).replace(" ", "").strip().upper()
         jobKey = str(row[3]).replace(
-            " ", "").strip() + str(row[2]).replace(" ", "").strip()
+            " ", "").strip().upper() + str(row[2]).replace(" ", "").strip().upper()
 
         race = "White" if pd.isna(row[27]) else str(row[27])
         gender = random.choice(["Male", "Female"]) if pd.isna(
             row[12]) or row[12] == "Title: Senior Software Engineer" else str(row[12])
-        demoKey = race.replace(" ", "").strip() + gender
+        demoKey = race.replace(" ", "").strip().upper() + gender.upper()
 
         yearsAtCompany = round(row[7])
         yearsOfExperience = round(row[6])
         education = random.choice(
             ["PhD", "Master's Degree", "Bachelor's Degree", "Some College", "Highschool"]) if pd.isna(row[28]) else str(row[28])
         expKey = education.replace(" ", "").strip(
-        ) + str(yearsAtCompany) + str(yearsOfExperience)
+        ).upper() + str(yearsAtCompany) + str(yearsOfExperience)
 
         timeKey = datetime.strptime(
             row[0], '%m/%d/%Y %H:%M:%S').date()
@@ -260,6 +271,7 @@ def prepareSalary(df):
         sheet.append(data)
 
     book.save("data/salary.xlsx")
+    excelToText("salary")
     print("Done")
 
 
