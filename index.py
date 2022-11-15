@@ -20,43 +20,43 @@ def prepareCompany(df):
     keys = []
     companyKey = 1
     for index, row in df.iterrows():
-        if (str(row[1]).replace(" ", "").strip().upper() + str(row[5]).replace(" ", "").strip().upper() not in keys):
-            companyId = str(row[1]).replace(" ", "").strip().upper() + \
-                str(row[5]).replace(" ", "").strip().upper()
-            companyName = str(row[1]).upper()
-            country = ""
-            cityId = row[14]
-            city = ""
-            state = ""
+        companyId = str(row[1]).replace(" ", "").replace(",", "").strip().upper() + \
+            str(row[5]).replace(" ", "").replace(",", "").strip().upper()
+        companyName = str(row[1]).upper()
+        country = ""
+        cityId = row[14]
+        city = ""
+        state = ""
 
-            location = row[5]
-            # Country
-            if (location.count(",") == 1):
-                country = "United States"
-            elif (location.count(",") == 2):
-                temp = location.split(",")
-                country = temp[2].strip()
+        location = row[5]
+        # Country
+        if (location.count(",") == 1):
+            country = "United States"
+        elif (location.count(",") == 2):
+            temp = location.split(",")
+            country = temp[2].strip()
 
-            # City
-            if (location.count(",") > 0):
-                temp = location.split(",")
-                city = temp[0].strip()
+        # City
+        if (location.count(",") > 0):
+            temp = location.split(",")
+            city = temp[0].strip()
 
-            # State
-            if (location.count(",") > 0):
-                temp = location.split(",")
-                state = temp[1].strip()
+        # State
+        if (location.count(",") > 0):
+            temp = location.split(",")
+            state = temp[1].strip()
 
-            data = (
-                companyKey,
-                companyId,
-                companyName,
-                country,
-                cityId,
-                city,
-                state,
-            )
+        data = (
+            companyKey,
+            companyId,
+            companyName,
+            country,
+            cityId,
+            city,
+            state,
+        )
 
+        if (companyId not in keys):
             keys.append(companyId)
             print(data)
             sheet.append(data)
@@ -69,7 +69,7 @@ def prepareCompany(df):
 
 
 def prepareJob(df):
-    header = ("JobKey", "JobId", "JobTitle", "JobLevel", "JobTag")
+    header = ("JobKey", "JobId", "JobTitle", "JobLevel")
 
     book = Workbook()
     sheet = book.active
@@ -80,16 +80,14 @@ def prepareJob(df):
     for index, row in df.iterrows():
         jobTitle = str(row[3])
         jobLevel = str(row[2])
-        jobTag = "NA" if pd.isna(row[8]) else str(row[8])
-        jobId = jobTitle.replace(
-            " ", "").strip().upper() + jobLevel.replace(" ", "").strip().upper() + jobTag.replace(" ", "").strip().upper()
+        jobId = jobTitle.replace(" ", "").replace(",", "").strip().upper(
+        ) + jobLevel.replace(" ", "").replace(",", "").strip().upper()
 
         data = (
             jobKey,
             jobId,
             jobTitle,
             jobLevel,
-            jobTag
         )
 
         if (jobId not in keys):
@@ -118,7 +116,8 @@ def prepareDemographic(df):
         gender = random.choice(["Male", "Female"]) if pd.isna(
             row[12]) or row[12] == "Title: Senior Software Engineer" else str(row[12])
 
-        demoId = race.replace(" ", "").strip().upper() + gender.upper()
+        demoId = race.replace(" ", "").replace(
+            ",", "").strip().upper() + gender.upper()
 
         data = (
             demoKey,
@@ -152,9 +151,9 @@ def prepareExperience(df):
     for index, row in df.iterrows():
         yearsAtCompany = round(row[7])
         yearsOfExperience = round(row[6])
-        education = "NA" if pd.isna(row[28]) else str(row[28])
+        education = "Highschool" if pd.isna(row[28]) else str(row[28])
 
-        expId = education.replace(" ", "").strip(
+        expId = education.replace(" ", "").replace(",", "").strip(
         ).upper() + str(yearsAtCompany) + str(yearsOfExperience)
 
         data = (
@@ -231,24 +230,24 @@ def prepareSalary(df):
 
     keys = []
     for index, row in df.iterrows():
-        companyKey = str(row[1]).replace(" ", "").strip().upper() + \
-            str(row[5]).replace(" ", "").strip().upper()
+        companyKey = str(row[1]).replace(" ", "").replace(",", "").strip().upper() + \
+            str(row[5]).replace(" ", "").replace(",", "").strip().upper()
 
         jobTitle = str(row[3])
         jobLevel = str(row[2])
-        jobTag = "NA" if pd.isna(row[8]) else str(row[8])
-        jobKey = jobTitle.replace(
-            " ", "").strip().upper() + jobLevel.replace(" ", "").strip().upper() + jobTag.replace(" ", "").strip().upper()
+        jobKey = jobTitle.replace(" ", "").replace(",", "").strip().upper(
+        ) + jobLevel.replace(" ", "").replace(",", "").strip().upper()
 
         race = "White" if pd.isna(row[27]) else str(row[27])
         gender = random.choice(["Male", "Female"]) if pd.isna(
             row[12]) or row[12] == "Title: Senior Software Engineer" else str(row[12])
-        demoKey = race.replace(" ", "").strip().upper() + gender.upper()
+        demoKey = race.replace(" ", "").replace(
+            ",", "").strip().upper() + gender.upper()
 
         yearsAtCompany = round(row[7])
         yearsOfExperience = round(row[6])
-        education = "NA" if pd.isna(row[28]) else str(row[28])
-        expKey = education.replace(" ", "").strip(
+        education = "Highschool" if pd.isna(row[28]) else str(row[28])
+        expKey = education.replace(" ", "").replace(",", "").strip(
         ).upper() + str(yearsAtCompany) + str(yearsOfExperience)
 
         timeKey = datetime.strptime(
@@ -280,11 +279,11 @@ def prepareSalary(df):
 def main():
     df = pd.read_csv("source/source_data.csv", index_col=None)
 
-    # prepareCompany(df)
+    prepareCompany(df)
     prepareJob(df)
-    # prepareDemographic(df)
-    # prepareExperience(df)
-    # prepareTime(df)
+    prepareDemographic(df)
+    prepareExperience(df)
+    prepareTime(df)
     prepareSalary(df)
 
 
