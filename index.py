@@ -6,7 +6,7 @@ from datetime import datetime
 
 def prepareCompany(df):
     header = ("CompanyKey", "CompanyId", "CompanyName", "Country",
-              "CityId", "City", "State", "DMAId")
+              "CityId", "City", "State")
 
     book = Workbook()
     sheet = book.active
@@ -15,16 +15,14 @@ def prepareCompany(df):
     keys = []
     companyKey = 1
     for index, row in df.iterrows():
-        if (str(row[1]) + str(row[5]) not in keys):
-            companyId = str(row[1]).replace(" ", "").strip(
-            ) + str(row[5]).replace(" ", "").strip(
-            )
+        if (str(row[1]).replace(" ", "").strip().upper() + str(row[5]).replace(" ", "").strip() not in keys):
+            companyId = str(row[1]).replace(" ", "").strip().upper() + \
+                str(row[5]).replace(" ", "").strip()
             companyName = str(row[1]).upper()
             country = ""
             cityId = row[14]
             city = ""
             state = ""
-            dmaId = row[15]
 
             location = row[5]
             # Country
@@ -52,10 +50,9 @@ def prepareCompany(df):
                 cityId,
                 city,
                 state,
-                dmaId,
             )
 
-            keys.append(str(row[1]) + str(row[5]))
+            keys.append(companyId)
             print(data)
             sheet.append(data)
 
