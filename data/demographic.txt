@@ -1,0 +1,16 @@
+﻿DemoKey,DemoId,Race,Gender
+1,WhiteMale,White,Male
+2,WhiteFemale,White,Female
+3,WhiteOther,White,Other
+4,AsianFemale,Asian,Female
+5,BlackMale,Black,Male
+6,AsianMale,Asian,Male
+7,TwoOrMoreMale,Two Or More,Male
+8,HispanicMale,Hispanic,Male
+9,HispanicFemale,Hispanic,Female
+10,HispanicOther,Hispanic,Other
+11,TwoOrMoreFemale,Two Or More,Female
+12,BlackFemale,Black,Female
+13,AsianOther,Asian,Other
+14,BlackOther,Black,Other
+15,TwoOrMoreOther,Two Or More,Other
