@@ -70,7 +70,7 @@ def prepareCompany(df):
 
 
 def prepareJob(df):
-    header = ("JobKey", "JobId", "JobTitle", "JobLevel")
+    header = ("JobKey", "JobId", "JobTitle", "JobLevel", "Job Tag")
 
     book = Workbook()
     sheet = book.active
@@ -81,14 +81,16 @@ def prepareJob(df):
     for index, row in df.iterrows():
         jobTitle = str(row[3])
         jobLevel = str(row[2])
+        jobTag = "None" if (pd.isna(row[8])) else str(row[8])
         jobId = jobTitle.strip().upper(
-        ) + jobLevel.strip().upper()
+        ) + jobLevel.strip().upper() + jobTag.strip().upper()
 
         data = (
             jobKey,
             re.sub('\W', '', jobId),
             jobTitle,
             jobLevel,
+            jobTag,
         )
 
         if (jobId not in keys):
@@ -187,7 +189,7 @@ def prepareTime(df):
     timeKey = 1
     for index, row in df.iterrows():
         calendarDate = datetime.strptime(
-            row[0], '%m/%d/%Y %H:%M:%S').date()
+            row[0], '%m/%d/%Y %H:%M').date()
         year = calendarDate.year
         month = calendarDate.month
         monthName = calendarDate.strftime("%B")
@@ -234,9 +236,10 @@ def prepareSalary(df):
 
         jobTitle = str(row[3])
         jobLevel = str(row[2])
+        jobTag = "None" if (pd.isna(row[8])) else str(row[8])
         jobKey = jobTitle.strip().upper(
-        ) + jobLevel.strip().upper()
-
+        ) + jobLevel.strip().upper() + jobTag.strip().upper()
+        
         race = "White" if pd.isna(row[27]) else str(row[27])
         gender = random.choice(["Male", "Female"]) if pd.isna(
             row[12]) or row[12] == "Title: Senior Software Engineer" else str(row[12])
@@ -249,7 +252,7 @@ def prepareSalary(df):
         ).upper() + str(yearsAtCompany) + str(yearsOfExperience)
 
         timeKey = datetime.strptime(
-            row[0], '%m/%d/%Y %H:%M:%S').date()
+            row[0], '%m/%d/%Y %H:%M').date()
 
         baseSalary = 1000 if pd.isna(row[9]) or row[9] == 0 else row[9]
         totalYearlyCompensation = row[4]
