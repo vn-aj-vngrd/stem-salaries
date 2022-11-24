@@ -10,57 +10,9 @@ def excelToText(filename):
     excelFile.to_csv("./text/" + filename + ".txt", index=None, header=True)
 
 
-def prepareCompany(df):
-    header = ("CompanyKey", "CompanyId", "CompanyName", "LocationKey")
-
-    book = Workbook()
-    sheet = book.active
-    sheet.append(header)
-
-    keys = []
-    companyKey = 1
-    for index, row in df.iterrows():
-        companyName = str(row[1]).upper()
-        country = ""
-        state = ""
-        city = ""
-        location = row[5]
-        if (location.count(",") == 1):
-            country = "United States"
-        elif (location.count(",") == 2):
-            temp = location.split(",")
-            country = temp[2].strip()
-        if (location.count(",") > 0):
-            temp = location.split(",")
-            state = temp[1].strip()
-        if (location.count(",") > 0):
-            temp = location.split(",")
-            city = temp[0].strip()
-        locationKey = re.sub('\W', '', country.strip().upper(
-        ) + state.strip().upper() + city.strip().upper())
-        companyId = re.sub('\W', '', companyName + locationKey)
-
-        data = (
-            companyKey,
-            companyId,
-            companyName,
-            locationKey,
-        )
-
-        if (companyId not in keys):
-            keys.append(companyId)
-            print(data)
-            sheet.append(data)
-
-            companyKey += 1
-
-    book.save("data/company.xlsx")
-    excelToText("company")
-    print("Done")
-
-
-def prepareLocation(df):
-    header = ("LocationKey", "LocationId", "Country", "State", "CityId", "City")
+def prepareJobLocation(df):
+    header = ("LocationKey", "LocationId",
+              "Country", "State", "CityId", "City")
 
     book = Workbook()
     sheet = book.active
@@ -112,13 +64,14 @@ def prepareLocation(df):
 
             locationKey += 1
 
-    book.save("data/location.xlsx")
-    excelToText("location")
+    book.save("data/job_location.xlsx")
+    excelToText("job_location")
     print("Done")
 
 
 def prepareJob(df):
-    header = ("JobKey", "JobId", "JobTitle", "JobLevel", "Job Tag")
+    header = ("JobKey", "JobId", "JobTitle",
+              "JobLevel", "Job Tag", "Company Name")
 
     book = Workbook()
     sheet = book.active
@@ -130,8 +83,9 @@ def prepareJob(df):
         jobTitle = str(row[3])
         jobLevel = str(row[2])
         jobTag = "None" if (pd.isna(row[8])) else str(row[8])
+        companyName = str(row[1]).upper()
         jobId = re.sub('\W', '', jobTitle.strip().upper(
-        ) + jobLevel.strip().upper() + jobTag.strip().upper())
+        ) + jobLevel.strip().upper() + jobTag.strip().upper() + companyName.strip().upper())
 
         data = (
             jobKey,
@@ -139,6 +93,7 @@ def prepareJob(df):
             jobTitle,
             jobLevel,
             jobTag,
+            companyName,
         )
 
         if (jobId not in keys):
@@ -279,7 +234,18 @@ def prepareSalary(df):
 
     keys = []
     for index, row in df.iterrows():
-        companyName = str(row[1]).upper()
+        jobTitle = str(row[3])
+        jobLevel = str(row[2])
+        jobTag = "None" if (pd.isna(row[8])) else str(row[8])
+        jobKey = re.sub('\W', '', jobTitle.strip().upper(
+        ) + jobLevel.strip().upper() + jobTag.strip().upper())
+
+        race = "White" if pd.isna(row[27]) else str(row[27])
+        gender = random.choice(["Male", "Female"]) if pd.isna(
+            row[12]) or row[12] == "Title: Senior Software Engineer" else str(row[12])
+        demoKey = re.sub('\W', '', race.strip().upper() +
+                         gender.strip().upper())
+
         country = ""
         state = ""
         city = ""
@@ -295,21 +261,8 @@ def prepareSalary(df):
         if (location.count(",") > 0):
             temp = location.split(",")
             city = temp[0].strip()
-        locationKey = re.sub('\W', '', country.strip().upper(
+        jobLocationKey = re.sub('\W', '', country.strip().upper(
         ) + state.strip().upper() + city.strip().upper())
-        companyKey = re.sub('\W', '', companyName + locationKey)
-
-        jobTitle = str(row[3])
-        jobLevel = str(row[2])
-        jobTag = "None" if (pd.isna(row[8])) else str(row[8])
-        jobKey = re.sub('\W', '', jobTitle.strip().upper(
-        ) + jobLevel.strip().upper() + jobTag.strip().upper())
-
-        race = "White" if pd.isna(row[27]) else str(row[27])
-        gender = random.choice(["Male", "Female"]) if pd.isna(
-            row[12]) or row[12] == "Title: Senior Software Engineer" else str(row[12])
-        demoKey = re.sub('\W', '', race.strip().upper() +
-                         gender.strip().upper())
 
         yearsAtCompany = round(row[7])
         yearsOfExperience = round(row[6])
@@ -325,8 +278,8 @@ def prepareSalary(df):
         bonus = row[11]
 
         data = (
-            companyKey,
             jobKey,
+            jobLocationKey,
             demoKey,
             expKey,
             timeKey,
@@ -346,8 +299,7 @@ def prepareSalary(df):
 def main():
     df = pd.read_csv("source/source_data.csv", index_col=None)
 
-    prepareCompany(df)
-    prepareLocation(df)
+    prepareJobLocation(df)
     prepareJob(df)
     prepareDemographic(df)
     prepareExperience(df)
