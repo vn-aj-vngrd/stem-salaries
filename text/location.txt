@@ -1,4 +1,4 @@
-LocationKey,Country,State,CityId,City,Unnamed: 5
+LocationKey,LocationId,Country,State,CityId,City
 1,UNITEDSTATESCAREDWOODCITY,United States,7392,Redwood City,CA
 2,UNITEDSTATESCASANFRANCISCO,United States,7419,San Francisco,CA
 3,UNITEDSTATESWASEATTLE,United States,11527,Seattle,WA

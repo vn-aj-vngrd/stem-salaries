@@ -60,7 +60,7 @@ def prepareCompany(df):
 
 
 def prepareLocation(df):
-    header = ("LocationKey", "Country", "State", "CityId", "City")
+    header = ("LocationKey", "LocationId", "Country", "State", "CityId", "City")
 
     book = Workbook()
     sheet = book.active
