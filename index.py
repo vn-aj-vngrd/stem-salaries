@@ -11,7 +11,7 @@ def excelToText(filename):
 
 
 def prepareJobLocation(df):
-    header = ("LocationKey", "LocationId",
+    header = ("JobLocationKey", "JobLocationId",
               "Country", "State", "CityId", "City")
 
     book = Workbook()
