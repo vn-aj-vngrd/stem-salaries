@@ -237,8 +237,9 @@ def prepareSalary(df):
         jobTitle = str(row[3])
         jobLevel = str(row[2])
         jobTag = "None" if (pd.isna(row[8])) else str(row[8])
+        companyName = str(row[1]).upper()
         jobKey = re.sub('\W', '', jobTitle.strip().upper(
-        ) + jobLevel.strip().upper() + jobTag.strip().upper())
+        ) + jobLevel.strip().upper() + jobTag.strip().upper() + companyName.strip().upper())
 
         race = "White" if pd.isna(row[27]) else str(row[27])
         gender = random.choice(["Male", "Female"]) if pd.isna(
