@@ -1,16 +1,16 @@
-DemoKey,DemoId,Race,Gender
-1,WHITEMALE,White,Male
-2,WHITEFEMALE,White,Female
-3,WHITEOTHER,White,Other
-4,ASIANFEMALE,Asian,Female
-5,BLACKMALE,Black,Male
-6,ASIANMALE,Asian,Male
-7,TWOORMOREMALE,Two Or More,Male
-8,HISPANICMALE,Hispanic,Male
-9,HISPANICFEMALE,Hispanic,Female
-10,HISPANICOTHER,Hispanic,Other
-11,TWOORMOREFEMALE,Two Or More,Female
-12,BLACKFEMALE,Black,Female
-13,ASIANOTHER,Asian,Other
-14,BLACKOTHER,Black,Other
-15,TWOORMOREOTHER,Two Or More,Other
+DemographicKey,DemographicId,Gender,GenderAbbr,Race
+1,WHITEFEMALE,Female,F,White
+2,WHITEMALE,Male,M,White
+3,WHITEOTHER,Other,O,White
+4,ASIANFEMALE,Female,F,Asian
+5,BLACKMALE,Male,M,Black
+6,ASIANMALE,Male,M,Asian
+7,TWOORMOREMALE,Male,M,Two Or More
+8,HISPANICMALE,Male,M,Hispanic
+9,HISPANICFEMALE,Female,F,Hispanic
+10,HISPANICOTHER,Other,O,Hispanic
+11,TWOORMOREFEMALE,Female,F,Two Or More
+12,BLACKFEMALE,Female,F,Black
+13,ASIANOTHER,Other,O,Asian
+14,BLACKOTHER,Other,O,Black
+15,TWOORMOREOTHER,Other,O,Two Or More
