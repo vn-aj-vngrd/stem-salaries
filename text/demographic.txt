@@ -1,6 +1,6 @@
 DemographicKey,DemographicId,Gender,GenderAbbr,Race
-1,WHITEFEMALE,Female,F,White
-2,WHITEMALE,Male,M,White
+1,WHITEMALE,Male,M,White
+2,WHITEFEMALE,Female,F,White
 3,WHITEOTHER,Other,O,White
 4,ASIANFEMALE,Female,F,Asian
 5,BLACKMALE,Male,M,Black

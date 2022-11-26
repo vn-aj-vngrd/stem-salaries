@@ -231,7 +231,7 @@ def prepareDate(df):
 
         dayOfYear = calendarDate.strftime("%j")
         dayOfMonth = calendarDate.strftime("%d")
-        dayOfWeek = calendarDate.strftime("%w")
+        dayOfWeek = int(calendarDate.strftime("%w")) + 1
         dayName = calendarDate.strftime("%A")
         dayNameAbbr = calendarDate.strftime("%a")
 
