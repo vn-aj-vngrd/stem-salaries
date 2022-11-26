@@ -133,6 +133,9 @@ def prepareEducation(df):
         elif (educationId == "Bachelor's Degree"):
             educationName = "Bachelor's Degree"
             educationNameAbbr = "BS"
+        elif (educationId == "Some College"):
+            educationName = "Some College"
+            educationNameAbbr = "SC"
         else:
             educationName = "Highschool"
             educationNameAbbr = "HS"

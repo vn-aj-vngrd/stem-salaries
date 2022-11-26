@@ -3,5 +3,5 @@ EducationKey,EducationId,EducationName,EducationNameAbbr
 2,PhD,Doctorate Degree,PhD
 3,Master's Degree,Master's Degree,MS
 4,Bachelor's Degree,Bachelor's Degree,BS
-5,Some College,Highschool,HS
+5,Some College,Some College,SC
 6,Highschool,Highschool,HS
