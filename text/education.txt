@@ -1,5 +1,5 @@
 EducationKey,EducationId,EducationName,EducationNameAbbr
-1,,None,
+1,NOT APPLICABLE,NOT APPLICABLE,NOT APPLICABLE
 2,PhD,Doctorate Degree,PhD
 3,Master's Degree,Master's Degree,MS
 4,Bachelor's Degree,Bachelor's Degree,BS

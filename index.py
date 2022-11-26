@@ -119,11 +119,11 @@ def prepareEducation(df):
     keys = []
     educationKey = 1
     for index, row in df.iterrows():
-        educationId = "NA" if pd.isna(row[28]) else str(row[28])
+        educationId = "NOT APPLICABLE" if pd.isna(row[28]) else str(row[28])
 
-        if (educationId == "NA"):
-            educationName = "None"
-            educationNameAbbr = "N/A"
+        if (educationId == "NOT APPLICABLE"):
+            educationName = "NOT APPLICABLE"
+            educationNameAbbr = "NOT APPLICABLE"
         elif (educationId == "PhD"):
             educationName = "Doctorate Degree"
             educationNameAbbr = "PhD"
@@ -285,7 +285,7 @@ def prepareSalary(df):
         companyKey = re.sub(
             '\W', '', companyName.strip().upper() + str(cityId).strip())
 
-        educationKey = str(row[28])
+        educationKey = "NOT APPLICABLE" if pd.isna(row[28]) else str(row[28])
 
         baseSalary = 1000 if pd.isna(row[9]) or row[9] == 0 else row[9]
         totalYearlyCompensation = row[4]
