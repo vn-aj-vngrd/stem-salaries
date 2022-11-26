@@ -3,6 +3,7 @@ import pandas as pd
 from numpy import random
 from datetime import datetime
 import re
+import random
 
 
 def excelToText(filename):
@@ -290,7 +291,8 @@ def prepareSalary(df):
 
         educationKey = "NOT APPLICABLE" if pd.isna(row[28]) else str(row[28])
 
-        baseSalary = 1000 if pd.isna(row[9]) or row[9] == 0 else row[9]
+        baseSalary = random.randrange(20000, 200000) if pd.isna(
+            row[9]) or row[9] == 0 else row[9]
         totalYearlyCompensation = row[4]
         bonus = row[11]
 
