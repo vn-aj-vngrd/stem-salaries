@@ -63,7 +63,7 @@ def prepareCompany(df):
         cityId = row[14]
         city = ""
         state = ""
-        country = ""
+        country = "Korea"
 
         location = row[5]
 
@@ -99,7 +99,7 @@ def prepareCompany(df):
 
         if (companyId not in keys):
             keys.append(companyId)
-            print(data)
+            # print(data)
             sheet.append(data)
 
             companyKey += 1
@@ -328,12 +328,12 @@ def prepareSalary(df):
 def main():
     df = pd.read_csv("source/source_data.csv", index_col=None)
 
-    prepareJob(df)
+    # prepareJob(df)
     prepareCompany(df)
-    prepareEducation(df)
-    prepareDemographic(df)
-    prepareDate(df)
-    prepareSalary(df)
+    # prepareEducation(df)
+    # prepareDemographic(df)
+    # prepareDate(df)
+    # prepareSalary(df)
 
 
 main()
